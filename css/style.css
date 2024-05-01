@@ -69,3 +69,7 @@ a:hover, a:focus {
 .nav-link:hover, .nav-link:focus {
     color: var(--pink);
 }
+
+.green {
+    color: var(--green);
+}
