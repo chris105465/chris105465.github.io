@@ -26,9 +26,6 @@ nav {
     border: 2px solid var(--white);
     border-top: none;
 }
-.nav-con {
-    border: none;
-}
 
 a {
     color: var(--green);
@@ -51,6 +48,9 @@ a:hover, a:focus {
     border-radius: 10px;
     background: var(--main-bg);
     border: 2px solid var(--white);
+}
+.nav-con {
+    border: none;
 }
 
 .footer {
