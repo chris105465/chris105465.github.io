@@ -20,16 +20,6 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .card-title {
     color: var(--white);
 }
 
-.copy-field {
-    width: 100%;
-}
-
-.container {
-    border-radius: 10px;
-    background: var(--main-bg);
-    border: 2px solid var(--white);
-}
-
 nav {
     background: var(--main-bg);
     border-radius: 0 0 10px 10px;
@@ -38,19 +28,6 @@ nav {
 }
 .nav-con {
     border: none;
-}
-.footer {
-    border-radius: 10px 10px 0 0;
-    border-bottom: none;
-}
-.card {
-    border-color: var(--white);
-    background: var(--bg-secondary);
-}
-textarea {
-    border-color: var(--green);
-    border-radius: 3px;
-    background: var(--main-bg);
 }
 
 a {
@@ -68,6 +45,30 @@ a:hover, a:focus {
 }
 .nav-link:hover, .nav-link:focus {
     color: var(--pink);
+}
+
+.container {
+    border-radius: 10px;
+    background: var(--main-bg);
+    border: 2px solid var(--white);
+}
+
+.footer {
+    border-radius: 10px 10px 0 0;
+    border-bottom: none;
+}
+
+.card {
+    border-color: var(--white);
+    background: var(--bg-secondary);
+}
+.copy-field {
+    width: 100%;
+}
+textarea {
+    border-color: var(--green);
+    border-radius: 3px;
+    background: var(--main-bg);
 }
 
 .green {
