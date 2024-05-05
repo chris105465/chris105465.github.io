@@ -61,6 +61,7 @@ a:hover, a:focus {
 .card {
     border-color: var(--white);
     background: var(--bg-secondary);
+    overflow: hidden;
 }
 .copy-field {
     width: 100%;
