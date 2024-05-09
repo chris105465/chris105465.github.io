@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Arctic Animals",
+        "img": "arctic-animals.png",
+        "fontColor": "000000",
+        "headerFont": "Tahoma, Verdana, sans-serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "e6e6e6",
+        "bgImg": "https://dl.dropbox.com/s/v2ujosijeedm0wi/arctic-animals.jpg?dl=0",
+        "mainBorder": "2px solid #999",
+        "otherBorder": "2px solid #999"
+    },
+    {
+        "name": "Bees",
+        "img": "bees.png",
+        "fontColor": "000000",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "f2f2f2",
+        "bgImg": "https://dl.dropbox.com/s/qdl7xaz139976wf/bees-and-flowers.jpg?dl=0",
+        "mainBorder": "2px solid #dcdca3",
+        "otherBorder": "2px solid #eedddd"
+    },
+    {
+        "name": "Blue Floral",
+        "img": "blue-floral.png",
+        "fontColor": "ffffff",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "396fac",
+        "bgImg": "https://dl.dropbox.com/s/3fesdkmwph935kk/moroccan-flower-dark.png?dl=0",
+        "mainBorder": "1px solid #142E5F",
+        "otherBorder": "1px solid #142E5F"
+    },
+    {
+        "name": "Blue Tiles",
+        "img": "blue-tiles.png",
+        "fontColor": "000000",
+        "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bgColor": "ffffff",
+        "bgImg": "https://dl.dropbox.com/s/kgti0kaq7psegfh/morocco.png?dl=0",
+        "mainBorder": "1px solid #B0DCE5",
+        "otherBorder": "1px solid #B0DCE5"
+    },
+    {
+        "name": "Circles",
+        "img": "circles.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "'Times New Roman', Times, serif",
+        "bgColor": "000000",
+        "bgImg": "https://dl.dropbox.com/s/27dbkw9a2qv67sn/spiration-dark.png?dl=0",
+        "mainBorder": "3px double #333",
+        "otherBorder": "3px double #333"
+    },
+    {
+        "name": "Floaties",
+        "img": "floaties.png",
+        "fontColor": "000000",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "bgColor": "d7f4f4",
+        "bgImg": "https://dl.dropbox.com/s/ho4xijrd1k5kio0/animal-floaties.jpg?dl=0",
+        "mainBorder": "2px solid #1f7a7a",
+        "otherBorder": "1px solid #1f7a7a"
+    },
+    {
+        "name": "Gray Floral",
+        "img": "gray-floral.png",
+        "fontColor": "000000",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "ffffff",
+        "bgImg": "https://dl.dropbox.com/s/7mzgo2d1bqel20w/greyfloral.png?dl=0",
+        "mainBorder": "1px solid #bfbfbf",
+        "otherBorder": "1px solid #bfbfbf"
+    },
+    {
+        "name": "Orange Flowers",
+        "img": "orange-flowers.png",
+        "fontColor": "000000",
+        "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bgColor": "fdfbe8",
+        "bgImg": "https://dl.dropbox.com/s/7mzgo2d1bqel20w/greyfloral.png?dl=0",
+        "mainBorder": "2px solid #FFB243",
+        "otherBorder": "1px solid #FFB243"
+    },
+    {
+        "name": "Peacock",
+        "img": "peacock.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "bgColor": "1e083b",
+        "bgImg": "https://dl.dropbox.com/s/0sph3vp7prdl78r/peacock.png?dl=0",
+        "mainBorder": "3px double #238630",
+        "otherBorder": "3px double #238630"
+    },
+    {
+        "name": "Pigs",
+        "img": "pigs.png",
+        "fontColor": "000000",
+        "headerFont": "Tahoma, Verdana, sans-serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "f6f6ef",
+        "bgImg": "https://dl.dropbox.com/s/vy44mjc5bfdeqd0/pigs.jpg?dl=0",
+        "mainBorder": "1px solid #d75b99",
+        "otherBorder": "1px dashed #d75b99"
+    },
+    {
+        "name": "Purple Butterflies",
+        "img": "purple-butterflies.png",
+        "fontColor": "000000",
+        "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "e2deed",
+        "bgImg": "https://dl.dropbox.com/s/cgxawn4q5ky505g/purple-butterflies.jpg?dl=0",
+        "mainBorder": "3px double #625095",
+        "otherBorder": "3px double #625095"
+    },
+    {
+        "name": "Retro Cubes",
+        "img": "retro-cubes.png",
+        "fontColor": "000000",
+        "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "fce7e7",
+        "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
+        "mainBorder": "2px solid #ffffff",
+        "otherBorder": "1px solid #ffffff"
+    },
+    {
+        "name": "Roses",
+        "img": "roses.png",
+        "fontColor": "000000",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "FBFEF5",
+        "bgImg": "https://dl.dropbox.com/s/5o04mxyyf9uxgys/roses.jpg?dl=0",
+        "mainBorder": "2px solid #d1d194",
+        "otherBorder": "2px dotted #d1d194"
+    },
+    {
+        "name": "Scales",
+        "img": "scales.png",
+        "fontColor": "ffffff",
+        "headerFont": "Tahoma, Verdana, sans-serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "000000",
+        "bgImg": "https://dl.dropbox.com/s/skqltxsu8eq33yh/black_scales.png?dl=0",
+        "mainBorder": "3px double #ffffff",
+        "otherBorder": "1px solid #ffffff"
+    },
+    {
+        "name": "White Flowers",
+        "img": "white-flowers.png",
+        "fontColor": "000000",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "cccccc",
+        "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
+        "mainBorder": "3px double #dddddd",
+        "otherBorder": "1px solid #dddddd"
+    }
+]
