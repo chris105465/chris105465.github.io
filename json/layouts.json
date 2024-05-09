@@ -1,0 +1,345 @@
+[
+    {
+        "name": "That Assignment You're Avoiding",
+        "img": "assignment.png",
+        "link": "https://dl.dropbox.com/s/gvfbjgp7qvrwpob/assignment.css?st=y22qzufv&dl=0",
+        "green": "",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Daisies",
+        "img": "daisies.png",
+        "link": "https://dl.dropbox.com/s/hbskrhuye5w72vn/daisies.css?st=9cgwv090&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Flower in the Dark",
+        "img": "flower-in-dark.png",
+        "link": "https://dl.dropbox.com/s/va09alay85vpapc/flower-in-dark.css?st=kqoj9kjz&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Honeycomb",
+        "img": "honeycomb.png",
+        "link": "https://dl.dropbox.com/s/du4xbl62hvxm23q/honeycomb.css?st=xa3hkf6q&dl=0",
+        "green": "",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Iridescent",
+        "img": "iridescent.png",
+        "link": "https://dl.dropbox.com/s/ci192qv44qj7wyx/iridescent.css?st=9f08dgec&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Pink Clouds",
+        "img": "pink-clouds.png",
+        "link": "https://dl.dropbox.com/s/69q7r8ykw48ji1w/pink-clouds.css?st=04423qa8&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Pink Skyline",
+        "img": "pink-skyline.png",
+        "link": "https://dl.dropbox.com/s/3znwp1q8uk8ah7y/pink-skyline.css?st=qqi055s5&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Red Sun",
+        "img": "red-sun.png",
+        "link": "https://dl.dropbox.com/s/jfw7ae0q06mprfj/red-sun.css?st=knwphb11&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Stamps",
+        "img": "stamps.png",
+        "link": "https://dl.dropbox.com/s/e9pcidkkv2bx04r/stamps.css?st=f75ndbnq&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Lesbian",
+        "img": "lesbian.png",
+        "link": "https://dl.dropbox.com/s/kpzbpsxc0ooifp5/lesbian.css?st=nw4dm4ts&dl=0",
+        "green": "",
+        "category": "pride"
+    },
+    {
+        "name": "Gay",
+        "img": "gay.png",
+        "link": "https://dl.dropbox.com/s/sc0s9kpo1mz8tzr/gay.css?st=8wwqxvqh&dl=0",
+        "green": "",
+        "category": "pride"
+    },
+    {
+        "name": "Bi Vibes",
+        "img": "bi-vibes.png",
+        "link": "https://dl.dropbox.com/s/oe1efjunk6px3yi/bi-vibes.css?st=k6cdxr7e&dl=0",
+        "green": "",
+        "category": "pride"
+    },
+    {
+        "name": "Trans",
+        "img": "trans.png",
+        "link": "https://dl.dropbox.com/s/oyw4xn1kea6fcpe/trans.css?st=hsjq7d2o&dl=0",
+        "green": "",
+        "category": "pride"
+    },
+    {
+        "name": "Light Rainbow",
+        "img": "pride-rainbow.png",
+        "link": "https://dl.dropbox.com/s/u0cc3voocysdes2/pride-rainbow.css?st=d6wwus5z&dl=0",
+        "green": "green",
+        "category": "pride"
+    },
+    {
+        "name": "Dark Rainbow",
+        "img": "dark-rainbow.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "pride"
+    },
+    {
+        "name": "Enby",
+        "img": "enby.png",
+        "link": "https://dl.dropbox.com/s/lbj0gr6e858v4hs/enby.css?st=m7j9zsye&dl=0",
+        "green": "",
+        "category": "pride"
+    },
+    {
+        "name": "Pan",
+        "img": "pan.png",
+        "link": "https://dl.dropbox.com/s/5xd2v3aide18hgs/pan.css?st=f5e9voy7&dl=0",
+        "green": "",
+        "category": "pride"
+    },
+    {
+        "name": "Boat at Night",
+        "img": "boat-at-night.png",
+        "link": "https://dl.dropbox.com/s/ek8wsew9fh78fct/boat-at-night.css?st=z9x8vbqi&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Cherry Blossoms",
+        "img": "cherryblossom.png",
+        "link": "https://dl.dropbox.com/s/5rovy2ygblbx5lh/cherryblossom.css?st=913bop4r&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Lion Pride",
+        "img": "lion-pride.png",
+        "link": "https://dl.dropbox.com/s/asxzzdyaavlitln/lion-pride.css?st=k84yji54&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Moss Crystal",
+        "img": "moss-crystal.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Mossy Forest",
+        "img": "mossy-forest.png",
+        "link": "https://dl.dropbox.com/s/95b9uaiuu23730a/mossy-forest.css?st=8fomu6pd&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Rocky Arch",
+        "img": "rocky-arch.png",
+        "link": "https://dl.dropbox.com/s/2ecm987no8rlo7f/rocky-arch.css?st=4hqlkbhf&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Spacey Blue",
+        "img": "space-blue.png",
+        "link": "https://dl.dropbox.com/s/9nwk5tszv2eqqp9/space-blue.css?st=dz5yr703&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Spring Bird",
+        "img": "spring-bird.png",
+        "link": "https://dl.dropbox.com/scl/fi/31al6hhj7e8b8llipy39n/spring-bird.css?rlkey=1fbj45zxxoh8a7jv467tix0jy&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Spring Night",
+        "img": "spring-night.png",
+        "link": "https://dl.dropbox.com/scl/fi/8b4j9ibzojqz0ykv4mp6x/spring-night.css?rlkey=t0bh52i05dvbrcnya6t0xk6mx&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Summer Beach",
+        "img": "season-summer.png",
+        "link": "https://dl.dropbox.com/s/bh9bc8qn34hw3av/season-summer.css?st=3mozwk3s&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Summer Sunset",
+        "img": "summer-sunset.png",
+        "link": "https://dl.dropbox.com/scl/fi/eoi1obt2euciui5b1pa7d/beach-sunset.css?rlkey=k64kse5oiil6ibq21f787280w&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Autumn Leaves",
+        "img": "season-autumn.png",
+        "link": "https://dl.dropbox.com/s/mjxngzts6htv00r/season-autumn.css?st=ff9de6if&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Harvest Moon",
+        "img": "harvest-moon.png",
+        "link": "https://dl.dropbox.com/scl/fi/hr6joomzopye5pi1wl8y8/harvest-moon.css?rlkey=40w3ykqp7qhimd9birhpcnq18&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Winter Pond",
+        "img": "winter-pond.png",
+        "link": "https://dl.dropbox.com/scl/fi/drkqbxpjftn87g26z0xtv/winter-pond.css?rlkey=bfjzvudl1yf6kgthk6v6g7d0f&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Winter Ice",
+        "img": "season-winter.png",
+        "link": "https://dl.dropbox.com/s/lysms1dxcqc67pp/season-winter.css?st=u67r16gi&dl=0",
+        "green": "green",
+        "category": "seasonal"
+    },
+    {
+        "name": "Blue and Peach",
+        "img": "blue-and-peach.png",
+        "link": "https://dl.dropbox.com/s/d0qidmqkzfek5sp/blue-and-peach.css?st=10r1suyp&dl=0",
+        "green": "",
+        "category": "simple"
+    },
+    {
+        "name": "Pink Skulls",
+        "img": "pink-skulls.png",
+        "link": "https://dl.dropbox.com/scl/fi/u5b6muemvnhxq46rk42ba/pink-skulls.css?rlkey=6uqpqf90gnm5q0z62fvtpn8vi&st=jqihso3i&dl=0",
+        "green": "green",
+        "category": "simple"
+    },
+    {
+        "name": "Plum and Silver",
+        "img": "plum-and-blue.png",
+        "link": "https://dl.dropbox.com/s/ez1nibutgz96tm2/plum-and-blue.css?st=4q2wyzj6&dl=0",
+        "green": "",
+        "category": "simple"
+    },
+    {
+        "name": "Wine and Bone",
+        "img": "wine-and-bone.png",
+        "link": "https://dl.dropbox.com/s/3hhcjlvr72u9mbb/wine-and-bone.css?st=psvvq5mr&dl=0",
+        "green": "",
+        "category": "simple"
+    },
+    {
+        "name": "Winter",
+        "img": "winter.png",
+        "link": "https://dl.dropbox.com/s/sneh57hnf8tbmdj/winter.css?st=12bdnv1i&dl=0",
+        "green": "",
+        "category": "simple"
+    },
+    {
+        "name": "Lights out Blue",
+        "img": "twt-dark-blue.png",
+        "link": "https://dl.dropbox.com/s/cd4hyubhyaggh5q/twt-dark-blue.css?st=fxehgs2h&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Lights out Green",
+        "img": "twt-dark-green.png",
+        "link": "https://dl.dropbox.com/s/9e5esvoikk78uby/twt-dark-green.css?st=pr1p6lv3&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Lights out Orange",
+        "img": "twt-dark-orange.png",
+        "link": "https://dl.dropbox.com/s/b7xdeeb416gba06/twt-dark-orange.css?st=admgthj7&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Lights out Pink",
+        "img": "twt-dark-pink.png",
+        "link": "https://dl.dropbox.com/s/qgvxlw754u2fuw0/twt-dark-pink.css?st=kowf7ctt&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Lights out Purple",
+        "img": "twt-dark-purple.png",
+        "link": "https://dl.dropbox.com/s/svxmswoyzkibq4b/twt-dark-purple.css?st=6at1ozad&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Lights out Yellow",
+        "img": "twt-dark-yellow.png",
+        "link": "https://dl.dropbox.com/s/awt1i6r9zwpzzwc/twt-dark-yellow.css?st=rhdvhud8&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Dim Blue",
+        "img": "twt-dim-blue.png",
+        "link": "https://dl.dropbox.com/s/i9v7n4z11alteya/twt-dim-blue.css?st=wi0kz19c&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Dim Green",
+        "img": "twt-dim-green.png",
+        "link": "https://dl.dropbox.com/s/1wz8xvnknooc5ef/twt-dim-green.css?st=emncn77k&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Dim Orange",
+        "img": "twt-dim-orange.png",
+        "link": "https://dl.dropbox.com/s/bcugooowqbi14hn/twt-dim-orange.css?st=hxj719gu&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Dim Pink",
+        "img": "twt-dim-pink.png",
+        "link": "https://dl.dropbox.com/s/k7efgzm69z6asmn/twt-dim-pink.css?st=d396cycj&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Dim Purple",
+        "img": "twt-dim-purple.png",
+        "link": "https://dl.dropbox.com/s/xkwdr28c714i7ng/twt-dim-purple.css?st=24yzuudl&dl=0",
+        "green": "",
+        "category": "twt"
+    },
+    {
+        "name": "Dim Yellow",
+        "img": "twt-dim-yellow.png",
+        "link": "https://dl.dropbox.com/s/84cilc4o95csq49/twt-dim-yellow.css?st=9av6rqgj&dl=0",
+        "green": "",
+        "category": "twt"
+    }
+]
