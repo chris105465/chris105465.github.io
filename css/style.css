@@ -71,6 +71,10 @@ textarea {
     border-radius: 3px;
     background: var(--main-bg);
 }
+textarea:focus, textarea:focus-visible {
+    outline: none;
+    border-color: var(--pink);
+}
 
 .green {
     color: var(--green);
