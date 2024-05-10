@@ -14,8 +14,7 @@
         <nav class="navbar navbar-expand-lg sticky-top">
             <div class="container-fluid">
                 <a class="navbar-brand ms-2" href="./index.html">Chris' Codes</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
-                    aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarToggler">
@@ -36,16 +35,24 @@
     </div>
     <div class="container mt-2 mt-md-5 px-4">
         <div class="row py-3">
-            <div class="col">
-                <!-- 
-                    TODO: bio boxes, various tips and other resources
-                    TODO: add links to the den box and html template sections
-                -->
+            <div class="col pb-2">
                 <h3 class="pb-2">Den Boxes</h3>
                 <p>The den boxes found on my free CSS page already have the bulk of the styling done for you, but you'll
                     still need to add style information such as the background color, text color, and borders yourself.
                     There's already placeholder information for the background and text colors included, but you can
                     easily add more style information by adding more CSS properties to the style attribute.</p>
+                <div class="card mb-3" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Notable Resources</h5>
+                        <ul class="pb-0 mb-0">
+                            <li><a href="https://www.w3schools.com/html/html_styles.asp">HTML Style Attribute</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_border_shorthand.asp">Border Style</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_border_rounded.asp">Border Radius</a></li>
+                            <li><a href="https://www.w3schools.com/html/html_headings.asp">Headers</a></li>
+                            <li><a href="https://www.w3schools.com/colors/colors_names.asp">HTML Color Names</a></li>
+                        </ul>
+                    </div>
+                </div>
                 <p>For example, if you wanted to change the default borders, you would add something like border: 1px
                     solid #333 onto the style information. You can do the same with anything else you want to change
                     about the boxes. You could also take the file that I have the default code in and duplicate and edit
@@ -53,44 +60,76 @@
                     if you are already familiar with CSS as it will make it much easier to make quick changes. I find
                     that CSS files are easier to read from than the style attribute on an html element since there's
                     spacing between the CSS properties.</p>
-                <p>You can find more info about styling HTML elements on w3schools and mdn web docs.</p>
                 <h3 class="pb-2">HTML Templates</h3>
                 <p>Do you want to make your own HTML template? Then this is the section for you! I will be including the
                     base template I use for all of my free ones that you are welcome to edit as much as you like. I just
                     ask that the credit section that links to my page remain intact as I am the one who coded the base.
                     By extension, I'd rather the base not be used for commissions or remixed into any further free
-                    HTML.
+                    HTML as I don't want anyone selling or distributing anything with my name on it but me or specifically
+                    my bestie because I let her do whatever she wants all the time.
                 </p>
+                <div class="card my-3" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Notable Resources</h5>
+                        <ul class="pb-0 mb-0">
+                            <li><a href="https://www.w3schools.com/html/html_styles.asp">HTML Style Attribute</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_border_shorthand.asp">Border Style</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_background.asp">Background Image/Color</a></li>
+                            <li><a href="https://www.w3schools.com/colors/colors_names.asp">HTML Color Names</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_font.asp">Font Family</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_font_websafe.asp">Web Safe Fonts</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_padding.asp">Padding</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_float.asp">Float</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_text_align.asp">Text Alignment</a></li>
+                            <li><a href="https://heropatterns.com/">Hero Patterns</a></li>
+                        </ul>
+                    </div>
+                </div>
                 <label for="htmlTemplate">Base Code</label>
-                <textarea name="copy-field" id="htmlTemplate" rows="10" class="copy-field"></textarea>
-                <p class="pt-3">When it comes to choosing a background image, it is much different from choosing an
+                <textarea name="copy-field" id="htmlTemplate" rows="15" class="copy-field">&lt;div style="max-height:90vh;height:auto;min-width:450px;">&lt;table style="background: url('IMGLINK') repeat; background-attachment: fixed; width: 100%;max-height: 90vh; height: auto; border: BORDERSTYLE; padding: 0;">&lt;tbody>&lt;tr>&lt;td style="padding-bottom: 3%; font-family: BODYFONT; font-size: 1em;">&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE; margin: 3%; margin-bottom: 0; width: 94%; padding: 20px; font-family: HEADERFONT; font-size: 2em; text-align: center; float: left;">&lt;font color="#HEXCODE">Big Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE; margin: 3%; margin-right: 1.5%; margin-bottom: 0; width: 45.5%; padding: 20px; font-family: HEADERFONT; font-size: 1.5em; text-align: center; float: left;">&lt;font color="#HEXCODE">Left Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE; margin: 3%; margin-left: 1.5%; margin-bottom: 0; width: 45.5%; padding: 20px; font-family: HEADERFONT; font-size: 1.5em; text-align: center; float: right;">&lt;font color="#HEXCODE">Right Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE; margin: 3%; margin-bottom: 0; margin-right: 1.5%; width: 45.5%;  padding: 20px; text-align: left; float: left;">&lt;font color="#HEXCODE">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi neque minima odit necessitatibus dolores nostrum sed delectus cum sapiente architecto, inventore doloremque, ad ipsam id dignissimos expedita?&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE; margin: 3%; margin-bottom: 0; margin-left: 1.5%; width: 45.5%; padding: 20px; text-align: left; float: right;">&lt;font color="#HEXCODE">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sapiente expedita repudiandae ab ipsa harum nisi dignissimos? Voluptas id neque numquam quo tenetur perferendis rerum eum ad! Quae, architecto consectetur!&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE;margin: 3%; margin-bottom: 0; width: 94%; padding: 20px; font-family: HEADERFONT; font-size: 1.5em; text-align: center; float: left;">&lt;font color="#HEXCODE">Wide Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE;margin: 3%; margin-bottom: 0; width: 94%; padding: 20px; text-align: left; float: left;">&lt;font color="#HEXCODE">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, quas earum inventore, soluta laborum, veritatis voluptatem quos aliquam laudantium repellat qui nulla optio molestiae eum temporibus quaerat necessitatibus praesentium! Magnam?&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #HEXCODE; border: BORDERSTYLE;margin: 3%; margin-bottom: 0; width: 94%; padding: 10px; font-size: 0.8em; text-align: center; float: left;">&lt;font color="#HEXCODE">HTML Template by &lt;a href="https://lioden.com/territory.php?id=105465">Chris (#105465)&lt;/a>&lt;/font>&lt;/span>&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div></textarea>
+                <p class="pt-2">When it comes to choosing a background image, it is much different from choosing an
                     image for a CSS
                     layout. In this case, smaller is better. What you'll want for the best results I've found is a
                     small, smoothly repeatable image. I find that the best places to find those are through fabric
-                    stores (I usually look at cotton fabrics since they have the widest array of options typically) and
+                    websites (I usually look at cotton fabrics since they have the widest array of options typically) and
                     pattern generaters. Since you <em>shouldn't</em> be using these for commissions, there's less to
                     worry about when it comes to things like copyright, but generally you should avoid anything that is
                     copyrighted material anyway in my experience. Simple repeating patterns with only one or two main
                     colors are typically the easiest to work with. From there, you'll just need to screenshot the
-                    portion you want repeated, resize it down a bit if necessary, host it somewhere, and then it's ready
-                    to be
-                    linked as your background image.</p>
+                    portion you want repeated since HTML styling doesn't support SVGs like with CSS, resize it down a bit
+                    if necessary, host it somewhere, and then it's ready to be linked as your background image.</p>
                 <p>That's really the toughest part of making a template. The rest is just the repetitive process of
-                    replacing any of the colors, fonts, and borders with what you want, which can become second nature
-                    once you've gotten the hang of it. Some good resources to check for that process would be on
-                    w3schools if you're still pretty new and mdn web docs if you've got some experience and don't mind
-                    doing some extra reading into everythig you can do.</p>
+                    replacing any of the colors, fonts, and borders with what you want, which becomes second nature
+                    once you've gotten the hang of it.</p>
                 <p>Although, it's also important to keep in mind how fonts work on Lioden forums. You can't import any
                     fonts onto your threads, so your best bet is to stick to what are called Web Safe Fonts. But
                     choosing a web safe font still doesn't guarantee it'll work for everyone who views your thread. For
                     example, Brush Script MT is a gorgeous font and works great on my home computer, but on my phone and
-                    chromebook, Brush Script MT isn't a supported font. That's why backup fonts are so important. In the
-                    event that someone viewing your thread might not be on abrowser that supports the first font you
-                    pick, you should always list one or two and end it with a generic such as serif or sans-serif. After
+                    chromebook, Brush Script MT isn't supported. That's why backup fonts are so important. In the
+                    event that someone viewing your thread might not be on a browser that supports the first font you
+                    pick, you should always list one or two and end it with a generic font-family such as serif or sans-serif. After
                     all, your thread with Brush Script MT headers would give off an entirely different vibe to someone
                     who the only cursive font their browser supports is Comic Sans (which is the case on my chromebook).
                     Basically, just always have a second and third favorite in mind and add them on there just to be
                     safe. The people who view your threads will be grateful for the extra work.</p>
+                <h3 class="pb-2">Bio Boxes</h3>
+                <p>I've also got this code for if you wanna spice up the bio for one of your lions. You can see an example of it on a lot of my recent kings. I don't recommend changing the width as I set it the way I did so it would display nicely on phones. Aside from that, I encourage you to play around with it.</p>
+                <div class="card mb-3" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Notable Resources</h5>
+                        <ul class="pb-0 mb-0">
+                            <li><a href="https://www.w3schools.com/html/html_styles.asp">HTML Style Attribute</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_border_shorthand.asp">Border Style</a></li>
+                            <li><a href="https://www.w3schools.com/colors/colors_names.asp">HTML Color Names</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_font.asp">Font Family</a></li>
+                            <li><a href="https://www.w3schools.com/css/css_font_websafe.asp">Web Safe Fonts</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <label for="bioCode">HTML Code</label>
+                <textarea name="copy-field" id="bioCode" class="copy-field" rows="4">&lt;br />&lt;p style="padding-top: 20px; font-family: FONTFAMILY;text-align: center; width: 450px; margin: auto; border: BORDERSTYLE; border-bottom:none; background-color: #HEXCODE;">&lt;font size="6">&lt;font color="#HEXCODE">NAME&lt;/font>&lt;/font>&lt;/p>&lt;p style="padding: 10px; padding-left: 20px; padding-right: 20px; width: 450px; margin: auto; font-family: FONTFAMILY; border: BORDERSTYLE; border-top: none; background-color: #HEXCODE;">TEXT&lt;/p>&lt;br /></textarea>
+                <h3 class="pb-2 pt-3">Miscellaneous Tips</h3>
+                <p>This section is under contruction! Thank you very much for your patience.</p>
             </div>
         </div>
     </div>
