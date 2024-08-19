@@ -8,7 +8,8 @@
         "bgColor": "e6e6e6",
         "bgImg": "https://dl.dropbox.com/s/v2ujosijeedm0wi/arctic-animals.jpg?dl=0",
         "mainBorder": "2px solid #999",
-        "otherBorder": "2px solid #999"
+        "otherBorder": "2px solid #999",
+        "linkColor": "555"
     },
     {
         "name": "Bees",
@@ -19,7 +20,8 @@
         "bgColor": "f2f2f2",
         "bgImg": "https://dl.dropbox.com/s/qdl7xaz139976wf/bees-and-flowers.jpg?dl=0",
         "mainBorder": "2px solid #dcdca3",
-        "otherBorder": "2px solid #eedddd"
+        "otherBorder": "2px solid #eedddd",
+        "linkColor": "4a4a1c"
     },
     {
         "name": "Blue Floral",
@@ -27,10 +29,11 @@
         "fontColor": "ffffff",
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
-        "bgColor": "396fac",
+        "bgColor": "1c305d",
         "bgImg": "https://dl.dropbox.com/s/3fesdkmwph935kk/moroccan-flower-dark.png?dl=0",
-        "mainBorder": "1px solid #142E5F",
-        "otherBorder": "1px solid #142E5F"
+        "mainBorder": "1px solid #174578",
+        "otherBorder": "1px solid #174578",
+        "linkColor": "b1c2e7"
     },
     {
         "name": "Blue Tiles",
@@ -41,7 +44,8 @@
         "bgColor": "ffffff",
         "bgImg": "https://dl.dropbox.com/s/kgti0kaq7psegfh/morocco.png?dl=0",
         "mainBorder": "1px solid #B0DCE5",
-        "otherBorder": "1px solid #B0DCE5"
+        "otherBorder": "1px solid #B0DCE5",
+        "linkColor": "2d7786"
     },
     {
         "name": "Circles",
@@ -52,7 +56,8 @@
         "bgColor": "000000",
         "bgImg": "https://dl.dropbox.com/s/27dbkw9a2qv67sn/spiration-dark.png?dl=0",
         "mainBorder": "3px double #333",
-        "otherBorder": "3px double #333"
+        "otherBorder": "3px double #333",
+        "linkColor": "aaa"
     },
     {
         "name": "Floaties",
@@ -63,7 +68,8 @@
         "bgColor": "d7f4f4",
         "bgImg": "https://dl.dropbox.com/s/ho4xijrd1k5kio0/animal-floaties.jpg?dl=0",
         "mainBorder": "2px solid #1f7a7a",
-        "otherBorder": "1px solid #1f7a7a"
+        "otherBorder": "1px solid #1f7a7a",
+        "linkColor": "1a6565"
     },
     {
         "name": "Gray Floral",
@@ -74,7 +80,8 @@
         "bgColor": "ffffff",
         "bgImg": "https://dl.dropbox.com/s/7mzgo2d1bqel20w/greyfloral.png?dl=0",
         "mainBorder": "1px solid #bfbfbf",
-        "otherBorder": "1px solid #bfbfbf"
+        "otherBorder": "1px solid #bfbfbf",
+        "linkColor": "555"
     },
     {
         "name": "Orange Flowers",
@@ -83,9 +90,10 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bgColor": "fdfbe8",
-        "bgImg": "https://dl.dropbox.com/s/7mzgo2d1bqel20w/greyfloral.png?dl=0",
+        "bgImg": "https://dl.dropbox.com/scl/fi/y8p506cy80dzqtrw75bkd/flowers-like-sun.jpg?rlkey=wax2wutqtkwtlp9p5seretmln&st=x98ut83g&dl=0",
         "mainBorder": "2px solid #FFB243",
-        "otherBorder": "1px solid #FFB243"
+        "otherBorder": "1px solid #FFB243",
+        "linkColor": "995900"
     },
     {
         "name": "Peacock",
@@ -96,7 +104,8 @@
         "bgColor": "1e083b",
         "bgImg": "https://dl.dropbox.com/s/0sph3vp7prdl78r/peacock.png?dl=0",
         "mainBorder": "3px double #238630",
-        "otherBorder": "3px double #238630"
+        "otherBorder": "3px double #238630",
+        "linkColor": "34cb48"
     },
     {
         "name": "Pigs",
@@ -107,7 +116,8 @@
         "bgColor": "f6f6ef",
         "bgImg": "https://dl.dropbox.com/s/vy44mjc5bfdeqd0/pigs.jpg?dl=0",
         "mainBorder": "1px solid #d75b99",
-        "otherBorder": "1px dashed #d75b99"
+        "otherBorder": "1px dashed #d75b99",
+        "linkColor": "a42866"
     },
     {
         "name": "Purple Butterflies",
@@ -118,7 +128,8 @@
         "bgColor": "e2deed",
         "bgImg": "https://dl.dropbox.com/s/cgxawn4q5ky505g/purple-butterflies.jpg?dl=0",
         "mainBorder": "3px double #625095",
-        "otherBorder": "3px double #625095"
+        "otherBorder": "3px double #625095",
+        "linkColor": "423663"
     },
     {
         "name": "Retro Cubes",
@@ -129,7 +140,8 @@
         "bgColor": "fce7e7",
         "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
         "mainBorder": "2px solid #ffffff",
-        "otherBorder": "1px solid #ffffff"
+        "otherBorder": "1px solid #ffffff",
+        "linkColor": "i gotta find a purple"
     },
     {
         "name": "Roses",
