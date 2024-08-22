@@ -14,8 +14,7 @@
         <nav class="navbar navbar-expand-lg sticky-top">
             <div class="container-fluid">
                 <a class="navbar-brand ms-2" href="./index.html">Chris' Codes</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
-                    aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarToggler">
@@ -90,54 +89,62 @@
         </div>
         <div class="row pb-3">
             <h3 class="pb-2" id="boxes">Box Add-ons</h3>
-            <p class="pb-2">You can only use one of these add-ons at a
+            <p class="">You can only use one of these add-ons at a
                 time as they will override each other. When pasting the HTML snippets into your territory description,
                 be sure never to add any extra spaces (as in the Enter key) beyond what is already included to keep them
                 displaying as intended. This has to do with the way LD is coded, so I really can't do much to fix that
                 unfortunately. Feel free to message me if you have any questions and please check the tutorials page
-                more more information on styling these boxes yourself.</p>
+                more more information on styling these boxes yourself. To paste in the CSS link, just paste it at the very top of the territory description, and if you have a CSS Layout, paste this code right after it.</p>
+            <p class="pb-2">The preview images display how they look with no style changes made. As the name suggests, the first set of boxes become larger when hovered over, but on mobile they are set to be taller with no expansion to make them easier to read. Hover effects can be a bit odd on mobile. Speaking of mobile, all my boxes are also made visible on mobile by default.</p>
             <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
                 <div class="card h-100">
-                    <img src="./img/boxes/img.png" class="card-img-top" alt="Hover Expanding Boxes Preview">
+                    <img src="./img/boxes/hover-boxes.png" class="card-img-top" alt="Hover Expanding Boxes Preview">
                     <div class="card-body">
                         <h5 class="card-title pb-1">Hover Expanding Boxes</h5>
-                        <label for="hoverBoxCSS" class="pb-2">CSS Link</label>
-                        <textarea id="hoverBoxCSS" name="copy-field" class="copy-field"
-                            rows="4">&lt;link rel="stylesheet" type="text/css" href="LINK" /></textarea>
-                        <label for="hoverBigBox" class="py-2">HTML (Big Box)</label>
-                        <textarea id="hoverBigBox" name="copy-field" class="copy-field"
-                            rows="3">&lt;div class="bigBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">TEXT HERE&lt;/div></textarea>
-                        <label for="hoverTwoBox" class="py-2">HTML (Two Small Boxes)</label>
-                        <textarea id="hoverTwoBox" name="copy-field" class="copy-field"
-                            rows="6">&lt;div class="scrollSection">&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">RIGHT TEXT HERE&lt;/div>&lt;/div></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="hoverBoxCSS" class="pb-2">CSS Link</label><button onclick="copyButton('hoverBoxCSS')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="hoverBoxCSS" name="copy-field" class="copy-field" rows="5">&lt;link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/scl/fi/fbeqnn840dq1do39czvml/hover-boxes.css?rlkey=wx1u1lk2oxsjhrwbpr3q7uttc&st=nb35gkr9&dl=0" /></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="hoverBigBox" class="py-2">HTML (Big Box)</label><button onclick="copyButton('hoverBigBox')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="hoverBigBox" name="copy-field" class="copy-field" rows="3">&lt;div class="bigBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">TEXT HERE&lt;/div></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="hoverTwoBox" class="py-2">HTML (Two Small Boxes)</label><button onclick="copyButton('hoverTwoBox')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="hoverTwoBox" name="copy-field" class="copy-field" rows="6">&lt;div class="scrollSection">&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">RIGHT TEXT HERE&lt;/div>&lt;/div></textarea>
                     </div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
                 <div class="card h-100">
-                    <img src="./img/boxes/img.png" class="card-img-top" alt="Static Box Layout #1 Preview">
+                    <img src="./img/boxes/static-1.png" class="card-img-top" alt="Static Box Layout #1 Preview">
                     <div class="card-body">
                         <h5 class="card-title pb-1">Static Box Layout #1</h5>
-                        <label for="staticOneCSS" class="pb-2">CSS Link</label>
-                        <textarea id="staticOneCSS" name="copy-field" class="copy-field"
-                            rows="4">&lt;link rel="stylesheet" type="text/css" href="LINK" /></textarea>
-                        <label for="staticOneHTML" class="py-2">HTML</label>
-                        <textarea id="staticOneHTML" name="copy-field" class="copy-field"
-                            rows="8">&lt;div class="scrollSection">&lt;div class="bigBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">TOP TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">BOTTOM TEXT HERE&lt;/div>&lt;/div></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="staticOneCSS" class="pb-2">CSS Link</label><button onclick="copyButton('staticOneCSS')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="staticOneCSS" name="copy-field" class="copy-field" rows="5">&lt;link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/scl/fi/4b50irmlxvc3oux4uwjsk/static-1.css?rlkey=4wdaeqvblaw2zwp1bob6z465p&st=zby1mzaa&dl=0" /></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="staticOneHTML" class="py-2">HTML</label><button onclick="copyButton('staticOneHTML')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="staticOneHTML" name="copy-field" class="copy-field" rows="8">&lt;div class="scrollSection">&lt;div class="bigBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">TOP TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">BOTTOM TEXT HERE&lt;/div>&lt;/div></textarea>
                     </div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
                 <div class="card h-100">
-                    <img src="./img/boxes/img.png" class="card-img-top" alt="Static Box Layout #2 Preview">
+                    <img src="./img/boxes/static-2.png" class="card-img-top" alt="Static Box Layout #2 Preview">
                     <div class="card-body">
                         <h5 class="card-title pb-1">Static Box Layout #2</h5>
-                        <label for="staticTwoCSS" class="pb-2">CSS Link</label>
-                        <textarea id="staticTwoCSS" name="copy-field" class="copy-field"
-                            rows="4">&lt;link rel="stylesheet" type="text/css" href="LINK" /></textarea>
-                        <label for="staticTwoHTML" class="py-2">HTML</label>
-                        <textarea id="staticTwoHTML" name="copy-field" class="copy-field"
-                            rows="8">&lt;div class="scrollSection">&lt;div class="bigBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">RIGHT TEXT HERE&lt;/div>&lt;/div>&lt;div class="plainBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">BOTTOM TEXT HERE&lt;/div></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="staticTwoCSS" class="pb-2">CSS Link</label><button onclick="copyButton('staticTwoCSS')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="staticTwoCSS" name="copy-field" class="copy-field" rows="5">&lt;link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/scl/fi/hagabhrkwkybvz6mmhlec/static-2.css?rlkey=2l992ave8i6kkrljnque3jorc&st=0fdt3ifw&dl=0" /></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="staticTwoHTML" class="py-2">HTML</label><button onclick="copyButton('staticTwoHTML')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="staticTwoHTML" name="copy-field" class="copy-field" rows="8">&lt;div class="scrollSection">&lt;div class="bigBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">RIGHT TEXT HERE&lt;/div>&lt;/div>&lt;div class="plainBox" style="background-color: #HEXCODE; border: 1px solid #HEXCODE">BOTTOM TEXT HERE&lt;/div></textarea>
                     </div>
                 </div>
             </div>
