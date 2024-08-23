@@ -7,6 +7,13 @@
         "category": "aesthetic"
     },
     {
+        "name": "Charred Wood",
+        "img": "charred-wood.png",
+        "link": "https://dl.dropbox.com/scl/fi/fug26ca908wzvgukmoump/charred-wood.css?rlkey=klh4xgro1la2u4rrqxecta373&st=gafkv3m1&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
         "name": "Daisies",
         "img": "daisies.png",
         "link": "https://dl.dropbox.com/s/hbskrhuye5w72vn/daisies.css?st=9cgwv090&dl=0",
@@ -100,7 +107,7 @@
     {
         "name": "Dark Rainbow",
         "img": "dark-rainbow.png",
-        "link": "TBA",
+        "link": "https://dl.dropbox.com/scl/fi/keyzof55eiyrf8dppuirx/dark-rainbow.css?rlkey=7i63iszln8vqmih3hfakrzq3w&st=7zzxpxy7&dl=0",
         "green": "green",
         "category": "pride"
     },
@@ -140,9 +147,9 @@
         "category": "scenic"
     },
     {
-        "name": "Moss Crystal",
+        "name": "Moss Forest Orb",
         "img": "moss-crystal.png",
-        "link": "TBA",
+        "link": "https://dl.dropbox.com/scl/fi/wc7oog65s8sddnhjnsps3/moss-crystal.css?rlkey=fxtyujalqsz03l4yb0k27qv6e&st=hvrdpf7f&dl=0",
         "green": "green",
         "category": "scenic"
     },
@@ -150,6 +157,20 @@
         "name": "Mossy Forest",
         "img": "mossy-forest.png",
         "link": "https://dl.dropbox.com/s/95b9uaiuu23730a/mossy-forest.css?st=8fomu6pd&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Mountain Pass",
+        "img": "mountain-pass.png",
+        "link": "https://dl.dropbox.com/scl/fi/3ip0awk4e7pb310wgzsim/mountain-pass.css?rlkey=ks3kqv95941eukad640bu3pxx&st=3b2wb3pk&dl=0",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Purple Lightning",
+        "img": "purple-lightning.png",
+        "link": "https://dl.dropbox.com/scl/fi/ca32bizlz8lu4vtt1drl7/purple-lightning.css?rlkey=n8paw4lv4d8d8j49631b1jbv0&st=bgv2igz3&dl=0",
         "green": "green",
         "category": "scenic"
     },
