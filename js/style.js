@@ -16,6 +16,7 @@ async function populateLayouts() {
 
 function displayLayouts(css) {
     const aesthetic = gID('aestheticCon')
+    const animal = gID('animalCon')
     const event = gID('eventCon')
     const pride = gID('prideCon')
     const scenic = gID('scenicCon')
@@ -33,6 +34,8 @@ function displayLayouts(css) {
 
         if (entry.category == "aesthetic") {
             aesthetic.appendChild(card)
+        } else if (entry.category == "animal") {
+            animal.appendChild(card)
         } else if (entry.category == "event") {
             event.appendChild(card)
         } else if (entry.category == "pride") {
@@ -71,7 +74,7 @@ function displayTemplates(html) {
         card.classList = "card mb-3"
 
         let codeName = entry.name
-        codeName = codeName.replace(/\s+/g, '')
+        codeName = codeName.replace(/[&\/\#, +()$~%.'":@^*?<>{}]/g, '')
 
         card.innerHTML = `<div class="row g-0"><div class="col-12 col-md-6 col-lg-4"><img src="./img/html/${entry.img}" class="img-fluid" alt="${entry.name} Template Preview"></div><div class="col-12 col-md-6 col-lg-8"><div class="card-body"><h5 class="card-title mb-3 mt-1"><div class="d-flex justify-content-between align-items-end"><label for="${codeName}Code">${entry.name}</label><button onclick="copyButton('${codeName}Code')" class="btn btn-primary">Copy Code</button></div></h5>` +
             `<textarea id="${codeName}Code" name="copy-field" rows="10" class="copy-field">&lt;div style="max-height:90vh;height:auto;min-width:450px;">&lt;table style="background: url('${entry.bgImg}') repeat; background-attachment: fixed; width: 100%;max-height: 90vh; height: auto; border: ${entry.mainBorder}; padding: 0;">&lt;tbody>&lt;tr>&lt;td style="padding-bottom: 3%; font-family: ${entry.bodyFont}; font-size: 1em;">&lt;span style="background-color: #${entry.bgColor}; border: ${entry.otherBorder}; margin: 3%; margin-bottom: 0; width: 94%; padding: 20px; font-family: ${entry.headerFont}; font-size: 2em; text-align: center; float: left;">&lt;font color="#${entry.fontColor}">Big Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #${entry.bgColor}; border: ${entry.otherBorder}; margin: 3%; margin-right: 1.5%; margin-bottom: 0; width: 45.5%; padding: 20px; font-family: ${entry.headerFont}; font-size: 1.5em; text-align: center; float: left;">&lt;font color="#${entry.fontColor}">Left Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #${entry.bgColor}; border: ${entry.otherBorder}; margin: 3%; margin-left: 1.5%; margin-bottom: 0; width: 45.5%; padding: 20px; font-family: ${entry.headerFont}; font-size: 1.5em; text-align: center; float: right;">&lt;font color="#${entry.fontColor}">Right Header&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #${entry.bgColor}; border: ${entry.otherBorder}; margin: 3%; margin-bottom: 0; margin-right: 1.5%; width: 45.5%;  padding: 20px; text-align: left; float: left;">&lt;font color="#${entry.fontColor}">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi neque minima odit necessitatibus dolores nostrum sed delectus cum sapiente architecto, inventore doloremque, ad ipsam id dignissimos expedita?&lt;/font>&lt;/span>&#10;&lt;span style="background-color: #${entry.bgColor}; border: ${entry.otherBorder}; margin: 3%; margin-bottom: 0; margin-left: 1.5%; width: 45.5%; padding: 20px; text-align: left; float: right;">&lt;font color="#${entry.fontColor}">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sapiente expedita repudiandae ab ipsa harum nisi dignissimos? Voluptas id neque numquam quo tenetur perferendis rerum eum ad! Quae, architecto consectetur!&lt;/font>&lt;/span>` +

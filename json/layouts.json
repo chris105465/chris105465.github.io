@@ -1,15 +1,15 @@
 [
     {
-        "name": "That Assignment You're Avoiding",
-        "img": "assignment.png",
-        "link": "https://dl.dropbox.com/s/gvfbjgp7qvrwpob/assignment.css?st=y22qzufv&dl=0",
-        "green": "",
-        "category": "aesthetic"
-    },
-    {
         "name": "Charred Wood",
         "img": "charred-wood.png",
         "link": "https://dl.dropbox.com/scl/fi/fug26ca908wzvgukmoump/charred-wood.css?rlkey=klh4xgro1la2u4rrqxecta373&st=gafkv3m1&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
+        "name": "Cherry Blossoms",
+        "img": "cherryblossom.png",
+        "link": "https://dl.dropbox.com/s/5rovy2ygblbx5lh/cherryblossom.css?st=913bop4r&dl=0",
         "green": "green",
         "category": "aesthetic"
     },
@@ -42,6 +42,13 @@
         "category": "aesthetic"
     },
     {
+        "name": "Late Assignment",
+        "img": "assignment.png",
+        "link": "https://dl.dropbox.com/s/gvfbjgp7qvrwpob/assignment.css?st=y22qzufv&dl=0",
+        "green": "",
+        "category": "aesthetic"
+    },
+    {
         "name": "Pink Clouds",
         "img": "pink-clouds.png",
         "link": "https://dl.dropbox.com/s/69q7r8ykw48ji1w/pink-clouds.css?st=04423qa8&dl=0",
@@ -70,6 +77,34 @@
         "category": "aesthetic"
     },
     {
+        "name": "Dinos",
+        "img": "dinos.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Lion Pride",
+        "img": "lion-pride.png",
+        "link": "https://dl.dropbox.com/s/asxzzdyaavlitln/lion-pride.css?st=k84yji54&dl=0",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Lounging Lionesses",
+        "img": "lounging-lionesses.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Sleepy Croc",
+        "img": "sleepy-croc.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "animal"
+    },
+    {
         "name": "February - Hearts",
         "img": "february-hearts.png",
         "link": "https://dl.dropbox.com/scl/fi/ap80bwms1e5qum40883xu/february-hearts.css?rlkey=lhd3sklks0b0u914g2rgjv40z&st=fhjdh2vy&dl=0",
@@ -77,9 +112,37 @@
         "category": "event"
     },
     {
+        "name": "March - Elephants",
+        "img": "march-elephants.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "March - Rhinos",
+        "img": "march-rhinos.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "event"
+    },
+    {
         "name": "April - Bunnies",
         "img": "april-bunnies.png",
         "link": "https://dl.dropbox.com/scl/fi/aq6ik6ndi2gsmym6zzcod/april-bunnies.css?rlkey=blf12gvqwznlx74ftmrkceaqa&st=v4wrwu9v&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "August - Drought",
+        "img": "august-drought.png",
+        "link": "TBA",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "August - Fire",
+        "img": "august-fire.png",
+        "link": "TBA",
         "green": "green",
         "category": "event"
     },
@@ -150,20 +213,6 @@
         "name": "Boat at Night",
         "img": "boat-at-night.png",
         "link": "https://dl.dropbox.com/s/ek8wsew9fh78fct/boat-at-night.css?st=z9x8vbqi&dl=0",
-        "green": "green",
-        "category": "scenic"
-    },
-    {
-        "name": "Cherry Blossoms",
-        "img": "cherryblossom.png",
-        "link": "https://dl.dropbox.com/s/5rovy2ygblbx5lh/cherryblossom.css?st=913bop4r&dl=0",
-        "green": "green",
-        "category": "scenic"
-    },
-    {
-        "name": "Lion Pride",
-        "img": "lion-pride.png",
-        "link": "https://dl.dropbox.com/s/asxzzdyaavlitln/lion-pride.css?st=k84yji54&dl=0",
         "green": "green",
         "category": "scenic"
     },
