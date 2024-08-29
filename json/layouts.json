@@ -16,8 +16,8 @@
     {
         "name": "Colorful Tiles",
         "img": "colorful-tiles.png",
-        "link": "TBA",
-        "green": "",
+        "link": "https://dl.dropbox.com/scl/fi/nwfs6wnvs07av0keddda0/colorful-tiles.css?rlkey=osxj19x9hqb1tkiy5sk7rm1fw&st=st41s9o3&dl=0",
+        "green": "green",
         "category": "aesthetic"
     },
     {
@@ -72,7 +72,7 @@
     {
         "name": "Rainbow Bokeh",
         "img": "rainbow-bokeh.png",
-        "link": "TBA",
+        "link": "https://dl.dropbox.com/scl/fi/lm03mhyc1h92bn1hdsgyx/rainbow-bokeh.css?rlkey=dnvkmc0ggp6y72q6xuwtmr6oq&st=7e3pusav&dl=0",
         "green": "",
         "category": "aesthetic"
     },
@@ -185,21 +185,21 @@
         "name": "Lesbian",
         "img": "lesbian.png",
         "link": "https://dl.dropbox.com/s/kpzbpsxc0ooifp5/lesbian.css?st=nw4dm4ts&dl=0",
-        "green": "",
+        "green": "green",
         "category": "pride"
     },
     {
         "name": "Gay",
         "img": "gay.png",
         "link": "https://dl.dropbox.com/s/sc0s9kpo1mz8tzr/gay.css?st=8wwqxvqh&dl=0",
-        "green": "",
+        "green": "green",
         "category": "pride"
     },
     {
         "name": "Bi Vibes",
         "img": "bi-vibes.png",
         "link": "https://dl.dropbox.com/s/oe1efjunk6px3yi/bi-vibes.css?st=k6cdxr7e&dl=0",
-        "green": "",
+        "green": "green",
         "category": "pride"
     },
     {
@@ -225,16 +225,16 @@
     },
     {
         "name": "Ace",
-        "img": "ace",
-        "link": "TBA",
-        "green": "",
+        "img": "ace.png",
+        "link": "https://dl.dropbox.com/scl/fi/dv31qzzco8nfh5bqu52n7/ace.css?rlkey=exehesqzonihteaazkunh9u0x&st=pda0d7z2&dl=0",
+        "green": "green",
         "category": "pride"
     },
     {
         "name": "Aro/Agender",
         "img": "aro-agender.png",
-        "link": "TBA",
-        "green": "",
+        "link": "https://dl.dropbox.com/scl/fi/cpyilatksqkc1id2hexx9/aro-agender.css?rlkey=zygklj6o4nat175vwk3tgfzat&st=50qhka9m&dl=0",
+        "green": "green",
         "category": "pride"
     },
     {
