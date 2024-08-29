@@ -206,20 +206,6 @@
         "name": "Trans",
         "img": "trans.png",
         "link": "https://dl.dropbox.com/s/oyw4xn1kea6fcpe/trans.css?st=hsjq7d2o&dl=0",
-        "green": "",
-        "category": "pride"
-    },
-    {
-        "name": "Light Rainbow",
-        "img": "pride-rainbow.png",
-        "link": "https://dl.dropbox.com/s/u0cc3voocysdes2/pride-rainbow.css?st=d6wwus5z&dl=0",
-        "green": "green",
-        "category": "pride"
-    },
-    {
-        "name": "Dark Rainbow",
-        "img": "dark-rainbow.png",
-        "link": "https://dl.dropbox.com/scl/fi/keyzof55eiyrf8dppuirx/dark-rainbow.css?rlkey=7i63iszln8vqmih3hfakrzq3w&st=7zzxpxy7&dl=0",
         "green": "green",
         "category": "pride"
     },
@@ -241,14 +227,28 @@
         "name": "Enby",
         "img": "enby.png",
         "link": "https://dl.dropbox.com/s/lbj0gr6e858v4hs/enby.css?st=m7j9zsye&dl=0",
-        "green": "",
+        "green": "green",
         "category": "pride"
     },
     {
         "name": "Pan",
         "img": "pan.png",
         "link": "https://dl.dropbox.com/s/5xd2v3aide18hgs/pan.css?st=f5e9voy7&dl=0",
-        "green": "",
+        "green": "green",
+        "category": "pride"
+    },
+    {
+        "name": "Light Rainbow",
+        "img": "pride-rainbow.png",
+        "link": "https://dl.dropbox.com/s/u0cc3voocysdes2/pride-rainbow.css?st=d6wwus5z&dl=0",
+        "green": "green",
+        "category": "pride"
+    },
+    {
+        "name": "Dark Rainbow",
+        "img": "dark-rainbow.png",
+        "link": "https://dl.dropbox.com/scl/fi/keyzof55eiyrf8dppuirx/dark-rainbow.css?rlkey=7i63iszln8vqmih3hfakrzq3w&st=7zzxpxy7&dl=0",
+        "green": "green",
         "category": "pride"
     },
     {
