@@ -80,6 +80,10 @@ a:focus {
     overflow: hidden;
 }
 
+.card-text {
+    color: var(--white);
+}
+
 .copy-field {
     width: 100%;
     padding: 8px;
