@@ -84,6 +84,18 @@
         "linkColor": "555"
     },
     {
+        "name": "Green Pentagons",
+        "img": "green-pentagons.png",
+        "fontColor": "000000",
+        "headerFont": "Tahoma, Verdana, sans-serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "ecfdd5",
+        "bgImg": "https://dl.dropbox.com/scl/fi/su4fcyxf2apj7k7grwoz0/congruent_pentagon.png?rlkey=09e02zmem3d32u1940t6x5a3t&st=r5quxfje&dl=0",
+        "mainBorder": "2px solid #ffffff",
+        "otherBorder": "1px solid #ffffff",
+        "linkColor": "3F5E4B"
+    },
+    {
         "name": "Orange Flowers",
         "img": "orange-flowers.png",
         "fontColor": "000000",
@@ -141,7 +153,7 @@
         "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
         "mainBorder": "2px solid #ffffff",
         "otherBorder": "1px solid #ffffff",
-        "linkColor": "i gotta find a purple"
+        "linkColor": "51447b"
     },
     {
         "name": "Roses",
@@ -152,7 +164,8 @@
         "bgColor": "FBFEF5",
         "bgImg": "https://dl.dropbox.com/s/5o04mxyyf9uxgys/roses.jpg?dl=0",
         "mainBorder": "2px solid #d1d194",
-        "otherBorder": "2px dotted #d1d194"
+        "otherBorder": "2px dotted #d1d194",
+        "linkColor": "2C2D29"
     },
     {
         "name": "Scales",
@@ -163,7 +176,8 @@
         "bgColor": "000000",
         "bgImg": "https://dl.dropbox.com/s/skqltxsu8eq33yh/black_scales.png?dl=0",
         "mainBorder": "3px double #ffffff",
-        "otherBorder": "1px solid #ffffff"
+        "otherBorder": "1px solid #ffffff",
+        "linkColor": "e6e6e6"
     },
     {
         "name": "White Flowers",
@@ -174,6 +188,7 @@
         "bgColor": "cccccc",
         "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
         "mainBorder": "3px double #dddddd",
-        "otherBorder": "1px solid #dddddd"
+        "otherBorder": "1px solid #dddddd",
+        "linkColor": "262626"
     }
 ]
