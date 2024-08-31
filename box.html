@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comm Boxes</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="container p-0 nav-con">
+        <nav class="navbar navbar-expand-lg sticky-top">
+            <div class="container-fluid">
+                <a class="navbar-brand ms-2" href="./index.html">Chris' Codes</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarToggler">
+                    <ul class="navbar-nav me-4 mb-2 mb-lg-0">
+                        <li class="nav-item mx-2">
+                            <a class="nav-link" href="./index.html" title="CSS Layouts">CSS</a>
+                        </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link" href="./templates.html" title="HTML Templates">HTML</a>
+                        </li>
+                        <li class=" nav-item mx-2">
+                            <a class="nav-link" href="./tutorials.html" title="Tutorials Page">Tutorials</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container mt-2 mt-md-5 px-4">
+        <div class="row pt-3 pb-2">
+            <h1>Comm Boxes</h1>
+            <p>This is a hidden page on my site specifically for HTML boxes for my commissions. Please keep the link somewhere accessible in the event that you need it again, or you can message me if I'm online.</p>
+        </div>
+        <div class="row pb-3">
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <div class="card h-100">
+                    <img src="./img/boxes/hover-boxes.png" class="card-img-top" alt="Hover Expanding Boxes Preview">
+                    <div class="card-body">
+                        <h5 class="card-title pb-1">Hover Expanding Boxes</h5>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="hoverBigBox" class="py-2">HTML (Big Box)</label><button onclick="copyButton('hoverBigBox')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="hoverBigBox" name="copy-field" class="copy-field" rows="2">&lt;div class="bigBox">TEXT HERE&lt;/div></textarea>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="hoverTwoBox" class="py-2">HTML (Two Small Boxes)</label><button onclick="copyButton('hoverTwoBox')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="hoverTwoBox" name="copy-field" class="copy-field" rows="5">&lt;div class="scrollSection">&lt;div class="scrollBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">RIGHT TEXT HERE&lt;/div>&lt;/div></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <div class="card h-100">
+                    <img src="./img/boxes/static-1.png" class="card-img-top" alt="Static Box Layout #1 Preview">
+                    <div class="card-body">
+                        <h5 class="card-title pb-1">Static Box Layout #1</h5>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="staticOneHTML" class="py-2">HTML</label><button onclick="copyButton('staticOneHTML')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="staticOneHTML" name="copy-field" class="copy-field" rows="6">&lt;div class="scrollSection">&lt;div class="bigBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">TOP TEXT HERE&lt;/div>&lt;div class="scrollBox">BOTTOM TEXT HERE&lt;/div>&lt;/div></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+                <div class="card h-100">
+                    <img src="./img/boxes/static-2.png" class="card-img-top" alt="Static Box Layout #2 Preview">
+                    <div class="card-body">
+                        <h5 class="card-title pb-1">Static Box Layout #2</h5>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="staticTwoHTML" class="py-2">HTML</label><button onclick="copyButton('staticTwoHTML')" class="btn btn-primary mb-2">Copy Code</button>
+                        </div>
+                        <textarea id="staticTwoHTML" name="copy-field" class="copy-field" rows="6">&lt;div class="scrollSection">&lt;div class="bigBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">RIGHT TEXT HERE&lt;/div>&lt;/div>&lt;div class="plainBox">BOTTOM TEXT HERE&lt;/div></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container p-3 mt-2 mt-md-5 footer">
+        <footer class="text-center">&copy; Lioden user Chris (#105465)/(#106232)</footer>
+    </div>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/style.js"></script>
+</body>
+
+</html>
