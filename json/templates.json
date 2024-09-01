@@ -12,6 +12,30 @@
         "linkColor": "555"
     },
     {
+        "name": "Arrows",
+        "img": "arrows.png",
+        "fontColor": "ffffff",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "000000",
+        "bgImg": "https://dl.dropbox.com/scl/fi/rytnmoicv5qmle7xvrilo/soft_kill.png?rlkey=2jb9572mdj6c6h4ewoxk3vlxu&st=wo8hihtg&dl=0",
+        "mainBorder": "2px solid #1a1a1a",
+        "otherBorder": "1px solid #1a1a1a",
+        "linkColor": "e6e6e6"
+    },
+    {
+        "name": "Autumn Harvest",
+        "img": "autumn-harvest.png",
+        "fontColor": "ffffff",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "061D24",
+        "bgImg": "https://dl.dropbox.com/scl/fi/bqdcj3i21gqcsvl4chi9q/wheat.png?rlkey=1aibi9ihd4sxfuc19ncgz3038&st=xuznc44d&dl=0",
+        "mainBorder": "2px solid #182E3E",
+        "otherBorder": "1px solid #182E3E",
+        "linkColor": "c8dcea"
+    },
+    {
         "name": "Bees",
         "img": "bees.png",
         "fontColor": "000000",
@@ -58,6 +82,66 @@
         "mainBorder": "3px double #333",
         "otherBorder": "3px double #333",
         "linkColor": "aaa"
+    },
+    {
+        "name": "Circuitry",
+        "img": "circuitry.png",
+        "fontColor": "000000",
+        "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "ffffff",
+        "bgImg": "https://dl.dropbox.com/scl/fi/gzvdzxxrhwii5jm626fua/circuit.png?rlkey=a3ydmwokn9b424cwd9ximnloj&st=dxe2987v&dl=0",
+        "mainBorder": "2px solid #cccccc",
+        "otherBorder": "1px solid #cccccc",
+        "linkColor": "262626"
+    },
+    {
+        "name": "Dots",
+        "img": "dots.png",
+        "fontColor": "ffffff",
+        "headerFont": "Verdana, Tahoma, sans-serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "262626",
+        "bgImg": "https://dl.dropbox.com/scl/fi/9uehzfx0x3n8r2n1jujs5/dots.jpg?rlkey=hv2wk8fdap5uyt386pmrow5xd&st=etu3ejzc&dl=0",
+        "mainBorder": "3px double #ffffff",
+        "otherBorder": "1px solid #ffffff",
+        "linkColor": "e6e6e6"
+    },
+    {
+        "name": "Dragonflies",
+        "img": "dragonflies.png",
+        "fontColor": "000000",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "bgColor": "d2ecfc",
+        "bgImg": "https://dl.dropbox.com/scl/fi/y1mb3csq7e6as7odqn235/dragonflies.jpg?rlkey=lvb08oc8xq7rnzwln3i34b7hk&st=lb9duymy&dl=0",
+        "mainBorder": "4px double #ffffff",
+        "otherBorder": "3px double #ffffff",
+        "linkColor": "14475F"
+    },
+    {
+        "name": "Fancy Hotel Wallpaper",
+        "img": "hotel-wallpaper.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "000000",
+        "bgImg": "https://dl.dropbox.com/scl/fi/f6r0zrzl3bher145skamn/hotel-wallpaper-black.png?rlkey=oidby3doo7klff55xgk6nuf16&st=oyowjayb&dl=0",
+        "mainBorder": "3px double #4d4d4d",
+        "otherBorder": "1px solid #4d4d4d",
+        "linkColor": "e6e6e6"
+    },
+    {
+        "name": "Feathers",
+        "img": "feathers.png",
+        "fontColor": "000000",
+        "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "'Times New Roman', Times, serif",
+        "bgColor": "f6f4ee",
+        "bgImg": "https://dl.dropbox.com/scl/fi/24bqdm4e0x6dzizvsgmep/upfeathers.png?rlkey=mok9x7snrmku77xso4zqn3tbe&st=55ihding&dl=0",
+        "mainBorder": "4px double #dcd3bc",
+        "otherBorder": "1px solid #dcd3bc",
+        "linkColor": "322c1a"
     },
     {
         "name": "Floaties",
@@ -144,6 +228,18 @@
         "linkColor": "423663"
     },
     {
+        "name": "Quilted Sun Rays",
+        "img": "quilted-sun-rays.png",
+        "fontColor": "000000",
+        "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "f2f2f2",
+        "bgImg": "https://dl.dropbox.com/scl/fi/sm5e4c6mgq4mawog9pute/sun-pattern.png?rlkey=1llhtotitwh96peu6v2g2jwky&st=jwnkh20c&dl=0",
+        "mainBorder": "2px solid #e6e6e6",
+        "otherBorder": "1px solid #e6e6e6",
+        "linkColor": "262626"
+    },
+    {
         "name": "Retro Cubes",
         "img": "retro-cubes.png",
         "fontColor": "000000",
@@ -180,13 +276,25 @@
         "linkColor": "e6e6e6"
     },
     {
+        "name": "Snowy Pines",
+        "img": "snowy-pines.png",
+        "fontColor": "000000",
+        "headerFont": "'Times New Roman', Times, serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "D6E8ED",
+        "bgImg": "https://dl.dropbox.com/scl/fi/4eo6fi06ae18f3iu2gpt6/trees.png?rlkey=m28swtih7h9qzayuyr2duupwj&st=2zg21xsx&dl=0",
+        "mainBorder": "4px double #ffffff",
+        "otherBorder": "3px double #ffffff",
+        "linkColor": "26292A"
+    },
+    {
         "name": "White Flowers",
         "img": "white-flowers.png",
         "fontColor": "000000",
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "cccccc",
-        "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
+        "bgImg": "https://dl.dropbox.com/scl/fi/8jgzu37nfgcxra5h74va0/wild_flowers.png?rlkey=xb1wehonp98lqjxzhyup5nuu3&st=z03xu8p3&dl=0",
         "mainBorder": "3px double #dddddd",
         "otherBorder": "1px solid #dddddd",
         "linkColor": "262626"
