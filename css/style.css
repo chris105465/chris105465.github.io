@@ -80,25 +80,16 @@ a:focus {
     overflow: hidden;
 }
 
-.card-text {
-    color: var(--white);
-}
-
 .copy-field {
     width: 100%;
     padding: 8px;
     padding-top: 5px;
 }
 
-label {
-    color: var(--white);
-}
-
 textarea {
     border-color: var(--green);
     border-radius: 3px;
     background: var(--main-bg);
-    color: var(--white);
 }
 
 textarea:focus,
