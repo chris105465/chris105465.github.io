@@ -91,11 +91,25 @@
         "category": "aesthetic"
     },
     {
+        "name": "Spider Lilies",
+        "img": "spider-lily.png",
+        "link": "https://dl.dropbox.com/scl/fi/dh7anvvis1vcln1q0ndqg/spider-lily.css?rlkey=x66ui5nz7jnhyj4tghjwn0zqt&st=oybymt4u&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
         "name": "Stamps",
         "img": "stamps.png",
         "link": "https://dl.dropbox.com/s/e9pcidkkv2bx04r/stamps.css?st=f75ndbnq&dl=0",
         "green": "green",
         "category": "aesthetic"
+    },
+    {
+        "name": "Black Vulture",
+        "img": "black-vulture.png",
+        "link": "https://dl.dropbox.com/scl/fi/vw43mmgrsdd92b9fl3fb2/black-vulture.css?rlkey=h9t9cw04u5xnb777mqwhawz6s&st=2lun0zzh&dl=0",
+        "green": "green",
+        "category": "animal"
     },
     {
         "name": "Dik Dik",
