@@ -196,9 +196,30 @@
         "category": "event"
     },
     {
+        "name": "September - Omens",
+        "img": "september-omens.png",
+        "link": "https://dl.dropbox.com/scl/fi/8ztue7j4g1u39in97tybp/september-omens.css?rlkey=mt4tuy99045gbse2qbrtao9if&st=zn5i459c&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
         "name": "September - Tall Grass",
         "img": "september-grass.png",
         "link": "https://dl.dropbox.com/scl/fi/8ie2j3dj4ewrpz06tm5s9/september-grass.css?rlkey=rg8p6i4jnk4go5dwij8imvkvo&st=8vjksdfo&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "October - Heaven",
+        "img": "october-heaven.png",
+        "link": "https://dl.dropbox.com/scl/fi/y0r3r5y317ti6a5xm0e6y/october-heaven.css?rlkey=rq1yyrx0q6vwva81i240owy5r&st=xh14mb7g&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "October - Hell",
+        "img": "october-hell.png",
+        "link": "https://dl.dropbox.com/scl/fi/sso17bsae9navgp6i1zvs/october-hell.css?rlkey=pv9mvr8x1dk2mmeeq7fbku80f&st=x0vsubms&dl=0",
         "green": "green",
         "category": "event"
     },
