@@ -1,6 +1,6 @@
 function gID(id) {
-    theElement = document.getElementById(id)
-    return theElement
+    const element = document.getElementById(id)
+    return element
 }
 
 async function populateLayouts() {
@@ -92,4 +92,18 @@ function copyButton(id) {
     navigator.clipboard.writeText(copyText.value)
 
     alert('The code is now copied to your clipboard! :D')
+}
+
+let codeForm = gID('code-form')
+if (codeForm) {
+    codeForm.addEventListener('submit', (e) => {
+        e.preventDefault()
+
+        let codeBox = gID('code-box').value
+        let finalCode = gID('final-code')
+
+        codeBox = codeBox.replaceAll('<', '&lt;')
+
+        finalCode.innerText = codeBox
+    })
 }
