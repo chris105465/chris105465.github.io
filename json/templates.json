@@ -72,6 +72,18 @@
         "linkColor": "2d7786"
     },
     {
+        "name": "Celestial Bodies",
+        "img": "celestial-bodies.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "13101f",
+        "bgImg": "https://dl.dropbox.com/scl/fi/uzvn778g28volryfui0xv/celestial-bodies.png?rlkey=9qp1unqlrmalh4bu1fdxwtqpk&st=a068pisg&dl=0",
+        "mainBorder": "2px solid #baadd0",
+        "otherBorder": "1px solid #baadd0",
+        "linkColor": "baadd0"
+    },
+    {
         "name": "Circles",
         "img": "circles.png",
         "fontColor": "ffffff",
@@ -168,6 +180,30 @@
         "linkColor": "555"
     },
     {
+        "name": "Green Floral",
+        "img": "green-floral.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "061107",
+        "bgImg": "https://dl.dropbox.com/scl/fi/qh5qsu3qa292bxia9mdgt/green-floral.png?rlkey=np8rziejxfqc9ljvrji9ypx0s&st=gbbbihft&dl=0",
+        "mainBorder": "4px double #a9a75a",
+        "otherBorder": "3px double #a9a75a",
+        "linkColor": "eaeeb7"
+    },
+    {
+        "name": "Green Foliage",
+        "img": "green-foliage.png",
+        "fontColor": "000000",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Tahoma, Verdana, sans-serif",
+        "bgColor": "eeede9",
+        "bgImg": "https://dl.dropbox.com/scl/fi/pjp9007sl8hcfus9tkuga/green-foliage.png?rlkey=o6wdx13nt8icuv5acmfx98rwn&st=hbxqf2px&dl=0",
+        "mainBorder": "2px solid #233a2e",
+        "otherBorder": "1px solid #233a2e",
+        "linkColor": "233a2e"
+    },
+    {
         "name": "Green Pentagons",
         "img": "green-pentagons.png",
         "fontColor": "000000",
@@ -180,6 +216,42 @@
         "linkColor": "3F5E4B"
     },
     {
+        "name": "Kitties",
+        "img": "kitties.png",
+        "fontColor": "000000",
+        "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bgColor": "e7e4df",
+        "bgImg": "https://dl.dropbox.com/scl/fi/6mk3ccpux1mw0rqmt6avn/kitties.png?rlkey=t0d8cgitt1f4i4ojw3v4akm6d&st=qbdnkcdv&dl=0",
+        "mainBorder": "2px solid #babdc9",
+        "otherBorder": "3px double #babdc9",
+        "linkColor": "232c37"
+    },
+    {
+        "name": "Monarch Butterflies",
+        "img": "monarch-butterflies.png",
+        "fontColor": "000000",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "f0c084",
+        "bgImg": "https://dl.dropbox.com/scl/fi/lars1m1bqj57r0awsg4o3/monarch-butterflies.png?rlkey=dpgbmn25er36w292zv5qt1z9z&st=1eswil90&dl=0",
+        "mainBorder": "4px double #17181b",
+        "otherBorder": "3px double #e57341",
+        "linkColor": "522627"
+    },
+    {
+        "name": "Night Sky",
+        "img": "night-sky.png",
+        "fontColor": "ffffff",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "0c032f",
+        "bgImg": "https://dl.dropbox.com/scl/fi/dz61r8nurm5yo6oszho52/night-sky.png?rlkey=0q5zm3fs6thn0n270dl7s2t02&st=kaof1nww&dl=0",
+        "mainBorder": "4px double #c7bcf6",
+        "otherBorder": "3px double #c7bcf6",
+        "linkColor": "c7bcf6"
+    },
+    {
         "name": "Orange Flowers",
         "img": "orange-flowers.png",
         "fontColor": "000000",
@@ -190,6 +262,30 @@
         "mainBorder": "2px solid #FFB243",
         "otherBorder": "1px solid #FFB243",
         "linkColor": "995900"
+    },
+    {
+        "name": "Oyster Mushrooms",
+        "img": "oyster-mushrooms.png",
+        "fontColor": "000000",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "ddcbbd",
+        "bgImg": "https://dl.dropbox.com/scl/fi/rnippvqif9l9wmnussa0z/oyster-mushrooms.png?rlkey=e28msriezctb3it9vxsmjl51v&st=2au7m0ky&dl=0",
+        "mainBorder": "2px solid #5f4233",
+        "otherBorder": "1px solid #5f4233",
+        "linkColor": "5f4233"
+    },
+    {
+        "name": "Paisley",
+        "img": "paisley.png",
+        "fontColor": "000000",
+        "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "bgColor": "ebe9e0",
+        "bgImg": "https://dl.dropbox.com/scl/fi/92h0vra6bge6rlqgfru9f/paisley.png?rlkey=ydwxm09adqkhxf9v00zhp04ax&st=tyzs30tl&dl=0",
+        "mainBorder": "2px solid #354376",
+        "otherBorder": "1px solid #354376",
+        "linkColor": "7b0f24"
     },
     {
         "name": "Peacock",
@@ -216,6 +312,30 @@
         "linkColor": "a42866"
     },
     {
+        "name": "Pink Butterflies",
+        "img": "pink-butterflies.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bgColor": "000000",
+        "bgImg": "https://dl.dropbox.com/scl/fi/xcatqvkzwfe5317gq64y3/pink-butterflies.png?rlkey=e2xa8vu82dexgl61xfx0hk2hn&st=ffw9f7zg&dl=0",
+        "mainBorder": "2px solid #e3abd7",
+        "otherBorder": "3px double #e3abd7",
+        "linkColor": "e28abc"
+    },
+    {
+        "name": "Pink Roses",
+        "img": "pink-roses.png",
+        "fontColor": "000000",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "bgColor": "f9dada",
+        "bgImg": "https://dl.dropbox.com/scl/fi/wtwmgmm82ec9tutvu7m4q/pink-roses.png?rlkey=wytta3r2j2kfgwi0jf6e39dye&st=aqs3zchf&dl=0",
+        "mainBorder": "2px solid #9d9a78",
+        "otherBorder": "1px solid #9d9a78",
+        "linkColor": "730c1d"
+    },
+    {
         "name": "Purple Butterflies",
         "img": "purple-butterflies.png",
         "fontColor": "000000",
@@ -238,6 +358,30 @@
         "mainBorder": "2px solid #e6e6e6",
         "otherBorder": "1px solid #e6e6e6",
         "linkColor": "262626"
+    },
+    {
+        "name": "Red Roses",
+        "img": "red-roses.png",
+        "fontColor": "ffffff",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bgColor": "790006",
+        "bgImg": "https://dl.dropbox.com/scl/fi/sb7scmihckcks0x9649vd/red-roses.png?rlkey=gz3637v4enucixi6ufotp4fsh&st=2let6fun&dl=0",
+        "mainBorder": "2px solid #da8292",
+        "otherBorder": "3px double #da8292",
+        "linkColor": "e8b0bb"
+    },
+    {
+        "name": "Red Velvet",
+        "img": "red-velvet.png",
+        "fontColor": "ffffff",
+        "headerFont": "Garamond, 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "660002",
+        "bgImg": "https://dl.dropbox.com/scl/fi/0tbhxap2etnbij12jx6cq/red-texture.png?rlkey=yfujm3h28znd9fvqzk05mnzu6&st=0jm5jrsb&dl=0",
+        "mainBorder": "4px double #e60e3a",
+        "otherBorder": "3px double #e60e3a",
+        "linkColor": "fccfd8"
     },
     {
         "name": "Retro Cubes",
@@ -298,5 +442,41 @@
         "mainBorder": "3px double #dddddd",
         "otherBorder": "1px solid #dddddd",
         "linkColor": "262626"
+    },
+    {
+        "name": "Woodland Creatures",
+        "img": "woodland-creatures.png",
+        "fontColor": "000000",
+        "headerFont": "Georgia, 'Times New Roman', Times, serif",
+        "bodyFont": "Verdana, Tahoma, sans-serif",
+        "bgColor": "eae6db",
+        "bgImg": "https://dl.dropbox.com/scl/fi/9e0wrkc9b35v4ywln6tnh/woodland-creatures.png?rlkey=77c0pt42478m6yslsh7akg0xy&st=f299zm1k&dl=0",
+        "mainBorder": "2px solid #433a23",
+        "otherBorder": "1px solid #433a23",
+        "linkColor": "433a23"
+    },
+    {
+        "name": "Yellow Dragonflies",
+        "img": "yellow-dragonflies.png",
+        "fontColor": "000000",
+        "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
+        "bodyFont": "Garamond, 'Times New Roman', Times, serif",
+        "bgColor": "fbf9c0",
+        "bgImg": "https://dl.dropbox.com/scl/fi/ke0ce1nnaihoihqkelgnt/yellow-dragonflies.png?rlkey=npwu6os5b8srqpmeqt912r44x&st=kcxgb7gt&dl=0",
+        "mainBorder": "2px solid #eca746",
+        "otherBorder": "1px solid #eca746",
+        "linkColor": "452b07"
+    },
+    {
+        "name": "Yellow Floral",
+        "img": "yellow-floral.png",
+        "fontColor": "000000",
+        "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
+        "bodyFont": "Arial, Helvetica, sans-serif",
+        "bgColor": "ebda93",
+        "bgImg": "https://dl.dropbox.com/scl/fi/hdhkipzu7f9skg1zedzrz/yellow-floral.png?rlkey=qnjavxkq5jpcj82v9iwk0p9a2&st=iiflodfn&dl=0",
+        "mainBorder": "2px solid #75550d",
+        "otherBorder": "1px solid #75550d",
+        "linkColor": "75550d"
     }
 ]
