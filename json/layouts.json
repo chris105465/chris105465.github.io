@@ -21,6 +21,13 @@
         "category": "aesthetic"
     },
     {
+        "name": "Cottagecore",
+        "img": "cottagecore.png",
+        "link": "https://dl.dropbox.com/scl/fi/wgg0vykv70vutxkkdlf4z/cottagecore.css?rlkey=vqa8fwsj41mizgxsr2y0vwb9n&st=4y73zrzv&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
         "name": "Daisies",
         "img": "daisies.png",
         "link": "https://dl.dropbox.com/s/hbskrhuye5w72vn/daisies.css?st=9cgwv090&dl=0",
@@ -143,6 +150,13 @@
         "name": "Lounging Lionesses",
         "img": "lounging-lionesses.png",
         "link": "https://dl.dropbox.com/scl/fi/47vv7zoj2wrk4z4jseziv/lounging-lionesses.css?rlkey=nm1s4sib5xekh5sxu71lb57xp&st=eixuch1x&dl=0",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Pigeons",
+        "img": "pigeons.png",
+        "link": "https://dl.dropbox.com/scl/fi/1a6mebjbbnucyixllxr02/pigeons.css?rlkey=pzzrw6zsas8aves3igwyj8de7&st=ourv2pn7&dl=0",
         "green": "green",
         "category": "animal"
     },
