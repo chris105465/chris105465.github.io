@@ -238,6 +238,27 @@
         "category": "event"
     },
     {
+        "name": "November - Fossils",
+        "img": "november-fossils.png",
+        "link": "https://dl.dropbox.com/scl/fi/cv4dojobq8obi2c7cjutw/november-fossils.css?rlkey=n768m6ox7dmgdg9vmh2u404s2&st=jf8d4149&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "November - Herbs",
+        "img": "november-herbs.png",
+        "link": "https://dl.dropbox.com/scl/fi/jj3ype3mz55gmbbnnkprj/november-herbs.css?rlkey=x9j1qd30pjjxor67eymt4v7e8&st=zjyaddxz&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "November - Tarot",
+        "img": "november-tarot.png",
+        "link": "https://dl.dropbox.com/scl/fi/9olq2nfa2v6n5qt4lfxzy/november-tarot.css?rlkey=rbtwx2l9xp0660nz6p2aamwit&st=myw7wzmm&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
         "name": "Lesbian",
         "img": "lesbian.png",
         "link": "https://dl.dropbox.com/s/kpzbpsxc0ooifp5/lesbian.css?st=nw4dm4ts&dl=0",
