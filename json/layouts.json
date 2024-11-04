@@ -434,6 +434,13 @@
         "category": "seasonal"
     },
     {
+        "name": "Asphalt",
+        "img": "asphalt.png",
+        "link": "https://dl.dropbox.com/scl/fi/xi9afso2l4gwr344mdl59/asphalt.css?rlkey=xl7xydv24shiwzug1o2zvc77a&st=qcogwyni&dl=0",
+        "green": "green",
+        "category": "simple"
+    },
+    {
         "name": "Blue and Peach",
         "img": "blue-and-peach.png",
         "link": "https://dl.dropbox.com/s/d0qidmqkzfek5sp/blue-and-peach.css?st=10r1suyp&dl=0",
@@ -452,6 +459,13 @@
         "img": "plum-and-blue.png",
         "link": "https://dl.dropbox.com/s/ez1nibutgz96tm2/plum-and-blue.css?st=4q2wyzj6&dl=0",
         "green": "",
+        "category": "simple"
+    },
+    {
+        "name": "Purple Lobby",
+        "img": "purple-lobby.png",
+        "link": "https://dl.dropbox.com/scl/fi/xpbyqfsz4ptvn126r3v3u/purple-lobby.css?rlkey=le9qe302idmc80n2xbk14f4k0&st=avapy9fv&dl=0",
+        "green": "green",
         "category": "simple"
     },
     {
