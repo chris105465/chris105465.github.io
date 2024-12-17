@@ -40,6 +40,8 @@
         <div class="row py-3">
             <div class="col pb-2">
                 <h1 class="pb-2">Tutorials</h1>
+                <h4>THIS SECTION IS CURRENTLY UNDER CONSTRUCTION. THANK YOU FOR YOUR PATIENCE.</h4>
+                <p>Currently working on: editing the html tmplate and bio box sections to make them a bit easier to find specific things and adding some basic tips for coding on forums.</p>
                 <div class="card mb-3" style="width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title">Quick Links</h5>
@@ -59,29 +61,46 @@
                     course on basic HTML and CSS before trying to code on Lioden just to get yourself more familiar. I
                     found that was a great jumping off point myself when I started coding on LD years ago.</p>
                 <h3 class="pb-2" id="den">Den Boxes</h3>
-                <p>The den boxes found on my free CSS page are already styled to work with the default night layout, but if you're here I'm guessing you have either a free or custom layout currently applied to your page, so you'll
-                    still want to add additional style information such as the background color, text color, and borders
-                    yourself to make it match the rest of your page.
-                    There's already placeholder information for the background and border colors included, but you can
-                    easily add more style information by adding more CSS properties to the style attribute.</p>
                 <div class="card mb-3" style="width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title">Notable Resources</h5>
                         <ul class="pb-0 mb-0">
                             <li><a href="https://www.w3schools.com/html/html_styles.asp">HTML Style Attribute</a></li>
                             <li><a href="https://www.w3schools.com/css/css_border_shorthand.asp">Border Style</a></li>
-                            <li><a href="https://www.w3schools.com/css/css_border_rounded.asp">Border Radius</a></li>
-                            <li><a href="https://www.w3schools.com/html/html_headings.asp">Headers</a></li>
                             <li><a href="https://www.w3schools.com/colors/colors_names.asp">HTML Color Names</a></li>
                         </ul>
                     </div>
                 </div>
-                <p>For example, if you wanted to change the default borders, you would add something like border: 1px
-                    solid #333 onto the style information. You can do the same with anything else you want to change
-                    about the boxes. You could also take the file that I have the default code in and duplicate and edit
-                    however you'd like if you'd rather make changes with CSS as opposed to in the HTML. I recommend this
-                    if you are already familiar with CSS as it will make it much easier to make quick changes. I find
-                    that CSS files are easier to read from than the style attribute on an html element since—depending on what software you're coding in— there's usually better spacing between the CSS properties.</p>
+                <!-- &lt;div class="bigBox" style="">TEXT HERE&lt;/div> -->
+                <p>Coding my den boxes is very simple. The most you will need is a background color, text color, and border, so let's break those down individually as well as look at the style attribute so you can understand how each part works and then put it all together.</p>
+
+                <h4>Style Attribute</h4>
+                <p>The style attribute lets you directly style an element as its name suggests. To do so all you have to do is add it. Let's use one of my den boxes as an example so you can see it in context.</p>
+                <p>&lt;div class="bigBox"<span class="highlight"> style=""</span>>TEXT HERE&lt;/div></p>
+                <p>This is the Big Box on my Hover Box layout. If you look at the highlighted section, you can see the style attribute that I'm talking about. This attribute tells the browser any styling information that isn't already included in any of the CSS on your page. By adding that style="" bit to any element you can change all kinds of things about it, but we'll just focus on what you need.</p>
+
+                <h4>Background-Color Property</h4>
+                <p>The first thing you'll want is the background-color. I recommend setting it to a color that is already on the page or something at a similar value. So if the layout is dark, opt for a dark color for your boxes. This causes less text issues.</p>
+                <p>To begin, you'll need a basic understanding of the formatting of CSS, which goes <span class="highlight">property: value;</span> including the semi-colon as that's what the browser uses as like commas in a worded list. You tell your friend you like blue, green, and purple, coders tell the page that they want background-color: pink; color: black; border: none; which will make more sense soon, so I'll give you an example using the same box from the previous section.</p>
+                <p>&lt;div class="bigBox" style="<span class="highlight">background-color: #006600;</span>">TEXT HERE&lt;/div></p>
+                <p>I know that might look like a big jump, but let's break it down. background-color is the property we're wanting to change, and #006600 is the value, which matches the formatting mentioned earlier. Why does the value look different than before? Why isn't it a color? It actually is a color. That is a color written in what's called hex (stay with me here lol). You can find the hexcode for any color using most basic color-picking programs as well at the HTML Color Names page I linked in the Notable Resources box. It has valid color names that you can use as is without a hexcode and if you click Color Picker you can edit the color and it gives you the hexcode for that new color. Hexcodes will always be six digits for a solid color following a # symbol.</p>
+                <p>Putting these together tells the browser that you want the box to have a background that is #006600, which also happens to be the same dark green I use to highlight.</p>
+
+                <h4>Color Property</h4>
+                <p>This one is a bit confusing if you're new to HTML and CSS, but the property to change the text color is just called color. I know, I don't like it either, but it's been that way so long that changing across the entirety of the web would be a nightmare. Let's say you want to change the text of something to be white. You could use either just white as the value or its hexcode which is #ffffff. Let me show you.</p>
+                <p>&lt;div class="bigBox" style="background-color: #006600;<span class="highlight"> color: #ffffff;</span>">TEXT HERE&lt;/div></p>
+                <p>Here you can see that just like before there's still that background-color property making the box dark green, but now there's also the color property telling the browser you want the text inside to be white. Hard to read black text on a dark green background, after all. If that seems super simple, awesome! That means this tutorial is doing its job. If not, just remember the formatting for this, property: value; that lets the browser know what you want to change and how you want to change it using the style attribute.</p>
+
+                <h4>Border Property</h4>
+                <p>This one is slightly more complicated than the previous two properties. While background-color and color only typically take a single value, the border property is a shorthand property which means you can give it multiple values as long as they're in the correct order. Don't worry, though, because all we're going to be giving it is the width, style, and color of the border.</p>
+                <p>For the final part of the example, let's say you want a thin, solid border that's white. Simple enough, right? Exactly. Let me show you what that would look like.</p>
+                <p>&lt;div class="bigBox" style="background-color: #006600; color: #ffffff;<span class="highlight"> border: 1px solid #ffffff;</span>">TEXT HERE&lt;/div></p>
+                <p>You can see that in the border property it has a value of 1px solid #ffffff which means that the border will be 1px wide, solid in style, and #ffffff as in white in color. You want something different? Then all you'd need to do is swap it out! You want a pink box with a 4px thick dashed border and black borders and text?</p>
+                <p>&lt;div class="bigBox" style="background-color: pink; color: black; border: 4px dashed black;">TEXT HERE&lt;/div></p>
+                <p>Or maybe a black box with white text and no border?</p>
+                <p>&lt;div class="bigBox" style="background-color: black; color: white; border: none;">TEXT HERE&lt;/div></p>
+                <p>Like I said, as long as you follow the formatting, it's all just giving the browser a list of what you want. Once you've got the hang of it, any changes will be super easy to do. I've also linked in the Notable Reseources box the w3schools pages for the style attribute and border styles in case you still had any questions in regards to either. That website is a great resource for any HTML or CSS questions you might have.</p>
+
                 <h3 class="pb-2" id="template">HTML Templates</h3>
                 <p>Do you want to make your own custom HTML template for a thread? Then this is the section for you! I
                     will be including the
@@ -91,7 +110,7 @@
                     By extension, I'd rather the base not be used for commissions or remixed into any further free
                     HTML as I don't want anyone selling or distributing anything with my name on it but me or
                     specifically
-                    my bestie because I let her do whatever she wants all the time.
+                    my bestie because I let her do whatever she wants all the time. I don't know any of y'all like that so you do not get the same privileges she does.
                 </p>
                 <div class="card my-3" style="width: 18rem;">
                     <div class="card-body">

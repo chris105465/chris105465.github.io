@@ -7,6 +7,7 @@
     --white: #ffffff;
     --green: lime;
     --pink: deeppink;
+    --highlight: #006600;
 }
 
 body {
@@ -100,6 +101,10 @@ textarea:focus-visible {
 
 .green {
     color: var(--green);
+}
+
+.highlight {
+    background-color: var(--highlight);
 }
 
 .btn-primary {
