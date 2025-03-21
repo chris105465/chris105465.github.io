@@ -483,87 +483,171 @@
         "category": "simple"
     },
     {
-        "name": "Lights out Blue",
-        "img": "twt-dark-blue.png",
-        "link": "https://dl.dropbox.com/s/cd4hyubhyaggh5q/twt-dark-blue.css?st=fxehgs2h&dl=0",
+        "name": "Dark Red",
+        "img": "dark-red.png",
+        "link": "https://dl.dropbox.com/scl/fi/22m45ew1w6obted71ee4k/dark-red.css?rlkey=uv92frhgu9hknmli4olbdt20s&st=ah4lveq1&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Lights out Green",
-        "img": "twt-dark-green.png",
-        "link": "https://dl.dropbox.com/s/9e5esvoikk78uby/twt-dark-green.css?st=pr1p6lv3&dl=0",
+        "name": "Dark Orange",
+        "img": "dark-orange.png",
+        "link": "https://dl.dropbox.com/scl/fi/98zhn7b7hz4c9vci7dqg8/dark-orange.css?rlkey=yqixyiw86dmhy28dz67aiuo25&st=q9bojbhm&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Lights out Orange",
-        "img": "twt-dark-orange.png",
-        "link": "https://dl.dropbox.com/s/b7xdeeb416gba06/twt-dark-orange.css?st=admgthj7&dl=0",
+        "name": "Dark Gold",
+        "img": "dark-gold.png",
+        "link": "https://dl.dropbox.com/scl/fi/jb3q61r5n2ysd7s7ox7fk/dark-gold.css?rlkey=eyqy6ff4g7k7jrwu3vkb77iuz&st=x61gb2zc&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Lights out Pink",
-        "img": "twt-dark-pink.png",
-        "link": "https://dl.dropbox.com/s/qgvxlw754u2fuw0/twt-dark-pink.css?st=kowf7ctt&dl=0",
+        "name": "Dark Chartreuse",
+        "img": "dark-chartreuse.png",
+        "link": "https://dl.dropbox.com/scl/fi/w0fkxoihwl3uzz4nsvoq6/dark-chartreuse.css?rlkey=l0rpg4imgxz0ozg5qy4ye64xe&st=z373g38k&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Lights out Purple",
-        "img": "twt-dark-purple.png",
-        "link": "https://dl.dropbox.com/s/svxmswoyzkibq4b/twt-dark-purple.css?st=6at1ozad&dl=0",
+        "name": "Dark Green",
+        "img": "dark-green.png",
+        "link": "https://dl.dropbox.com/scl/fi/whi27em7c5gn4zh4cf6a6/dark-green.css?rlkey=7a5f0s67y33thofimp9505esr&st=ob7qsoa0&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Lights out Yellow",
-        "img": "twt-dark-yellow.png",
-        "link": "https://dl.dropbox.com/s/awt1i6r9zwpzzwc/twt-dark-yellow.css?st=rhdvhud8&dl=0",
+        "name": "Dark Mint",
+        "img": "dark-mint.png",
+        "link": "https://dl.dropbox.com/scl/fi/qetybn4in8cqtkm23ebk2/dark-mint.css?rlkey=q8iqc6e7fmkh6qnyu6iulkjdd&st=vibys7ul&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Dim Blue",
-        "img": "twt-dim-blue.png",
-        "link": "https://dl.dropbox.com/s/i9v7n4z11alteya/twt-dim-blue.css?st=wi0kz19c&dl=0",
+        "name": "Dark Cyan",
+        "img": "dark-cyan.png",
+        "link": "https://dl.dropbox.com/scl/fi/9mrllyf9l7fen1zhvhkxu/dark-cyan.css?rlkey=ufcqvtzz4yi49wvgtwzrm4v8a&st=rtem8lz0&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Dim Green",
-        "img": "twt-dim-green.png",
-        "link": "https://dl.dropbox.com/s/1wz8xvnknooc5ef/twt-dim-green.css?st=emncn77k&dl=0",
+        "name": "Dark Blue",
+        "img": "dark-blue.png",
+        "link": "https://dl.dropbox.com/scl/fi/a8lbb5qovqywsdbgfgei0/dark-blue.css?rlkey=8p8b2oyketg8gdrmvkx5rbbzy&st=zg2q9rqo&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
+    },
+    {
+        "name": "Dark Purple",
+        "img": "dark-purple.png",
+        "link": "https://dl.dropbox.com/scl/fi/x5fv6ncv990b0j0s9rhld/dark-purple.css?rlkey=scjxf9oteh6l6k5t99ltv0cri&st=nep6kibt&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dark Magenta",
+        "img": "dark-magenta.png",
+        "link": "https://dl.dropbox.com/scl/fi/lvbk4r5njcwn367pq7lg2/dark-magenta.css?rlkey=8udcgjszv98vpobbvehlmx6jd&st=1k3w45r7&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dark Pink",
+        "img": "dark-pink.png",
+        "link": "https://dl.dropbox.com/scl/fi/n09y48w3aei04lm86gfsb/dark-pink.css?rlkey=l7kqozlufkka56i13fel69h0b&st=32g8g6i0&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dark Silver",
+        "img": "dark-silver.png",
+        "link": "https://dl.dropbox.com/scl/fi/wzdpb50dm502syfgg7mvu/dark-gray.css?rlkey=4i0dzmxpq2b7d9nayww4i1z62&st=gms6jm4b&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dim Red",
+        "img": "dim-red.png",
+        "link": "https://dl.dropbox.com/scl/fi/y18wy58wcd5ul5avptv5g/dim-red.css?rlkey=31mp7ynp0fx04pbeg2b78w0na&st=94nsvh9e&dl=0",
+        "green": "",
+        "category": "dark"
     },
     {
         "name": "Dim Orange",
-        "img": "twt-dim-orange.png",
-        "link": "https://dl.dropbox.com/s/bcugooowqbi14hn/twt-dim-orange.css?st=hxj719gu&dl=0",
+        "img": "dim-orange.png",
+        "link": "https://dl.dropbox.com/scl/fi/m3vydclkygthj2h5vpxtp/dim-orange.css?rlkey=osaybi577sdgni6am0x3kcf8c&st=n9ofpzbo&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Dim Pink",
-        "img": "twt-dim-pink.png",
-        "link": "https://dl.dropbox.com/s/k7efgzm69z6asmn/twt-dim-pink.css?st=d396cycj&dl=0",
+        "name": "Dim Gold",
+        "img": "dim-gold.png",
+        "link": "https://dl.dropbox.com/scl/fi/qq76y107rc87sr7vicb4w/dim-gold.css?rlkey=dmz6s0h1p1lc4h6c34ueu6ttf&st=nfz2hx4s&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
+    },
+    {
+        "name": "Dim Chartreuse",
+        "img": "dim-chartreuse.png",
+        "link": "https://dl.dropbox.com/scl/fi/wbmf8lolxywnq064xr1xy/dim-chartreuse.css?rlkey=4eqvjir7qynxst9b7i6e89upj&st=0f8k0dbh&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dim Green",
+        "img": "dim-green.png",
+        "link": "https://dl.dropbox.com/scl/fi/f1igyih7nevxwgqyhaifo/dim-green.css?rlkey=7sr1tc6be95lz8lxhovjm4jrn&st=tf3dmdhy&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dim Mint",
+        "img": "dim-mint.png",
+        "link": "https://dl.dropbox.com/scl/fi/yauq2dc2g9k99g4ij2cvr/dim-mint.css?rlkey=rsrq9g7gzpa0vqwzpe9zg8wz0&st=kakbweyd&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dim Cyan",
+        "img": "dim-cyan.png",
+        "link": "https://dl.dropbox.com/scl/fi/5ff9gkfm3laign4prp8vd/dim-cyan.css?rlkey=2pylmj9ewktzuhdbpun7ks4va&st=caid687x&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dim Blue",
+        "img": "dim-blue.png",
+        "link": "https://dl.dropbox.com/scl/fi/ape9dtgv0cimnyhfbcdcr/dim-blue.css?rlkey=9djfdgxd9zvcvgcb4eivl62j9&st=vm7j1mvs&dl=0",
+        "green": "",
+        "category": "dark"
     },
     {
         "name": "Dim Purple",
-        "img": "twt-dim-purple.png",
-        "link": "https://dl.dropbox.com/s/xkwdr28c714i7ng/twt-dim-purple.css?st=24yzuudl&dl=0",
+        "img": "dim-purple.png",
+        "link": "https://dl.dropbox.com/scl/fi/4qm4g5bgvwbhkal2ne3iw/dim-purple.css?rlkey=xwziishrx7j582ifo1yt41u5k&st=8go6yfo3&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
     },
     {
-        "name": "Dim Yellow",
-        "img": "twt-dim-yellow.png",
-        "link": "https://dl.dropbox.com/s/84cilc4o95csq49/twt-dim-yellow.css?st=9av6rqgj&dl=0",
+        "name": "Dim Magenta",
+        "img": "dim-magenta.png",
+        "link": "https://dl.dropbox.com/scl/fi/dgntn5at2367voyf2sy11/dim-magenta.css?rlkey=0mo7tresuu7cmka1lsmmwajy1&st=rtan8m6a&dl=0",
         "green": "",
-        "category": "twt"
+        "category": "dark"
+    },
+    {
+        "name": "Dim Pink",
+        "img": "dim-pink.png",
+        "link": "https://dl.dropbox.com/scl/fi/3n2ojzas9e2095bp4u38v/dim-pink.css?rlkey=sdlrz6qkemcv0y4nppy68hv98&st=3dfhzz6a&dl=0",
+        "green": "",
+        "category": "dark"
+    },
+    {
+        "name": "Dim Silver",
+        "img": "dim-silver.png",
+        "link": "https://dl.dropbox.com/scl/fi/h9sdxl96hnn47ctborb4o/dim-gray.css?rlkey=1kzfucuothsf8x2qej77cip18&st=icpsad8y&dl=0",
+        "green": "",
+        "category": "dark"
     }
 ]

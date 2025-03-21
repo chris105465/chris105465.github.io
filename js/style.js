@@ -22,7 +22,7 @@ function displayLayouts(css) {
     const scenic = gID('scenicCon')
     const seasonal = gID('seasonalCon')
     const simple = gID('simpleCon')
-    const twt = gID('twtCon')
+    const dark = gID('darkCon')
     const none = gID('noneCon')
 
     css.forEach(entry => {
@@ -46,8 +46,8 @@ function displayLayouts(css) {
             seasonal.appendChild(card)
         } else if (entry.category == "simple") {
             simple.appendChild(card)
-        } else if (entry.category == "twt") {
-            twt.appendChild(card)
+        } else if (entry.category == "dark") {
+            dark.appendChild(card)
         } else {
             none.classList = "row pb-3"
             none.appendChild(card)
