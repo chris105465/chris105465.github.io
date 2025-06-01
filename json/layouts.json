@@ -49,6 +49,13 @@
         "category": "aesthetic"
     },
     {
+        "name": "Gold Centennial",
+        "img": "gold-100.png",
+        "link": "https://www.dropbox.com/scl/fi/duccn68jlossunj8jr606/gold-100.css?rlkey=081sqvhyrd6t08cnef9l1h3nq&st=b51xpm1l&dl=0",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
         "name": "Honeycomb",
         "img": "honeycomb.png",
         "link": "https://dl.dropbox.com/s/du4xbl62hvxm23q/honeycomb.css?st=xa3hkf6q&dl=0",
@@ -192,6 +199,41 @@
         "name": "April - Bunnies",
         "img": "april-bunnies.png",
         "link": "https://dl.dropbox.com/scl/fi/aq6ik6ndi2gsmym6zzcod/april-bunnies.css?rlkey=blf12gvqwznlx74ftmrkceaqa&st=v4wrwu9v&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "July - Big Bang",
+        "img": "july-big-bang.png",
+        "link": "https://dl.dropbox.com/scl/fi/j499qc4egvz7eejdz7t6g/july-big-bang.css?rlkey=oyaozxbmgy24aboksq3tt94f6&st=7n07bsxa&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "July - Crab Nebula",
+        "img": "july-crab-nebula.png",
+        "link": "https://dl.dropbox.com/scl/fi/vx6kgqnilg7m6vdggm78g/july-crab-nebula.css?rlkey=pi7yn40oinmxevo2bpqrsoxzc&st=khxu39y2&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "July - Jupiter",
+        "img": "july-jupiter.png",
+        "link": "https://dl.dropbox.com/scl/fi/uqu19lpsfwgnsaw1bh2hp/july-jupiter.css?rlkey=opqsxl9puv00e1n1x4fnt8eby&st=gbegotn7&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "July - Planetary Nebula",
+        "img": "july-planetary-nebula.png",
+        "link": "https://dl.dropbox.com/scl/fi/9gwcleb31fol25zvfa9mv/july-planetary-nebula.css?rlkey=8ol4nsluvjsc5rwt58yuf5qpr&st=lt7k9mvs&dl=0",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "July - Star Cluster",
+        "img": "july-star-cluster.png",
+        "link": "https://dl.dropbox.com/scl/fi/l96hb8txh200mok79142y/july-star-cluster.css?rlkey=cyjg1fimljd2kn5gbvp4kdr2y&st=2ou67fuv&dl=0",
         "green": "green",
         "category": "event"
     },
@@ -445,6 +487,13 @@
         "img": "blue-and-peach.png",
         "link": "https://dl.dropbox.com/s/d0qidmqkzfek5sp/blue-and-peach.css?st=10r1suyp&dl=0",
         "green": "",
+        "category": "simple"
+    },
+    {
+        "name": "Cyan and Orange",
+        "img": "cyan-and-orange.png",
+        "link": "https://dl.dropbox.com/scl/fi/vvgscj00ei734cedhgevs/cyan-and-orange.css?rlkey=x8tea23sq9nub85u84xuyzuac&st=ji5mhm84&dl=0",
+        "green": "green",
         "category": "simple"
     },
     {
