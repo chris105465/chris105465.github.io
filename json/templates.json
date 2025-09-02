@@ -6,7 +6,7 @@
         "headerFont": "Tahoma, Verdana, sans-serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "e6e6e6",
-        "bgImg": "https://dl.dropbox.com/s/v2ujosijeedm0wi/arctic-animals.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/nLXnS9Xf/arctic-animals.jpg",
         "mainBorder": "2px solid #999",
         "otherBorder": "2px solid #999",
         "linkColor": "555"
@@ -18,7 +18,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "000000",
-        "bgImg": "https://dl.dropbox.com/scl/fi/rytnmoicv5qmle7xvrilo/soft_kill.png?rlkey=2jb9572mdj6c6h4ewoxk3vlxu&st=wo8hihtg&dl=0",
+        "bgImg": "https://i.postimg.cc/0yL4xzts/soft-kill.webp",
         "mainBorder": "2px solid #1a1a1a",
         "otherBorder": "1px solid #1a1a1a",
         "linkColor": "e6e6e6"
@@ -30,7 +30,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "061D24",
-        "bgImg": "https://dl.dropbox.com/scl/fi/bqdcj3i21gqcsvl4chi9q/wheat.png?rlkey=1aibi9ihd4sxfuc19ncgz3038&st=xuznc44d&dl=0",
+        "bgImg": "https://i.postimg.cc/X7PHcZ6C/wheat.webp",
         "mainBorder": "2px solid #182E3E",
         "otherBorder": "1px solid #182E3E",
         "linkColor": "c8dcea"
@@ -42,7 +42,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "f2f2f2",
-        "bgImg": "https://dl.dropbox.com/s/qdl7xaz139976wf/bees-and-flowers.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/g2SYKHkK/bees-and-flowers.jpg",
         "mainBorder": "2px solid #dcdca3",
         "otherBorder": "2px solid #eedddd",
         "linkColor": "4a4a1c"
@@ -54,7 +54,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "1c305d",
-        "bgImg": "https://dl.dropbox.com/s/3fesdkmwph935kk/moroccan-flower-dark.png?dl=0",
+        "bgImg": "https://i.postimg.cc/j5z0BHKm/moroccan-flower-dark.png",
         "mainBorder": "1px solid #174578",
         "otherBorder": "1px solid #174578",
         "linkColor": "b1c2e7"
@@ -66,7 +66,7 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bgColor": "ffffff",
-        "bgImg": "https://dl.dropbox.com/s/kgti0kaq7psegfh/morocco.png?dl=0",
+        "bgImg": "https://i.postimg.cc/hvsFtKX0/morocco.png",
         "mainBorder": "1px solid #B0DCE5",
         "otherBorder": "1px solid #B0DCE5",
         "linkColor": "2d7786"
@@ -78,7 +78,7 @@
         "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "13101f",
-        "bgImg": "https://dl.dropbox.com/scl/fi/uzvn778g28volryfui0xv/celestial-bodies.png?rlkey=9qp1unqlrmalh4bu1fdxwtqpk&st=a068pisg&dl=0",
+        "bgImg": "https://i.postimg.cc/JhSMf7XD/celestial-bodies.png",
         "mainBorder": "2px solid #baadd0",
         "otherBorder": "1px solid #baadd0",
         "linkColor": "baadd0"
@@ -90,7 +90,7 @@
         "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
         "bodyFont": "'Times New Roman', Times, serif",
         "bgColor": "000000",
-        "bgImg": "https://dl.dropbox.com/s/27dbkw9a2qv67sn/spiration-dark.png?dl=0",
+        "bgImg": "https://i.postimg.cc/QtqYp0j8/spiration-dark.webp",
         "mainBorder": "3px double #333",
         "otherBorder": "3px double #333",
         "linkColor": "aaa"
@@ -102,7 +102,7 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "ffffff",
-        "bgImg": "https://dl.dropbox.com/scl/fi/gzvdzxxrhwii5jm626fua/circuit.png?rlkey=a3ydmwokn9b424cwd9ximnloj&st=dxe2987v&dl=0",
+        "bgImg": "https://i.postimg.cc/SRf4YWvC/circuit.webp",
         "mainBorder": "2px solid #cccccc",
         "otherBorder": "1px solid #cccccc",
         "linkColor": "262626"
@@ -114,7 +114,7 @@
         "headerFont": "Verdana, Tahoma, sans-serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "262626",
-        "bgImg": "https://dl.dropbox.com/scl/fi/9uehzfx0x3n8r2n1jujs5/dots.jpg?rlkey=hv2wk8fdap5uyt386pmrow5xd&st=etu3ejzc&dl=0",
+        "bgImg": "https://i.postimg.cc/yd9ssqhf/dots.png",
         "mainBorder": "3px double #ffffff",
         "otherBorder": "1px solid #ffffff",
         "linkColor": "e6e6e6"
@@ -126,7 +126,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "bgColor": "d2ecfc",
-        "bgImg": "https://dl.dropbox.com/scl/fi/y1mb3csq7e6as7odqn235/dragonflies.jpg?rlkey=lvb08oc8xq7rnzwln3i34b7hk&st=lb9duymy&dl=0",
+        "bgImg": "https://i.postimg.cc/sD3sdNMc/dragonflies.png",
         "mainBorder": "4px double #ffffff",
         "otherBorder": "3px double #ffffff",
         "linkColor": "14475F"
@@ -138,7 +138,7 @@
         "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "000000",
-        "bgImg": "https://dl.dropbox.com/scl/fi/f6r0zrzl3bher145skamn/hotel-wallpaper-black.png?rlkey=oidby3doo7klff55xgk6nuf16&st=oyowjayb&dl=0",
+        "bgImg": "https://i.postimg.cc/NjMtL272/hotel-wallpaper-black.webp",
         "mainBorder": "3px double #4d4d4d",
         "otherBorder": "1px solid #4d4d4d",
         "linkColor": "e6e6e6"
@@ -150,7 +150,7 @@
         "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "'Times New Roman', Times, serif",
         "bgColor": "f6f4ee",
-        "bgImg": "https://dl.dropbox.com/scl/fi/24bqdm4e0x6dzizvsgmep/upfeathers.png?rlkey=mok9x7snrmku77xso4zqn3tbe&st=55ihding&dl=0",
+        "bgImg": "https://i.postimg.cc/sDxHhYqz/upfeathers.png",
         "mainBorder": "4px double #dcd3bc",
         "otherBorder": "1px solid #dcd3bc",
         "linkColor": "322c1a"
@@ -162,7 +162,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "bgColor": "d7f4f4",
-        "bgImg": "https://dl.dropbox.com/s/ho4xijrd1k5kio0/animal-floaties.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/vHv84dJk/animal-floaties.jpg",
         "mainBorder": "2px solid #1f7a7a",
         "otherBorder": "1px solid #1f7a7a",
         "linkColor": "1a6565"
@@ -174,7 +174,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "ffffff",
-        "bgImg": "https://dl.dropbox.com/s/7mzgo2d1bqel20w/greyfloral.png?dl=0",
+        "bgImg": "https://i.postimg.cc/hPMgS1xq/greyfloral.webp",
         "mainBorder": "1px solid #bfbfbf",
         "otherBorder": "1px solid #bfbfbf",
         "linkColor": "555"
@@ -186,7 +186,7 @@
         "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "061107",
-        "bgImg": "https://dl.dropbox.com/scl/fi/qh5qsu3qa292bxia9mdgt/green-floral.png?rlkey=np8rziejxfqc9ljvrji9ypx0s&st=gbbbihft&dl=0",
+        "bgImg": "https://i.postimg.cc/Gm5CD3q7/green-floral.png",
         "mainBorder": "4px double #a9a75a",
         "otherBorder": "3px double #a9a75a",
         "linkColor": "eaeeb7"
@@ -198,7 +198,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "eeede9",
-        "bgImg": "https://dl.dropbox.com/scl/fi/pjp9007sl8hcfus9tkuga/green-foliage.png?rlkey=o6wdx13nt8icuv5acmfx98rwn&st=hbxqf2px&dl=0",
+        "bgImg": "https://i.postimg.cc/SKYpf0Py/green-foliage.png",
         "mainBorder": "2px solid #233a2e",
         "otherBorder": "1px solid #233a2e",
         "linkColor": "233a2e"
@@ -210,7 +210,7 @@
         "headerFont": "Tahoma, Verdana, sans-serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "ecfdd5",
-        "bgImg": "https://dl.dropbox.com/scl/fi/su4fcyxf2apj7k7grwoz0/congruent_pentagon.png?rlkey=09e02zmem3d32u1940t6x5a3t&st=r5quxfje&dl=0",
+        "bgImg": "https://i.postimg.cc/Y0HkSXbt/congruent-pentagon.webp",
         "mainBorder": "2px solid #ffffff",
         "otherBorder": "1px solid #ffffff",
         "linkColor": "3F5E4B"
@@ -222,7 +222,7 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bgColor": "e7e4df",
-        "bgImg": "https://dl.dropbox.com/scl/fi/6mk3ccpux1mw0rqmt6avn/kitties.png?rlkey=t0d8cgitt1f4i4ojw3v4akm6d&st=qbdnkcdv&dl=0",
+        "bgImg": "https://i.postimg.cc/8cNQG7z5/kitties.png",
         "mainBorder": "2px solid #babdc9",
         "otherBorder": "3px double #babdc9",
         "linkColor": "232c37"
@@ -234,7 +234,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "f0c084",
-        "bgImg": "https://dl.dropbox.com/scl/fi/lars1m1bqj57r0awsg4o3/monarch-butterflies.png?rlkey=dpgbmn25er36w292zv5qt1z9z&st=1eswil90&dl=0",
+        "bgImg": "https://i.postimg.cc/B6WfhYW2/monarch-butterflies.png",
         "mainBorder": "4px double #17181b",
         "otherBorder": "3px double #e57341",
         "linkColor": "522627"
@@ -246,7 +246,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "0c032f",
-        "bgImg": "https://dl.dropbox.com/scl/fi/dz61r8nurm5yo6oszho52/night-sky.png?rlkey=0q5zm3fs6thn0n270dl7s2t02&st=kaof1nww&dl=0",
+        "bgImg": "https://i.postimg.cc/3Jr5b0qf/night-sky.png",
         "mainBorder": "4px double #c7bcf6",
         "otherBorder": "3px double #c7bcf6",
         "linkColor": "c7bcf6"
@@ -258,7 +258,7 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bgColor": "fdfbe8",
-        "bgImg": "https://dl.dropbox.com/scl/fi/y8p506cy80dzqtrw75bkd/flowers-like-sun.jpg?rlkey=wax2wutqtkwtlp9p5seretmln&st=x98ut83g&dl=0",
+        "bgImg": "https://i.postimg.cc/T2Vfs631/flowers-like-sun.jpg",
         "mainBorder": "2px solid #FFB243",
         "otherBorder": "1px solid #FFB243",
         "linkColor": "995900"
@@ -270,7 +270,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "ddcbbd",
-        "bgImg": "https://dl.dropbox.com/scl/fi/rnippvqif9l9wmnussa0z/oyster-mushrooms.png?rlkey=e28msriezctb3it9vxsmjl51v&st=2au7m0ky&dl=0",
+        "bgImg": "https://i.postimg.cc/YqXKcqKr/oyster-mushrooms.png",
         "mainBorder": "2px solid #5f4233",
         "otherBorder": "1px solid #5f4233",
         "linkColor": "5f4233"
@@ -282,7 +282,7 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "bgColor": "ebe9e0",
-        "bgImg": "https://dl.dropbox.com/scl/fi/92h0vra6bge6rlqgfru9f/paisley.png?rlkey=ydwxm09adqkhxf9v00zhp04ax&st=tyzs30tl&dl=0",
+        "bgImg": "https://i.postimg.cc/BvKd1T8b/paisley.png",
         "mainBorder": "2px solid #354376",
         "otherBorder": "1px solid #354376",
         "linkColor": "7b0f24"
@@ -294,7 +294,7 @@
         "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "bgColor": "1e083b",
-        "bgImg": "https://dl.dropbox.com/s/0sph3vp7prdl78r/peacock.png?dl=0",
+        "bgImg": "https://i.postimg.cc/Z5CkJt4r/peacock.png",
         "mainBorder": "3px double #238630",
         "otherBorder": "3px double #238630",
         "linkColor": "34cb48"
@@ -306,7 +306,7 @@
         "headerFont": "Tahoma, Verdana, sans-serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "f6f6ef",
-        "bgImg": "https://dl.dropbox.com/s/vy44mjc5bfdeqd0/pigs.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/RZ8kFsZ2/pigs.jpg",
         "mainBorder": "1px solid #d75b99",
         "otherBorder": "1px dashed #d75b99",
         "linkColor": "a42866"
@@ -330,7 +330,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "bgColor": "f9dada",
-        "bgImg": "https://dl.dropbox.com/scl/fi/wtwmgmm82ec9tutvu7m4q/pink-roses.png?rlkey=wytta3r2j2kfgwi0jf6e39dye&st=aqs3zchf&dl=0",
+        "bgImg": "https://i.postimg.cc/k4NzT7vd/pink-butterflies.png",
         "mainBorder": "2px solid #9d9a78",
         "otherBorder": "1px solid #9d9a78",
         "linkColor": "730c1d"
@@ -342,7 +342,7 @@
         "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "e2deed",
-        "bgImg": "https://dl.dropbox.com/s/cgxawn4q5ky505g/purple-butterflies.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/B6fR5jDg/purple-butterflies.jpg",
         "mainBorder": "3px double #625095",
         "otherBorder": "3px double #625095",
         "linkColor": "423663"
@@ -354,7 +354,7 @@
         "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "f2f2f2",
-        "bgImg": "https://dl.dropbox.com/scl/fi/sm5e4c6mgq4mawog9pute/sun-pattern.png?rlkey=1llhtotitwh96peu6v2g2jwky&st=jwnkh20c&dl=0",
+        "bgImg": "https://i.postimg.cc/j2dgvPjz/sun-pattern.webp",
         "mainBorder": "2px solid #e6e6e6",
         "otherBorder": "1px solid #e6e6e6",
         "linkColor": "262626"
@@ -366,7 +366,7 @@
         "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
         "bodyFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bgColor": "790006",
-        "bgImg": "https://dl.dropbox.com/scl/fi/sb7scmihckcks0x9649vd/red-roses.png?rlkey=gz3637v4enucixi6ufotp4fsh&st=2let6fun&dl=0",
+        "bgImg": "https://i.postimg.cc/7hmcyXRs/red-roses.png",
         "mainBorder": "2px solid #da8292",
         "otherBorder": "3px double #da8292",
         "linkColor": "e8b0bb"
@@ -378,7 +378,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "660002",
-        "bgImg": "https://dl.dropbox.com/scl/fi/0tbhxap2etnbij12jx6cq/red-texture.png?rlkey=yfujm3h28znd9fvqzk05mnzu6&st=0jm5jrsb&dl=0",
+        "bgImg": "https://i.postimg.cc/gkt5SS8r/red-texture.png",
         "mainBorder": "4px double #e60e3a",
         "otherBorder": "3px double #e60e3a",
         "linkColor": "fccfd8"
@@ -390,7 +390,7 @@
         "headerFont": "'Brush Script MT', Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "fce7e7",
-        "bgImg": "https://dl.dropbox.com/s/ssn9wto7twefg54/retro-rounded-cubes.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/Kv8w5SKd/retro-rounded-cubes.jpg",
         "mainBorder": "2px solid #ffffff",
         "otherBorder": "1px solid #ffffff",
         "linkColor": "51447b"
@@ -402,7 +402,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "FBFEF5",
-        "bgImg": "https://dl.dropbox.com/s/5o04mxyyf9uxgys/roses.jpg?dl=0",
+        "bgImg": "https://i.postimg.cc/0NDBN93J/roses.jpg",
         "mainBorder": "2px solid #d1d194",
         "otherBorder": "2px dotted #d1d194",
         "linkColor": "2C2D29"
@@ -414,7 +414,7 @@
         "headerFont": "Tahoma, Verdana, sans-serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "000000",
-        "bgImg": "https://dl.dropbox.com/s/skqltxsu8eq33yh/black_scales.png?dl=0",
+        "bgImg": "https://i.postimg.cc/Qdx85yst/black-scales.webp",
         "mainBorder": "3px double #ffffff",
         "otherBorder": "1px solid #ffffff",
         "linkColor": "e6e6e6"
@@ -426,7 +426,7 @@
         "headerFont": "'Times New Roman', Times, serif",
         "bodyFont": "Tahoma, Verdana, sans-serif",
         "bgColor": "D6E8ED",
-        "bgImg": "https://dl.dropbox.com/scl/fi/4eo6fi06ae18f3iu2gpt6/trees.png?rlkey=m28swtih7h9qzayuyr2duupwj&st=2zg21xsx&dl=0",
+        "bgImg": "https://i.postimg.cc/j2g812WB/trees.webp",
         "mainBorder": "4px double #ffffff",
         "otherBorder": "3px double #ffffff",
         "linkColor": "26292A"
@@ -438,7 +438,7 @@
         "headerFont": "Garamond, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "cccccc",
-        "bgImg": "https://dl.dropbox.com/scl/fi/8jgzu37nfgcxra5h74va0/wild_flowers.png?rlkey=xb1wehonp98lqjxzhyup5nuu3&st=z03xu8p3&dl=0",
+        "bgImg": "https://i.postimg.cc/JzBTT1Rd/wild-flowers.png",
         "mainBorder": "3px double #dddddd",
         "otherBorder": "1px solid #dddddd",
         "linkColor": "262626"
@@ -450,7 +450,7 @@
         "headerFont": "Georgia, 'Times New Roman', Times, serif",
         "bodyFont": "Verdana, Tahoma, sans-serif",
         "bgColor": "eae6db",
-        "bgImg": "https://dl.dropbox.com/scl/fi/9e0wrkc9b35v4ywln6tnh/woodland-creatures.png?rlkey=77c0pt42478m6yslsh7akg0xy&st=f299zm1k&dl=0",
+        "bgImg": "https://i.postimg.cc/zBq0XKK9/woodland-creatures.png",
         "mainBorder": "2px solid #433a23",
         "otherBorder": "1px solid #433a23",
         "linkColor": "433a23"
@@ -462,7 +462,7 @@
         "headerFont": "'Brush Script MT', 'Times New Roman', Times, serif",
         "bodyFont": "Garamond, 'Times New Roman', Times, serif",
         "bgColor": "fbf9c0",
-        "bgImg": "https://dl.dropbox.com/scl/fi/ke0ce1nnaihoihqkelgnt/yellow-dragonflies.png?rlkey=npwu6os5b8srqpmeqt912r44x&st=kcxgb7gt&dl=0",
+        "bgImg": "https://i.postimg.cc/JhNpLPDN/yellow-dragonflies.png",
         "mainBorder": "2px solid #eca746",
         "otherBorder": "1px solid #eca746",
         "linkColor": "452b07"
@@ -474,7 +474,7 @@
         "headerFont": "Cambria, Georgia, Times, 'Times New Roman', serif",
         "bodyFont": "Arial, Helvetica, sans-serif",
         "bgColor": "ebda93",
-        "bgImg": "https://dl.dropbox.com/scl/fi/hdhkipzu7f9skg1zedzrz/yellow-floral.png?rlkey=qnjavxkq5jpcj82v9iwk0p9a2&st=iiflodfn&dl=0",
+        "bgImg": "https://i.postimg.cc/ydnnJxTW/yellow-floral.png",
         "mainBorder": "2px solid #75550d",
         "otherBorder": "1px solid #75550d",
         "linkColor": "75550d"
