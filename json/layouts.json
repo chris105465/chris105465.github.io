@@ -42,6 +42,13 @@
         "category": "aesthetic"
     },
     {
+        "name": "Epipremnum aureum",
+        "img": "epipremnum-aureum.png",
+        "link": "https://chris105465.github.io/layouts/css/aesthetic/epipremnum-aureum.css",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
         "name": "Flower in the Dark",
         "img": "flower-in-dark.png",
         "link": "https://chris105465.github.io/layouts/css/aesthetic/flower-in-dark.css",
@@ -171,6 +178,13 @@
         "name": "Sleepy Croc",
         "img": "sleepy-croc.png",
         "link": "https://chris105465.github.io/layouts/css/animal/sleepy-croc.css",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Whale Shark",
+        "img": "whale-shark.png",
+        "link": "https://chris105465.github.io/layouts/css/animal/whale-shark.css",
         "green": "green",
         "category": "animal"
     },
@@ -430,6 +444,13 @@
         "name": "Spacey Blue",
         "img": "space-blue.png",
         "link": "https://chris105465.github.io/layouts/css/scenic/space-blue.css",
+        "green": "green",
+        "category": "scenic"
+    },
+    {
+        "name": "Wisteria",
+        "img": "wisteria.png",
+        "link": "https://chris105465.github.io/layouts/css/scenic/wisteria.css",
         "green": "green",
         "category": "scenic"
     },
