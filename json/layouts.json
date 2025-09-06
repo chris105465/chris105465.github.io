@@ -1,736 +1,649 @@
 [
     {
         "name": "Charred Wood",
-        "img": "charred-wood.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/charred-wood.css",
+        "link": "charred-wood",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Cherry Blossoms",
-        "img": "cherryblossom.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/cherryblossom.css",
+        "link": "cherryblossom",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Colorful Tiles",
-        "img": "colorful-tiles.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/colorful-tiles.css",
+        "link": "colorful-tiles",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Cottagecore",
-        "img": "cottagecore.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/cottagecore.css",
+        "link": "cottagecore",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Daisies",
-        "img": "daisies.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/daisies.css",
+        "link": "daisies",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Eggplant",
-        "img": "eggplant.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/eggplant.css",
+        "link": "eggplant",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Epipremnum aureum",
-        "img": "epipremnum-aureum.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/epipremnum-aureum.css",
+        "link": "epipremnum-aureum",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Flower in the Dark",
-        "img": "flower-in-dark.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/flower-in-dark.css",
+        "link": "flower-in-dark",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Gold Centennial",
-        "img": "gold-100.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/gold-100.css",
+        "link": "gold-100",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Honeycomb",
-        "img": "honeycomb.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/honeycomb.css",
+        "link": "honeycomb",
         "green": "",
         "category": "aesthetic"
     },
     {
         "name": "Iridescent",
-        "img": "iridescent.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/iridescent.css",
+        "link": "iridescent",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Late Assignment",
-        "img": "assignment.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/assignment.css",
+        "link": "assignment",
         "green": "",
         "category": "aesthetic"
     },
     {
         "name": "Pink Clouds",
-        "img": "pink-clouds.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/pink-clouds.css",
+        "link": "pink-clouds",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Pink Skyline",
-        "img": "pink-skyline.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/pink-skyline.css",
+        "link": "pink-skyline",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Rainbow Bokeh",
-        "img": "rainbow-bokeh.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/rainbow-bokeh.css",
+        "link": "rainbow-bokeh",
         "green": "",
         "category": "aesthetic"
     },
     {
         "name": "Red Sun",
-        "img": "red-sun.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/red-sun.css",
+        "link": "red-sun",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Spider Lilies",
-        "img": "spider-lily.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/spider-lily.css",
+        "link": "spider-lily",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Stamps",
-        "img": "stamps.png",
-        "link": "https://chris105465.github.io/layouts/css/aesthetic/stamps.css",
+        "link": "stamps",
         "green": "green",
         "category": "aesthetic"
     },
     {
         "name": "Black Vulture",
-        "img": "black-vulture.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/black-vulture.css",
+        "link": "black-vulture",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Dik Dik",
-        "img": "dik-dik.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/dik-dik.css",
+        "link": "dik-dik",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Dinos",
-        "img": "dinos.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/dinos.css",
+        "link": "dinos",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Komodo Dragon",
-        "img": "komodo-dragon.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/komodo-dragon.css",
+        "link": "komodo-dragon",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Lion Pride",
-        "img": "lion-pride.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/lion-pride.css",
+        "link": "lion-pride",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Lounging Lionesses",
-        "img": "lounging-lionesses.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/lounging-lionesses.css",
+        "link": "lounging-lionesses",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Pigeons",
-        "img": "pigeons.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/pigeons.css",
+        "link": "pigeons",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Sleepy Croc",
-        "img": "sleepy-croc.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/sleepy-croc.css",
+        "link": "sleepy-croc",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "Whale Shark",
-        "img": "whale-shark.png",
-        "link": "https://chris105465.github.io/layouts/css/animal/whale-shark.css",
+        "link": "whale-shark",
         "green": "green",
         "category": "animal"
     },
     {
         "name": "February - Flamingos",
-        "img": "february-flamingos.png",
-        "link": "https://chris105465.github.io/layouts/css/event/february-flamingos.css",
+        "link": "february-flamingos",
         "green": "green",
         "category": "event"
     },
     {
         "name": "February - Hearts",
-        "img": "february-hearts.png",
-        "link": "https://chris105465.github.io/layouts/css/event/february-hearts.css",
+        "link": "february-hearts",
         "green": "green",
         "category": "event"
     },
     {
         "name": "March - Elephants",
-        "img": "march-elephants.png",
-        "link": "https://chris105465.github.io/layouts/css/event/march-elephants.css",
+        "link": "march-elephants",
         "green": "green",
         "category": "event"
     },
     {
         "name": "March - Rhinos",
-        "img": "march-rhinos.png",
-        "link": "https://chris105465.github.io/layouts/css/event/march-rhinos.css",
+        "link": "march-rhinos",
         "green": "green",
         "category": "event"
     },
     {
         "name": "April - Bunnies",
-        "img": "april-bunnies.png",
-        "link": "https://chris105465.github.io/layouts/css/event/april-bunnies.css",
+        "link": "april-bunnies",
         "green": "green",
         "category": "event"
     },
     {
         "name": "July - Big Bang",
-        "img": "july-big-bang.png",
-        "link": "https://chris105465.github.io/layouts/css/event/july-big-bang.css",
+        "link": "july-big-bang",
         "green": "green",
         "category": "event"
     },
     {
         "name": "July - Crab Nebula",
-        "img": "july-crab-nebula.png",
-        "link": "https://chris105465.github.io/layouts/css/event/july-crab-nebula.css",
+        "link": "july-crab-nebula",
         "green": "green",
         "category": "event"
     },
     {
         "name": "July - Jupiter",
-        "img": "july-jupiter.png",
-        "link": "https://chris105465.github.io/layouts/css/event/july-jupiter.css",
+        "link": "july-jupiter",
         "green": "green",
         "category": "event"
     },
     {
         "name": "July - Planetary Nebula",
-        "img": "july-planetary-nebula.png",
-        "link": "https://chris105465.github.io/layouts/css/event/july-planetary-nebula.css",
+        "link": "july-planetary-nebula",
         "green": "green",
         "category": "event"
     },
     {
         "name": "July - Star Cluster",
-        "img": "july-star-cluster.png",
-        "link": "https://chris105465.github.io/layouts/css/event/july-star-cluster.css",
+        "link": "july-star-cluster",
         "green": "green",
         "category": "event"
     },
     {
         "name": "August - Drought",
-        "img": "august-drought.png",
-        "link": "https://chris105465.github.io/layouts/css/event/august-drought.css",
+        "link": "august-drought",
         "green": "green",
         "category": "event"
     },
     {
         "name": "August - Fire",
-        "img": "august-fire.png",
-        "link": "https://chris105465.github.io/layouts/css/event/august-fire.css",
+        "link": "august-fire",
         "green": "green",
         "category": "event"
     },
     {
         "name": "September - Drowned",
-        "img": "september-drowned.png",
-        "link": "https://chris105465.github.io/layouts/css/event/september-drowned.css",
+        "link": "september-drowned",
         "green": "green",
         "category": "event"
     },
     {
         "name": "September - Omens",
-        "img": "september-omens.png",
-        "link": "https://chris105465.github.io/layouts/css/event/september-omens.css",
+        "link": "september-omens",
         "green": "green",
         "category": "event"
     },
     {
         "name": "September - Tall Grass",
-        "img": "september-grass.png",
-        "link": "https://chris105465.github.io/layouts/css/event/september-grass.css",
+        "link": "september-grass",
         "green": "green",
         "category": "event"
     },
     {
         "name": "October - Heaven",
-        "img": "october-heaven.png",
-        "link": "https://chris105465.github.io/layouts/css/event/october-heaven.css",
+        "link": "october-heaven",
         "green": "green",
         "category": "event"
     },
     {
         "name": "October - Hell",
-        "img": "october-hell.png",
-        "link": "https://chris105465.github.io/layouts/css/event/october-hell.css",
+        "link": "october-hell",
         "green": "green",
         "category": "event"
     },
     {
         "name": "November - Fossils",
-        "img": "november-fossils.png",
-        "link": "https://chris105465.github.io/layouts/css/event/november-fossils.css",
+        "link": "november-fossils",
         "green": "green",
         "category": "event"
     },
     {
         "name": "November - Herbs",
-        "img": "november-herbs.png",
-        "link": "https://chris105465.github.io/layouts/css/event/november-herbs.css",
+        "link": "november-herbs",
         "green": "green",
         "category": "event"
     },
     {
         "name": "November - Tarot",
-        "img": "november-tarot.png",
-        "link": "https://chris105465.github.io/layouts/css/event/november-tarot.css",
+        "link": "november-tarot",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "December - Ice",
+        "link": "december-ice",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "December - Ragdoll Cat",
+        "link": "december-ragdoll-cat",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "December - Reindeer",
+        "link": "december-reindeer",
         "green": "green",
         "category": "event"
     },
     {
         "name": "Lesbian",
-        "img": "lesbian.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/lesbian.css",
+        "link": "lesbian",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Gay",
-        "img": "gay.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/gay.css",
+        "link": "gay",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Bi Vibes",
-        "img": "bi-vibes.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/bi-vibes.css",
+        "link": "bi-vibes",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Trans",
-        "img": "trans.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/trans.css",
+        "link": "trans",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Ace",
-        "img": "ace.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/ace.css",
+        "link": "ace",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Aro/Agender",
-        "img": "aro-agender.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/aro-agender.css",
+        "link": "aro-agender",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Enby",
-        "img": "enby.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/enby.css",
+        "link": "enby",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Pan",
-        "img": "pan.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/pan.css",
+        "link": "pan",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Light Rainbow",
-        "img": "pride-rainbow.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/pride-rainbow.css",
+        "link": "pride-rainbow",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Dark Rainbow",
-        "img": "dark-rainbow.png",
-        "link": "https://chris105465.github.io/layouts/css/pride/dark-rainbow.css",
+        "link": "dark-rainbow",
         "green": "green",
         "category": "pride"
     },
     {
         "name": "Boat at Night",
-        "img": "boat-at-night.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/boat-at-night.css",
+        "link": "boat-at-night",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Moss Forest Orb",
-        "img": "moss-crystal.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/moss-crystal.css",
+        "link": "moss-crystal",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Mossy Forest",
-        "img": "mossy-forest.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/mossy-forest.css",
+        "link": "mossy-forest",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Mountain Pass",
-        "img": "mountain-pass.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/mountain-pass.css",
+        "link": "mountain-pass",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Purple Lightning",
-        "img": "purple-lightning.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/purple-lightning.css",
+        "link": "purple-lightning",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Rocky Arch",
-        "img": "rocky-arch.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/rocky-arch.css",
+        "link": "rocky-arch",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Spacey Blue",
-        "img": "space-blue.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/space-blue.css",
+        "link": "space-blue",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Wisteria",
-        "img": "wisteria.png",
-        "link": "https://chris105465.github.io/layouts/css/scenic/wisteria.css",
+        "link": "wisteria",
         "green": "green",
         "category": "scenic"
     },
     {
         "name": "Spring Bird",
-        "img": "spring-bird.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/spring-bird.css",
+        "link": "spring-bird",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Spring Night",
-        "img": "spring-night.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/spring-night.css",
+        "link": "spring-night",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Summer Beach",
-        "img": "season-summer.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/season-summer.css",
+        "link": "season-summer",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Summer Sunset",
-        "img": "summer-sunset.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/beach-sunset.css",
+        "link": "beach-sunset",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Autumn Leaves",
-        "img": "season-autumn.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/season-autumn.css",
+        "link": "season-autumn",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Harvest Moon",
-        "img": "harvest-moon.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/harvest-moon.css",
+        "link": "harvest-moon",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Winter Pond",
-        "img": "winter-pond.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/winter-pond.css",
+        "link": "winter-pond",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Winter Ice",
-        "img": "season-winter.png",
-        "link": "https://chris105465.github.io/layouts/css/seasonal/season-winter.css",
+        "link": "season-winter",
         "green": "green",
         "category": "seasonal"
     },
     {
         "name": "Asphalt",
-        "img": "asphalt.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/asphalt.css",
+        "link": "asphalt",
         "green": "green",
         "category": "simple"
     },
     {
         "name": "Blue and Peach",
-        "img": "blue-and-peach.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/blue-and-peach.css",
+        "link": "blue-and-peach",
         "green": "",
         "category": "simple"
     },
     {
         "name": "Cyan and Orange",
-        "img": "cyan-and-orange.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/cyan-and-orange.css",
+        "link": "cyan-and-orange",
         "green": "green",
         "category": "simple"
     },
     {
         "name": "Pink Skulls",
-        "img": "pink-skulls.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/pink-skulls.css",
+        "link": "pink-skulls",
         "green": "green",
         "category": "simple"
     },
     {
         "name": "Plum and Silver",
-        "img": "plum-and-blue.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/plum-and-silver.css",
+        "link": "plum-and-silver",
         "green": "",
         "category": "simple"
     },
     {
         "name": "Purple Lobby",
-        "img": "purple-lobby.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/purple-lobby.css",
+        "link": "purple-lobby",
         "green": "green",
         "category": "simple"
     },
     {
         "name": "Wine and Bone",
-        "img": "wine-and-bone.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/wine-and-bone.css",
+        "link": "wine-and-bone",
         "green": "",
         "category": "simple"
     },
     {
         "name": "Winter",
-        "img": "winter.png",
-        "link": "https://chris105465.github.io/layouts/css/simple/winter.css",
+        "link": "winter",
         "green": "",
         "category": "simple"
     },
     {
         "name": "Dark Red",
-        "img": "dark-red.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-red.css",
+        "link": "dark-red",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Orange",
-        "img": "dark-orange.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-orange.css",
+        "link": "dark-orange",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Gold",
-        "img": "dark-gold.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-gold.css",
+        "link": "dark-gold",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Chartreuse",
-        "img": "dark-chartreuse.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-chartreuse.css",
+        "link": "dark-chartreuse",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Green",
-        "img": "dark-green.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-green.css",
+        "link": "dark-green",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Mint",
-        "img": "dark-mint.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-mint.css",
+        "link": "dark-mint",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Cyan",
-        "img": "dark-cyan.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-cyan.css",
+        "link": "dark-cyan",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Blue",
-        "img": "dark-blue.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-blue.css",
+        "link": "dark-blue",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Purple",
-        "img": "dark-purple.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-purple.css",
+        "link": "dark-purple",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Magenta",
-        "img": "dark-magenta.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-magenta.css",
+        "link": "dark-magenta",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Pink",
-        "img": "dark-pink.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-pink.css",
+        "link": "dark-pink",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dark Silver",
-        "img": "dark-silver.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dark-silver.css",
+        "link": "dark-silver",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Red",
-        "img": "dim-red.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-red.css",
+        "link": "dim-red",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Orange",
-        "img": "dim-orange.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-orange.css",
+        "link": "dim-orange",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Gold",
-        "img": "dim-gold.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-gold.css",
+        "link": "dim-gold",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Chartreuse",
-        "img": "dim-chartreuse.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-chartreuse.css",
+        "link": "dim-chartreuse",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Green",
-        "img": "dim-green.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-green.css",
+        "link": "dim-green",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Mint",
-        "img": "dim-mint.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-mint.css",
+        "link": "dim-mint",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Cyan",
-        "img": "dim-cyan.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-cyan.css",
+        "link": "dim-cyan",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Blue",
-        "img": "dim-blue.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-blue.css",
+        "link": "dim-blue",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Purple",
-        "img": "dim-purple.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-purple.css",
+        "link": "dim-purple",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Magenta",
-        "img": "dim-magenta.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-magenta.css",
+        "link": "dim-magenta",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Pink",
-        "img": "dim-pink.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-pink.css",
+        "link": "dim-pink",
         "green": "",
         "category": "dark"
     },
     {
         "name": "Dim Silver",
-        "img": "dim-silver.png",
-        "link": "https://chris105465.github.io/layouts/css/dark/dim-silver.css",
+        "link": "dim-silver",
         "green": "",
         "category": "dark"
     }

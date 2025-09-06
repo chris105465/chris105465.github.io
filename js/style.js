@@ -30,7 +30,8 @@ function displayLayouts(css) {
         card.classList = 'col-sm-12 col-md-6 col-lg-4 mb-3'
         let codeName = entry.name
         codeName = codeName.replace(/\s+/g, '')
-        card.innerHTML = `<div class="card h-100"><img src="./img/${entry.category}/${entry.img}" class="card-img-top" alt="${entry.name} Layout Preview"><div class="card-body"><h5 class="card-title pb-1 ${entry.green}"><div class="d-flex justify-content-between align-items-end"><label for="${codeName}Code">${entry.name}</label><button onclick="copyButton('${codeName}Code')" class="btn btn-primary">Copy Code</button></div></h5><textarea name="copy-field" id="${codeName}Code" class="copy-field" rows="4">&lt;link rel="stylesheet" type="text/css" href="${entry.link}" /></textarea></div></div>`
+        let url = `https://chris105465.github.io/layouts/css/${entry.category}/${entry.link}.css`
+        card.innerHTML = `<div class="card h-100"><img src="./img/${entry.category}/${entry.link}.png" class="card-img-top" alt="${entry.name} Layout Preview"><div class="card-body"><h5 class="card-title pb-1 ${entry.green}">${entry.name}</h5><div class="d-flex justify-content-between align-items-end"><label class="pb-2" for="${codeName}DenCode">Den/Branch/Clan Code:</label><button onclick="copyButton('${codeName}DenCode')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${codeName}DenCode" class="copy-field" rows="3">&lt;link rel="stylesheet" type="text/css" href="${url}" /></textarea><div class="d-flex justify-content-between align-items-end"><label class="py-2" for="${codeName}CaveCode">Cave/Mounds URL:</label><button onclick="copyButton('${codeName}CaveCode')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${codeName}CaveCode" class="copy-field" rows="2">${url}</textarea></div></div>`
 
         if (entry.category == "aesthetic") {
             aesthetic.appendChild(card)

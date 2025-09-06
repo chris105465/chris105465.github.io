@@ -87,48 +87,38 @@
         </ul>
         <!-- test -->
         <h4>How to Use:</h4>
-        Dens and Branches:
+        Dens, Branches, and Clans:
         <ol class="ms-2 pe-5">
-            <li>Copy the Code</li>
+            <li>Copy the Den/Branch/Clan Code</li>
             <li>Paste it at the top of your territory/branch description before anything else (yes this is necessary)
             </li>
             <li>That's it! Your CSS should now be applied after saving your territory or branch description.</li>
         </ol>
-        Caves:
+        Caves and Mounds:
         <ol class="ms-2 pe-5">
-            <li>Copy the dropbox URL from the code</li>
+            <li>Copy the Cave/Mounds URL</li>
             <li>Paste into the fields that says "Cave CSS/Mound CSS" above the text box for the cave description</li>
-            <li>That's it! your layout should now be applied to your cave once you save the cave description.</li>
+            <li>That's it! your layout should now be applied to your cave or mound once you save the cave description.
+            </li>
         </ol>
-        <p>"What URL are you talking about?" you may be asking. Let me give you an example so you can see more clearly
-            what I mean.</p>
-        <p class="px-5">&lt;link rel="stylesheet" type="text/css" href="<span class="highlight"
-                style="word-wrap: break-word;">https://chris105465.github.io/layouts/css/aesthetic/charred-wood.css</span>"
-            /></p>
-        <p>Here is the code for the Charred Wood layout. You'll see that in the href attribute there is double quotes
-            surrounding the URL that I have highlighted in green. That highlighted section is exactly the URL I'm
-            talking about. So to find the URL for any of the layouts, look for where it says href and copy whatever is
-            <strong>inside the double quotes</strong>. Not including the double quotes themselves, just what's inside of
-            them.
-        </p>
-        <p>All of these layouts are clan compatible (applying works like dens and branches) and any whose names are in
+        <p>All of these layouts are clan compatible and any whose names are in
             <span class="green">green</span> have
             cave images included.
         </p>
         <div class="row pb-3 mt-4" id="aestheticCon">
-            <h3 class="pb-2" id="aesthetic">Aesthetic Layouts (17)</h3>
+            <h3 class="pb-2" id="aesthetic">Aesthetic Layouts (18)</h3>
         </div>
         <div class="row pb-3" id="animalCon">
-            <h3 class="pb-2" id="animal">Animal Layouts (8)</h3>
+            <h3 class="pb-2" id="animal">Animal Layouts (9)</h3>
         </div>
         <div class="row pb-3" id="eventCon">
-            <h3 class="pb-2" id="event">Event Layouts (18)</h3>
+            <h3 class="pb-2" id="event">Event Layouts (23)</h3>
         </div>
         <div class="row pb-3" id="prideCon">
             <h3 class="pb-2" id="pride">Pride Layouts (10)</h3>
         </div>
         <div class="row pb-3" id="scenicCon">
-            <h3 class="pb-2" id="scenic">Scenic Layouts (7)</h3>
+            <h3 class="pb-2" id="scenic">Scenic Layouts (8)</h3>
         </div>
         <div class="row pb-3" id="seasonalCon">
             <h3 class="pb-2" id="seasonal">Seasonal Layouts (8)</h3>
@@ -173,19 +163,19 @@
                         <h5 class="card-title pb-1">Hover Expanding Boxes</h5>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="hoverBoxCSS" class="pb-2">CSS Link</label><button
-                                onclick="copyButton('hoverBoxCSS')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('hoverBoxCSS')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="hoverBoxCSS" name="copy-field" class="copy-field"
                             rows="4">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/hover-boxes.css" /></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="hoverBigBox" class="py-2">HTML (Big Box)</label><button
-                                onclick="copyButton('hoverBigBox')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('hoverBigBox')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="hoverBigBox" name="copy-field" class="copy-field"
                             rows="2">&lt;div class="bigBox">TEXT HERE&lt;/div></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="hoverTwoBox" class="py-2">HTML (Two Small Boxes)</label><button
-                                onclick="copyButton('hoverTwoBox')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('hoverTwoBox')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="hoverTwoBox" name="copy-field" class="copy-field"
                             rows="5">&lt;div class="scrollSection">&lt;div class="scrollBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">RIGHT TEXT HERE&lt;/div>&lt;/div></textarea>
@@ -199,13 +189,13 @@
                         <h5 class="card-title pb-1">Static Box Layout #1</h5>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="staticOneCSS" class="pb-2">CSS Link</label><button
-                                onclick="copyButton('staticOneCSS')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('staticOneCSS')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticOneCSS" name="copy-field" class="copy-field"
                             rows="4">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/static-1.css" /></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="staticOneHTML" class="py-2">HTML</label><button
-                                onclick="copyButton('staticOneHTML')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('staticOneHTML')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticOneHTML" name="copy-field" class="copy-field"
                             rows="6">&lt;div class="scrollSection">&lt;div class="bigBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">TOP TEXT HERE&lt;/div>&lt;div class="scrollBox">BOTTOM TEXT HERE&lt;/div>&lt;/div></textarea>
@@ -219,13 +209,13 @@
                         <h5 class="card-title pb-1">Static Box Layout #2</h5>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="staticTwoCSS" class="pb-2">CSS Link</label><button
-                                onclick="copyButton('staticTwoCSS')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('staticTwoCSS')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticTwoCSS" name="copy-field" class="copy-field"
                             rows="4">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/static-2.css" /></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="staticTwoHTML" class="py-2">HTML</label><button
-                                onclick="copyButton('staticTwoHTML')" class="btn btn-primary mb-2">Copy Code</button>
+                                onclick="copyButton('staticTwoHTML')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticTwoHTML" name="copy-field" class="copy-field"
                             rows="6">&lt;div class="scrollSection">&lt;div class="bigBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" >RIGHT TEXT HERE&lt;/div>&lt;/div>&lt;div class="plainBox">BOTTOM TEXT HERE&lt;/div></textarea>
