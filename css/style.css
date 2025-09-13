@@ -131,39 +131,39 @@ textarea:focus-visible {
 }
 
 .arial {
-    font-family: Arial;
+    font-family: Arial, 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .verdana {
-    font-family: Verdana;
+    font-family: Verdana, 'Nunito', 'Geneva', Tahoma, sans-serif;
 }
 
 .tahoma {
-    font-family: Tahoma;
+    font-family: Tahoma, 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .trebuchet {
-    font-family: 'Trebuchet MS';
+    font-family: 'Trebuchet MS', 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .times {
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .georgia {
-    font-family: Georgia;
+    font-family: Georgia, 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .garamond {
-    font-family: Garamond;
+    font-family: Garamond, 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .courier {
-    font-family: 'Courier New';
+    font-family: 'Courier New', 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .brush {
-    font-family: 'Brush Script MT';
+    font-family: 'Brush Script MT', 'Nunito', Verdana, 'Geneva', Tahoma, sans-serif;
 }
 
 .font-ex li {
@@ -186,4 +186,66 @@ textarea:focus-visible {
     padding: .5em;
     text-shadow: 1px 1px 0 black;
     margin-top: 1em;
+}
+
+/* pride flags */
+
+.pride-flags {
+    font-size: 1.8rem;
+    font-family: 'Fraunces', Georgia, 'Times New Roman', Times, serif;
+}
+
+.pride-flags span {
+    height: 22px;
+    width: 27px;
+    border-radius: 4px;
+    background-color: var(--white);
+    display: inline-block;
+    border: 1px solid var(--white);
+}
+
+/* @media (max-width: 768px) {
+    .pride-flags span {
+        display: none;
+    }
+} */
+
+.pride {
+    background-image: linear-gradient(#000000 0% 12.5%, #784F17 12.5% 25%, #D12229 25% 37.5%, #F68A1E 37.5% 50%, #FDE01A 50% 62.5%, #007940 62.5% 75%, #24408E 75% 87.5%, #732982 87.5% 100%);
+}
+
+.lesbian {
+    background-image: linear-gradient(#D52D00 0% 20%, #FF9A56 20% 40%, #FFFFFF 40% 60%, #D162A4 60% 80%, #A30262 80% 100%);
+}
+
+.gay {
+    background-image: linear-gradient(#078D70 0% 20%, #98E8C1 20% 40%, #FFFFFF 40% 60%, #7BADE2 60% 80%, #3D1A78 80% 100%);
+}
+
+.bi {
+    background-image: linear-gradient(#D60270 0% 40%, #9B4F96 40% 60%, #0038A8 60% 100%);
+}
+
+.trans {
+    background-image: linear-gradient(#5BCEFA 0% 20%, #F5A9B8 20% 40%, #FFFFFF 40% 60%, #F5A9B8 60% 80%, #5BCEFA 80% 100%);
+}
+
+.ace {
+    background-image: linear-gradient(#000000 0% 25%, #A3A3A3 25% 50%, #FFFFFF 50% 75%, #800080 75% 100%);
+}
+
+.aro {
+    background-image: linear-gradient(#3DA542 0% 20%, #A7D379 20% 40%, #FFFFFF 40% 60%, #A9A9A9 60% 80%, #000000 80% 100%);
+}
+
+.enby {
+    background-image: linear-gradient(#FCF434 0% 25%, #FFFFFF 25% 50%, #9C59D1 50% 75%, #2C2C2C 75% 100%);
+}
+
+.agender {
+    background-image: linear-gradient(#000000 0% 14.25%, #BCC4C7 14.25% 28.50%, #FFFFFF 28.50% 42.75%, #B7F684 42.75% 57.25%, #FFFFFF 57.25% 71.50%, #BCC4C7 71.50% 85.75%, #000000 85.75% 100%);
+}
+
+.pan {
+    background-image: linear-gradient(#FF218C 0% 35%, #FFD800 35% 65%, #21B1FF 65% 100%);
 }

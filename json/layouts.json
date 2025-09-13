@@ -162,6 +162,24 @@
         "category": "animal"
     },
     {
+        "name": "January - Boneyard",
+        "link": "january-boneyard",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "January - Laharu",
+        "link": "january-laharu",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "January - Pirates",
+        "link": "january-pirates",
+        "green": "green",
+        "category": "event"
+    },
+    {
         "name": "February - Flamingos",
         "link": "february-flamingos",
         "green": "green",
@@ -170,6 +188,12 @@
     {
         "name": "February - Hearts",
         "link": "february-hearts",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "February - Merlot",
+        "link": "february-merlot",
         "green": "green",
         "category": "event"
     },
@@ -188,6 +212,54 @@
     {
         "name": "April - Bunnies",
         "link": "april-bunnies",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "May - Colosseum",
+        "link": "may-colosseum",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "May - Medal",
+        "link": "may-medal",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "May - Trophy",
+        "link": "may-trophy",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "May - Vikings",
+        "link": "may-vikings",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "June - Anubis",
+        "link": "june-anubis",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "June - Bast",
+        "link": "june-bast",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "June - Seth",
+        "link": "june-seth",
+        "green": "green",
+        "category": "event"
+    },
+    {
+        "name": "June - Serpent",
+        "link": "june-serpent",
         "green": "green",
         "category": "event"
     },
