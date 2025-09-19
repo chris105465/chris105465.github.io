@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bracket Replacer</title>
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/style.css">
+    <title>HTML Templates</title>
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../css/style.css">
 </head>
 
 <body>
@@ -21,13 +21,13 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarToggler">
                     <ul class="navbar-nav me-4 mb-2 mb-lg-0">
                         <li class="nav-item mx-2">
-                            <a class="nav-link" href="./index.html" title="CSS Layouts">CSS</a>
+                            <a class="nav-link" href="../../index.html" title="CSS Layouts">CSS</a>
                         </li>
                         <li class=" nav-item mx-2">
-                            <a class="nav-link" href="./tutorials.html" title="Tutorials Page">Tutorials</a>
+                            <a class="nav-link" href="../../tutorials.html" title="Tutorials Page">Tutorials</a>
                         </li>
                         <li class=" nav-item mx-2">
-                            <a class="nav-link active" href="./replacer.html" title="Bracket Replacer Page">Bracket
+                            <a class="nav-link" href="../../replacer.html" title="Bracket Replacer Page">Bracket
                                 Replacer</a>
                         </li>
                     </ul>
@@ -57,37 +57,20 @@
         <div class="text-center">
             <p class="mb-md-0">Be kind to each other :&rpar;</p>
         </div>
-        <div class="row py-2">
-            <div class="col">
-                <h1>Bracket Replacer</h1>
-                <p>The perfect tool for swapping out left brackets with their respective character entity in order to
-                    easily send code through pms. Keep in mind, if you preview the text, the character entities will
-                    turn back into brackets and you will have to do this again, so I recommend pasting the code in after
-                    you've finished the rest of your message.</p>
-            </div>
+        <div class="row pt-2">
+            <h1>HTML Templates</h1>
         </div>
-        <div class="row pb-3">
-            <div class="col-12 col-md-6">
-                <form action="" id="code-form">
-                    <label for="code-box">Original Code Here:</label><br>
-                    <textarea name="" id="code-box" rows="22" class="copy-field"></textarea><br>
-                    <button class="btn btn-primary mb-2">Replace the Brackets!</button>
-                </form>
-            </div>
-            <div class="col-12 col-md-6">
-                <label for="final-code">PM Friendly Code:</label><br>
-                <textarea name="" id="final-code" rows="22" class="copy-field"></textarea><br>
-                <button onclick="copyButton('final-code')" class="btn btn-primary mb-2">Copy Code</button>
-            </div>
+        <div class="col-12 my-4" id="templateCon">
+        </div>
 
-            <!-- <h4 class="bi-tag">ILY Gay People in my Phone</h4> -->
-        </div>
+        <!-- <h4 class="bi-tag mb-4">ILY Gay People in my Phone</h4> -->
     </div>
     <div class="container p-3 mt-2 mt-md-5 footer">
         <footer class="text-center">&copy; Lioden user Chris (#105465)/(#106232)</footer>
     </div>
-    <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/style.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/style.js"></script>
+    <script>populateTemplates()</script>
 </body>
 
 </html>
