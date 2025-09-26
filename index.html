@@ -68,6 +68,7 @@
                     </li>
                     <li><a href="#animal" class="card-link" title="Animal Layout Section">Animal Layouts</a></li>
                     <li><a href="#event" class="card-link" title="Event Layout Section">Event Layouts</a></li>
+                    <li><a href="#food" class="card-link" title="Food Layout Section">Food Layouts</a></li>
                     <li><a href="#pride" class="card-link" title="Pride Layout Section">Pride Layouts</a></li>
                     <li><a href="#scenic" class="card-link" title="Scenic Layout Section">Scenic Layouts</a></li>
                     <li><a href="#seasonal" class="card-link" title="Seasonal Layout Section">Seasonal Layouts</a></li>
@@ -141,6 +142,9 @@
         <div class="row pb-3" id="eventCon">
             <h3 class="pb-2" id="event">Event Layouts (35)</h3>
         </div>
+        <div class="row pb-3" id="foodCon">
+            <h3 class="pb-2" id="event">Food Layouts (8)</h3>
+        </div>
         <div class="row pb-3" id="prideCon">
             <h3 class="pb-2" id="pride">Pride Layouts (10)</h3>
         </div>
@@ -173,15 +177,20 @@
                     (such as those for the layouts above) but before any text or box codes.</li>
                 <li>Copy box HTML</li>
                 <li>Paste into territory description after the CSS Link from previous steps</li>
-                <li>Style boxes to match page <strong>(Instructions on the <a href="./tutorials.html"
-                            title="Tutorials Page">Tutorials</a>
+                <li>If using someone else's layout, style boxes to match page <strong>(Instructions on the <a
+                            href="./tutorials.html" title="Tutorials Page">Tutorials</a>
                         page)</strong></li>
                 <li>Replace placeholder text with whatever you'd like</li>
                 <li>That's it! If you are having trouble getting these to work, please make sure you have followed all
-                    listed steps and looked through the Tutorials page before replying to the thread. Please do not PM
-                    me about these boxes.</li>
+                    listed steps and looked through the Tutorials page if applicable before replying to the thread.
+                    Please do not PM
+                    me about these boxes ever.</li>
             </ol>
-            <p class="pb-2">The preview images display how they look with no style changes made. As the name suggests,
+            <p class="pb-2">The preview images display how they look on a plain night layout with the placeholder
+                styling removed. They will immediately
+                match any of my layouts with the placeholder stuff, but if you are using someone else's, you'll have to
+                edit the properties in the
+                style attribute to make them match. As the name suggests,
                 the first set of boxes become larger when hovered over, but on mobile they are set to be taller with no
                 expansion to make them easier to use.</p>
             <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
@@ -194,19 +203,19 @@
                                 onclick="copyButton('hoverBoxCSS')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="hoverBoxCSS" name="copy-field" class="copy-field"
-                            rows="4">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/hover-boxes.css" /></textarea>
+                            rows="3">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/hover-boxes.css" /></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="hoverBigBox" class="py-2">HTML (Big Box)</label><button
                                 onclick="copyButton('hoverBigBox')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="hoverBigBox" name="copy-field" class="copy-field"
-                            rows="2">&lt;div class="bigBox">TEXT HERE&lt;/div></textarea>
+                            rows="3">&lt;div class="bigBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">TEXT HERE&lt;/div></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="hoverTwoBox" class="py-2">HTML (Two Small Boxes)</label><button
                                 onclick="copyButton('hoverTwoBox')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="hoverTwoBox" name="copy-field" class="copy-field"
-                            rows="5">&lt;div class="scrollSection">&lt;div class="scrollBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">RIGHT TEXT HERE&lt;/div>&lt;/div></textarea>
+                            rows="8">&lt;div class="scrollSection">&lt;div class="scrollBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">LEFT TEXT HERE&lt;/div>&lt;div class="smallBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">RIGHT TEXT HERE&lt;/div>&lt;/div></textarea>
                     </div>
                 </div>
             </div>
@@ -220,13 +229,13 @@
                                 onclick="copyButton('staticOneCSS')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticOneCSS" name="copy-field" class="copy-field"
-                            rows="4">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/static-1.css" /></textarea>
+                            rows="3">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/static-1.css" /></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="staticOneHTML" class="py-2">HTML</label><button
                                 onclick="copyButton('staticOneHTML')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticOneHTML" name="copy-field" class="copy-field"
-                            rows="6">&lt;div class="scrollSection">&lt;div class="bigBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox">TOP TEXT HERE&lt;/div>&lt;div class="scrollBox">BOTTOM TEXT HERE&lt;/div>&lt;/div></textarea>
+                            rows="10">&lt;div class="scrollSection">&lt;div class="bigBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">LEFT TEXT HERE&lt;/div>&lt;div class="smallBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">TOP TEXT HERE&lt;/div>&lt;div class="smallBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">BOTTOM TEXT HERE&lt;/div>&lt;/div></textarea>
                     </div>
                 </div>
             </div>
@@ -240,19 +249,57 @@
                                 onclick="copyButton('staticTwoCSS')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticTwoCSS" name="copy-field" class="copy-field"
-                            rows="4">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/static-2.css" /></textarea>
+                            rows="3">&lt;link rel="stylesheet" type="text/css" href="https://chris105465.github.io/layouts/css/boxes/static-2.css" /></textarea>
                         <div class="d-flex justify-content-between align-items-end">
                             <label for="staticTwoHTML" class="py-2">HTML</label><button
                                 onclick="copyButton('staticTwoHTML')" class="btn btn-primary mb-2">Copy</button>
                         </div>
                         <textarea id="staticTwoHTML" name="copy-field" class="copy-field"
-                            rows="6">&lt;div class="scrollSection">&lt;div class="bigBox">LEFT TEXT HERE&lt;/div>&lt;div class="scrollBox" >RIGHT TEXT HERE&lt;/div>&lt;/div>&lt;div class="plainBox">BOTTOM TEXT HERE&lt;/div></textarea>
+                            rows="9">&lt;div class="scrollSection">&lt;div class="bigBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">LEFT TEXT HERE&lt;/div>&lt;div class="smallBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">RIGHT TEXT HERE&lt;/div>&lt;/div>&lt;div class="bottomBox" style="background-color: var(--pc4); border: 1px solid var(--borderColor); color: var(--fc1);">BOTTOM TEXT HERE&lt;/div></textarea>
                     </div>
                 </div>
             </div>
-
-            <!-- <h4 class="bi-tag">ILY Gay People in my Phone</h4> -->
         </div>
+
+        <div class="row pb-3">
+            <h3 class="pb-2">Universal Boxes</h3>
+            <p>These boxes can be used with just about <strong><em>any</em></strong> layout and they should match
+                without any
+                adjustments (though some exceptions may apply of course). They're made using
+                tables, so they can't do any fancy hover stuff, but they will also work with or without a layout.
+                <strong><em><u>Do not remove the credit link
+                            I have
+                            included at the bottom</u></em></strong>. These are the only boxes where I require visible
+                credit
+                since I can't
+                just put it in a stylesheet like I did with the others. I only have one so far and the example image
+                is of the box I have in my
+                den with my usual layout removed to show that it also works on a default layout, but of course the
+                images and text you will have to fill in on your own. If you'd like to see more table layouts, please
+                let me know.
+            </p>
+            <p class="pb-2">Also, don't use these with one of my box layouts applied or it will break the scrollboxes
+                inside the
+                tables. Apologies for
+                that. I'll be phasing that part out of the other boxes entirely on the next big update to eliminate that
+                issue. It's a relic from when I first started doing layouts, so it's been hard to fix.</p>
+            <div class="col-sm-12 col-md-12 col-lg-6 mb-3">
+                <div class="card h-100">
+                    <img src="./img/boxes/artbox-table.png" class="card-img-top" alt="Static Box Layout #2 Preview">
+                    <div class="card-body">
+                        <h5 class="card-title pb-1">Artbox Table</h5>
+                        <div class="d-flex justify-content-between align-items-end">
+                            <label for="artboxTableHTML" class="py-2">HTML</label><button
+                                onclick="copyButton('artboxTableHTML')" class="btn btn-primary mb-2">Copy</button>
+                        </div>
+                        <textarea id="artboxTableHTML" name="copy-field" class="copy-field"
+                            rows="10">&lt;table class="table">&lt;tbody>&lt;tr>&lt;td class="top center" colspan="2">Hello!&lt;/td>&lt;/tr>&lt;tr>&lt;td class="left b">About Me&lt;/td>&lt;td class="left b">Extra Links&lt;/td>&lt;/tr>&lt;tr>&lt;td class="right">&lt;div class="scrollBox" style="height: 170px; padding: 0 5px;">ABOUT CONTENT&lt;/div>&lt;/td>&lt;td class="right">&lt;div class="scrollBox" style="height: 170px; width: 200px;">LINKBOX CONTENT&lt;/a>&lt;/div>&lt;/td>&lt;/tr>&lt;tr>&lt;td class="left b center" colspan="2">Artbox&lt;/td>&lt;/tr>&lt;tr>&lt;td class="right center" colspan="2">&lt;div class="scrollBox" style="height: 230px;">ARTBOX CONTENT&lt;/div>&lt;/td>&lt;/tr>&lt;tr>&lt;td class="top center" colspan="2">&lt;a href="PAGEURL" title="PAGENAME">LINK&lt;/a> | &lt;a href="PAGEURL" title="PAGENAME">LINK&lt;/a> | &lt;a href="https://www.lioden.com/topic.php?id=304429491963" title="Chris' Free CSS Thread">HTML Credit&lt;/a>&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <h4 class="bi-tag">ILY Gay People in my Phone</h4> -->
     </div>
     <div class="container p-3 mt-2 mt-md-5 footer">
         <footer class="text-center">&copy; Lioden user Chris (#105465)/(#106232)</footer>

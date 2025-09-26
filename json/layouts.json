@@ -372,6 +372,54 @@
         "category": "event"
     },
     {
+        "name": "Cherries",
+        "link": "cherries",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Chocolate",
+        "link": "chocolate",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Coffee",
+        "link": "coffee",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Donuts",
+        "link": "donuts",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Grapes",
+        "link": "grapes",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Macarons",
+        "link": "macarons",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Squash",
+        "link": "squash",
+        "green": "green",
+        "category": "food"
+    },
+    {
+        "name": "Strawberries",
+        "link": "strawberries",
+        "green": "green",
+        "category": "food"
+    },
+    {
         "name": "Lesbian",
         "link": "lesbian",
         "green": "green",

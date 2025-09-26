@@ -18,6 +18,7 @@ function displayLayouts(css) {
     const aesthetic = gID('aestheticCon')
     const animal = gID('animalCon')
     const event = gID('eventCon')
+    const food = gID('foodCon')
     const pride = gID('prideCon')
     const scenic = gID('scenicCon')
     const seasonal = gID('seasonalCon')
@@ -39,6 +40,8 @@ function displayLayouts(css) {
             animal.appendChild(card)
         } else if (entry.category == "event") {
             event.appendChild(card)
+        } else if (entry.category == "food") {
+            food.appendChild(card)
         } else if (entry.category == "pride") {
             pride.appendChild(card)
         } else if (entry.category == "scenic") {
