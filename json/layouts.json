@@ -108,6 +108,12 @@
         "category": "aesthetic"
     },
     {
+        "name": "Sunflowers",
+        "link": "sunflowers",
+        "green": "green",
+        "category": "aesthetic"
+    },
+    {
         "name": "Black Vulture",
         "link": "black-vulture",
         "green": "green",
