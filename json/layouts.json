@@ -114,8 +114,32 @@
         "category": "aesthetic"
     },
     {
+        "name": "African Wild Dog",
+        "link": "awd",
+        "green": "green",
+        "category": "animal"
+    },
+    {
         "name": "Black Vulture",
         "link": "black-vulture",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Capybara",
+        "link": "capybara",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Cougar",
+        "link": "cougar",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Crows",
+        "link": "crows",
         "green": "green",
         "category": "animal"
     },
@@ -132,8 +156,26 @@
         "category": "animal"
     },
     {
+        "name": "Heron",
+        "link": "heron",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Jaguar",
+        "link": "jaguar",
+        "green": "green",
+        "category": "animal"
+    },
+    {
         "name": "Komodo Dragon",
         "link": "komodo-dragon",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Leopard",
+        "link": "leopard",
         "green": "green",
         "category": "animal"
     },
@@ -150,6 +192,18 @@
         "category": "animal"
     },
     {
+        "name": "Macaws",
+        "link": "macaws",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Peacock",
+        "link": "peacock",
+        "green": "green",
+        "category": "animal"
+    },
+    {
         "name": "Pigeons",
         "link": "pigeons",
         "green": "green",
@@ -158,6 +212,18 @@
     {
         "name": "Sleepy Croc",
         "link": "sleepy-croc",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Spotted Hyenas",
+        "link": "spotted-hyenas",
+        "green": "green",
+        "category": "animal"
+    },
+    {
+        "name": "Tigers",
+        "link": "tigers",
         "green": "green",
         "category": "animal"
     },

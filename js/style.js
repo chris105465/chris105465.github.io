@@ -59,6 +59,37 @@ function displayLayouts(css) {
     })
 }
 
+async function populatePride() {
+    const requestURL =
+        "./json/pride.json"
+    const request = new Request(requestURL)
+
+    const response = await fetch(request)
+    const flags = await response.json()
+
+    displayPride(flags)
+}
+
+function displayPride(flag) {
+    const sexuality = gID('sexualityCon')
+    const gender = gID('genderCon')
+    const rainbow = gID('rainbowCon')
+
+    flag.forEach(entry => {
+        const card = document.createElement('div')
+        card.classList = 'col-sm-12 col-md-6 col-lg-4 mb-3'
+        card.innerHTML = `<div class="card h-100"><div class="card-body"><div class="text-center"><span class="pride-banner ${entry.class} mb-2">${entry.name} Pride!</span><span class="pride-banner ${entry.class} mb-2"></span><span class="pride-flag ${entry.class}"></span></div><h5 class="card-title pb-1">${entry.name}</h5><div class="d-flex justify-content-between align-items-end"><label class="pb-2" for="${entry.class}TextBanner">Text Banner:</label><button onclick="copyButton('${entry.class}TextBanner')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${entry.class}TextBanner" class="copy-field" rows="2">&lt;span class="pride-banner ${entry.class}">YOUR TEXT HERE&lt;/span></textarea><div class="d-flex justify-content-between align-items-end"><label class="py-2" for="${entry.class}Banner">Banner:</label><button onclick="copyButton('${entry.class}Banner')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${entry.class}Banner" class="copy-field" rows="1">&lt;span class="pride-banner ${entry.class}">&lt;/span></textarea><div class="d-flex justify-content-between align-items-end"><label class="py-2" for="${entry.class}Flag">Flag:</label><button onclick="copyButton('${entry.class}Flag')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${entry.class}Flag" class="copy-field" rows="1">&lt;span class="pride-flag ${entry.class}">&lt;/span></textarea></div></div>`
+
+        if (entry.category == "sexuality") {
+            sexuality.appendChild(card)
+        } else if (entry.category == "gender") {
+            gender.appendChild(card)
+        } else {
+            rainbow.appendChild(card)
+        }
+    })
+}
+
 async function populateTemplates() {
     const requestURL =
         "../../json/templates.json"

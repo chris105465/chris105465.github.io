@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Lesbian",
+        "class": "lesbian",
+        "category": "sexuality"
+    },
+    {
+        "name": "Gay",
+        "class": "gay",
+        "category": "sexuality"
+    },
+    {
+        "name": "Sapphic",
+        "class": "sapphic",
+        "category": "sexuality"
+    },
+    {
+        "name": "Achillean",
+        "class": "achillean",
+        "category": "sexuality"
+    },
+    {
+        "name": "Bisexual",
+        "class": "bi",
+        "category": "sexuality"
+    },
+    {
+        "name": "Asexual",
+        "class": "ace",
+        "category": "sexuality"
+    },
+    {
+        "name": "Aroace",
+        "class": "aroace",
+        "category": "sexuality"
+    },
+    {
+        "name": "Aromantic",
+        "class": "aro",
+        "category": "sexuality"
+    },
+    {
+        "name": "Greysexual",
+        "class": "grey-s",
+        "category": "sexuality"
+    },
+    {
+        "name": "Greyromantic",
+        "class": "grey-r",
+        "category": "sexuality"
+    },
+    {
+        "name": "Pansexual",
+        "class": "pan",
+        "category": "sexuality"
+    },
+    {
+        "name": "Polysexual",
+        "class": "poly-s",
+        "category": "sexuality"
+    },
+    {
+        "name": "Omnisexual",
+        "class": "omni",
+        "category": "sexuality"
+    },
+    {
+        "name": "Transgender",
+        "class": "trans",
+        "category": "gender"
+    },
+    {
+        "name": "Transfeminine",
+        "class": "trans-fem",
+        "category": "gender"
+    },
+    {
+        "name": "Transmasculine",
+        "class": "trans-masc",
+        "category": "gender"
+    },
+    {
+        "name": "Nonbinary",
+        "class": "enby",
+        "category": "gender"
+    },
+    {
+        "name": "Genderqueer",
+        "class": "genderqueer",
+        "category": "gender"
+    },
+    {
+        "name": "Androgyne",
+        "class": "androgyne",
+        "category": "gender"
+    },
+    {
+        "name": "Demigirl",
+        "class": "demigirl",
+        "category": "gender"
+    },
+    {
+        "name": "Deminonbinary",
+        "class": "demienby",
+        "category": "gender"
+    },
+    {
+        "name": "Demiboy",
+        "class": "demiboy",
+        "category": "gender"
+    },
+    {
+        "name": "Agender",
+        "class": "agender",
+        "category": "gender"
+    },
+    {
+        "name": "Bigender",
+        "class": "bigender",
+        "category": "gender"
+    },
+    {
+        "name": "Feminine Bigender",
+        "class": "bigender-f",
+        "category": "gender"
+    },
+    {
+        "name": "Masculine Bigender",
+        "class": "bigender-m",
+        "category": "gender"
+    },
+    {
+        "name": "Trigender",
+        "class": "trigender",
+        "category": "gender"
+    },
+    {
+        "name": "Pangender",
+        "class": "pangender",
+        "category": "gender"
+    },
+    {
+        "name": "Genderfluid",
+        "class": "genderfluid",
+        "category": "gender"
+    },
+    {
+        "name": "Philly Rainbow",
+        "class": "philly",
+        "category": "rainbow"
+    },
+    {
+        "name": "Rainbow",
+        "class": "pride",
+        "category": "rainbow"
+    },
+    {
+        "name": "Turquoise Rainbow",
+        "class": "pride-hepta",
+        "category": "rainbow"
+    },
+    {
+        "name": "OG Rainbow",
+        "class": "pride-og",
+        "category": "rainbow"
+    },
+    {
+        "name": "Lavender Rainbow",
+        "class": "pride-lav",
+        "category": "rainbow"
+    },
+    {
+        "name": "Queer",
+        "class": "queer",
+        "category": "rainbow"
+    }
+]
