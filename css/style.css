@@ -75,6 +75,10 @@ a:focus {
     border-bottom: none;
 }
 
+summary {
+    font-size: 1.5rem;
+}
+
 .card {
     border-color: var(--white);
     background: var(--bg-secondary);
@@ -97,6 +101,12 @@ textarea:focus,
 textarea:focus-visible {
     outline: none;
     border-color: var(--pink);
+}
+
+.text-muted {
+    font-style: italic;
+    color: #00ff0099 !important;
+    font-size: 0.9em;
 }
 
 .green {

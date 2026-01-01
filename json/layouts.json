@@ -3,846 +3,987 @@
         "name": "Charred Wood",
         "link": "charred-wood",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Cherry Blossoms",
         "link": "cherryblossom",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Colorful Tiles",
         "link": "colorful-tiles",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Cottagecore",
         "link": "cottagecore",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Daisies",
         "link": "daisies",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Eggplant",
         "link": "eggplant",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Epipremnum aureum",
         "link": "epipremnum-aureum",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Flower in the Dark",
         "link": "flower-in-dark",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Gold Centennial",
         "link": "gold-100",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Honeycomb",
         "link": "honeycomb",
         "green": "",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Iridescent",
         "link": "iridescent",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Late Assignment",
         "link": "assignment",
         "green": "",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Pink Clouds",
         "link": "pink-clouds",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Pink Skyline",
         "link": "pink-skyline",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Rainbow Bokeh",
         "link": "rainbow-bokeh",
         "green": "",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Red Sun",
         "link": "red-sun",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Spider Lilies",
         "link": "spider-lily",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Stamps",
         "link": "stamps",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "Unknown"
     },
     {
         "name": "Sunflowers",
         "link": "sunflowers",
         "green": "green",
-        "category": "aesthetic"
+        "category": "aesthetic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "African Wild Dog",
         "link": "awd",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Black Vulture",
         "link": "black-vulture",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Capybara",
         "link": "capybara",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Cougar",
         "link": "cougar",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Crows",
         "link": "crows",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dik Dik",
         "link": "dik-dik",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dinos",
         "link": "dinos",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Heron",
         "link": "heron",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Jaguar",
         "link": "jaguar",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Komodo Dragon",
         "link": "komodo-dragon",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Leopard",
         "link": "leopard",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Lion Pride",
         "link": "lion-pride",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Lounging Lionesses",
         "link": "lounging-lionesses",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Macaws",
         "link": "macaws",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Peacock",
         "link": "peacock",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Pigeons",
         "link": "pigeons",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Sleepy Croc",
         "link": "sleepy-croc",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Spotted Hyenas",
         "link": "spotted-hyenas",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Tigers",
         "link": "tigers",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Whale Shark",
         "link": "whale-shark",
         "green": "green",
-        "category": "animal"
+        "category": "animal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "January - Boneyard",
         "link": "january-boneyard",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "January - Laharu",
         "link": "january-laharu",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "January - Pirates",
         "link": "january-pirates",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "February - Flamingos",
         "link": "february-flamingos",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "February - Hearts",
         "link": "february-hearts",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "February - Merlot",
         "link": "february-merlot",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "March - Elephants",
         "link": "march-elephants",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "March - Rhinos",
         "link": "march-rhinos",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "April - Bunnies",
         "link": "april-bunnies",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "May - Colosseum",
         "link": "may-colosseum",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "May - Medal",
         "link": "may-medal",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "May - Trophy",
         "link": "may-trophy",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "May - Vikings",
         "link": "may-vikings",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "June - Anubis",
         "link": "june-anubis",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "June - Bast",
         "link": "june-bast",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "June - Seth",
         "link": "june-seth",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "June - Serpent",
         "link": "june-serpent",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "July - Big Bang",
         "link": "july-big-bang",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "July - Crab Nebula",
         "link": "july-crab-nebula",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "July - Jupiter",
         "link": "july-jupiter",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "July - Planetary Nebula",
         "link": "july-planetary-nebula",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "July - Star Cluster",
         "link": "july-star-cluster",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "August - Drought",
         "link": "august-drought",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "August - Fire",
         "link": "august-fire",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "September - Drowned",
         "link": "september-drowned",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "September - Omens",
         "link": "september-omens",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "September - Tall Grass",
         "link": "september-grass",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "October - Heaven",
         "link": "october-heaven",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "October - Hell",
         "link": "october-hell",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "November - Fossils",
         "link": "november-fossils",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "November - Herbs",
         "link": "november-herbs",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "November - Tarot",
         "link": "november-tarot",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "December - Ice",
         "link": "december-ice",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "December - Ragdoll Cat",
         "link": "december-ragdoll-cat",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "December - Reindeer",
         "link": "december-reindeer",
         "green": "green",
-        "category": "event"
+        "category": "event",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Cherries",
         "link": "cherries",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Chocolate",
         "link": "chocolate",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Coffee",
         "link": "coffee",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Donuts",
         "link": "donuts",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Grapes",
         "link": "grapes",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Macarons",
         "link": "macarons",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Squash",
         "link": "squash",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Strawberries",
         "link": "strawberries",
         "green": "green",
-        "category": "food"
+        "category": "food",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Lesbian",
         "link": "lesbian",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Gay",
         "link": "gay",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Bi Vibes",
         "link": "bi-vibes",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Trans",
         "link": "trans",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Ace",
         "link": "ace",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Aroace",
         "link": "aroace",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Aro/Agender",
         "link": "aro-agender",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Enby",
         "link": "enby",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Pan",
         "link": "pan",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Light Rainbow",
         "link": "pride-rainbow",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Rainbow",
         "link": "dark-rainbow",
         "green": "green",
-        "category": "pride"
+        "category": "pride",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Boat at Night",
         "link": "boat-at-night",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Moss Forest Orb",
         "link": "moss-crystal",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Mossy Forest",
         "link": "mossy-forest",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Mountain Pass",
         "link": "mountain-pass",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Purple Lightning",
         "link": "purple-lightning",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Rocky Arch",
         "link": "rocky-arch",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Spacey Blue",
         "link": "space-blue",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Wisteria",
         "link": "wisteria",
         "green": "green",
-        "category": "scenic"
+        "category": "scenic",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Spring Bird",
         "link": "spring-bird",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Spring Night",
         "link": "spring-night",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Summer Beach",
         "link": "season-summer",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Summer Sunset",
         "link": "beach-sunset",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Autumn Leaves",
         "link": "season-autumn",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Harvest Moon",
         "link": "harvest-moon",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Winter Pond",
         "link": "winter-pond",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Winter Ice",
         "link": "season-winter",
         "green": "green",
-        "category": "seasonal"
+        "category": "seasonal",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Asphalt",
         "link": "asphalt",
         "green": "green",
-        "category": "simple"
+        "category": "simple",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Blue and Peach",
         "link": "blue-and-peach",
         "green": "",
-        "category": "simple"
+        "category": "simple",
+        "updated": "Unknown"
     },
     {
         "name": "Cyan and Orange",
         "link": "cyan-and-orange",
         "green": "green",
-        "category": "simple"
+        "category": "simple",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Pink Skulls",
         "link": "pink-skulls",
         "green": "green",
-        "category": "simple"
+        "category": "simple",
+        "updated": "Unknown"
     },
     {
         "name": "Plum and Silver",
-        "link": "plum-and-silver",
+        "link": "plum-and-blue",
         "green": "",
-        "category": "simple"
+        "category": "simple",
+        "updated": "Unknown"
     },
     {
         "name": "Purple Lobby",
         "link": "purple-lobby",
         "green": "green",
-        "category": "simple"
+        "category": "simple",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Wine and Bone",
         "link": "wine-and-bone",
         "green": "",
-        "category": "simple"
+        "category": "simple",
+        "updated": "Unknown"
     },
     {
         "name": "Winter",
         "link": "winter",
         "green": "",
-        "category": "simple"
+        "category": "simple",
+        "updated": "Unknown"
     },
     {
         "name": "Dark Red",
         "link": "dark-red",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Orange",
         "link": "dark-orange",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Gold",
         "link": "dark-gold",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Chartreuse",
         "link": "dark-chartreuse",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Green",
         "link": "dark-green",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Mint",
         "link": "dark-mint",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Cyan",
         "link": "dark-cyan",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Blue",
         "link": "dark-blue",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Purple",
         "link": "dark-purple",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Magenta",
         "link": "dark-magenta",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Pink",
         "link": "dark-pink",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dark Silver",
         "link": "dark-silver",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Red",
         "link": "dim-red",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Orange",
         "link": "dim-orange",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Gold",
         "link": "dim-gold",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Chartreuse",
         "link": "dim-chartreuse",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Green",
         "link": "dim-green",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Mint",
         "link": "dim-mint",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Cyan",
         "link": "dim-cyan",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Blue",
         "link": "dim-blue",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Purple",
         "link": "dim-purple",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Magenta",
         "link": "dim-magenta",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Pink",
         "link": "dim-pink",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     },
     {
         "name": "Dim Silver",
         "link": "dim-silver",
         "green": "",
-        "category": "dark"
+        "category": "dark",
+        "updated": "January 1, 2026"
     }
 ]
