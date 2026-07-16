@@ -4,21 +4,28 @@
         "link": "charred-wood",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Cherry Blossoms",
         "link": "cherryblossom",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Clovers",
+        "link": "clovers",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Colorful Tiles",
         "link": "colorful-tiles",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Cottagecore",
@@ -28,18 +35,25 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Crescent Moon",
+        "link": "crescent-moon",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 16, 2026"
+    },
+    {
         "name": "Daisies",
         "link": "daisies",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Eggplant",
         "link": "eggplant",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Epipremnum aureum",
@@ -53,7 +67,7 @@
         "link": "flower-in-dark",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Gold Centennial",
@@ -63,67 +77,81 @@
         "updated": "January 1, 2026"
     },
     {
-        "name": "Honeycomb",
-        "link": "honeycomb",
-        "green": "",
-        "category": "aesthetic",
-        "updated": "Unknown"
-    },
-    {
         "name": "Iridescent",
         "link": "iridescent",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
-        "name": "Late Assignment",
-        "link": "assignment",
-        "green": "",
+        "name": "Lunar Eclipse",
+        "link": "lunar-eclipse",
+        "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Ocean Wash",
+        "link": "ocean-wash",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Pink Clouds",
         "link": "pink-clouds",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Pink Skyline",
         "link": "pink-skyline",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Purple Pour",
+        "link": "purple-pour",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Rainbow Bokeh",
         "link": "rainbow-bokeh",
-        "green": "",
+        "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Red Sun",
         "link": "red-sun",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Solar Eclipse",
+        "link": "solar-eclipse",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Spider Lilies",
         "link": "spider-lily",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Stamps",
         "link": "stamps",
         "green": "green",
         "category": "aesthetic",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Sunflowers",
@@ -138,6 +166,13 @@
         "green": "green",
         "category": "animal",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Bird Sunset",
+        "link": "bird-sunset",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Black Vulture",
@@ -182,6 +217,13 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Foggy Herons",
+        "link": "foggy-herons",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 16, 2026"
+    },
+    {
         "name": "Heron",
         "link": "heron",
         "green": "green",
@@ -194,6 +236,13 @@
         "green": "green",
         "category": "animal",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Jellyfish",
+        "link": "jellyfish",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Komodo Dragon",
@@ -271,6 +320,13 @@
         "green": "green",
         "category": "animal",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "White Horse",
+        "link": "white-horse",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 16, 2026"
     },
     {
         "name": "January - Boneyard",
@@ -595,6 +651,13 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Bi Whispers",
+        "link": "bi-whisper",
+        "green": "green",
+        "category": "pride",
+        "updated": "July 16, 2026"
+    },
+    {
         "name": "Trans",
         "link": "trans",
         "green": "green",
@@ -651,11 +714,53 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Aurora",
+        "link": "aurora",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
         "name": "Boat at Night",
         "link": "boat-at-night",
         "green": "green",
         "category": "scenic",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Cloudy Mountains",
+        "link": "cloudy-mountains",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Dark Forest",
+        "link": "dark-forest",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Foggy Bridge",
+        "link": "foggy-bridge",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Green Aurora",
+        "link": "green-aurora",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
+        "name": "Lavender Field",
+        "link": "lavender-field",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Moss Forest Orb",
@@ -679,6 +784,13 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Mountain Sunrise",
+        "link": "mountain-sunrise",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
         "name": "Purple Lightning",
         "link": "purple-lightning",
         "green": "green",
@@ -693,11 +805,25 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Savannah at Dusk",
+        "link": "savannah-dusk",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
+    },
+    {
         "name": "Spacey Blue",
         "link": "space-blue",
         "green": "green",
         "category": "scenic",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Teal Lake",
+        "link": "teal-lake",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 16, 2026"
     },
     {
         "name": "Wisteria",
@@ -772,9 +898,9 @@
     {
         "name": "Blue and Peach",
         "link": "blue-and-peach",
-        "green": "",
+        "green": "green",
         "category": "simple",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Cyan and Orange",
@@ -788,14 +914,14 @@
         "link": "pink-skulls",
         "green": "green",
         "category": "simple",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Plum and Silver",
         "link": "plum-and-blue",
-        "green": "",
+        "green": "green",
         "category": "simple",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Purple Lobby",
@@ -807,16 +933,16 @@
     {
         "name": "Wine and Bone",
         "link": "wine-and-bone",
-        "green": "",
+        "green": "green",
         "category": "simple",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Winter",
         "link": "winter",
-        "green": "",
+        "green": "green",
         "category": "simple",
-        "updated": "Unknown"
+        "updated": "July 16, 2026"
     },
     {
         "name": "Dark Red",
