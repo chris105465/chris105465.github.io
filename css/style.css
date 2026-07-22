@@ -385,3 +385,7 @@ span.pride-banner {
 .queer {
     background-image: linear-gradient(#000000 0% 12%, #99D9EA 12% 23%, #00A2E8 23% 34%, #B5E61D 34% 45%, #FFFFFF 45% 56%, #FFC90E 56% 67%, #FD6666 67% 78%, #FFAEC9 78% 89%, #000000 89% 100%);
 }
+
+.disability {
+    background-image: linear-gradient(35deg, #585858 0% 20%, #cf7280 20% 32%, #eedf77 32% 44%, #ffffff 44% 56%, #7ac1e0 56% 68%, #3aaf7d 68% 80%, #585858 80% 100%);
+}

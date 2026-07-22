@@ -173,5 +173,10 @@
         "name": "Queer",
         "class": "queer",
         "category": "rainbow"
+    },
+    {
+        "name": "Disability",
+        "class": "disability",
+        "category": "rainbow"
     }
 ]
