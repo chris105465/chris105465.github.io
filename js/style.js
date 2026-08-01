@@ -17,6 +17,7 @@ async function populateLayouts() {
 function displayLayouts(css) {
     const aesthetic = gID('aestheticCon')
     const animal = gID('animalCon')
+    const artemis = gID('artemisCon')
     const event = gID('eventCon')
     const food = gID('foodCon')
     const pride = gID('prideCon')
@@ -32,12 +33,14 @@ function displayLayouts(css) {
         let codeName = entry.name
         codeName = codeName.replace(/\s+/g, '')
         let url = `https://chris105465.github.io/layouts/css/${entry.category}/${entry.link}.css`
-        card.innerHTML = `<div class="card h-100"><img src="./img/${entry.category}/${entry.link}.png" class="card-img-top" alt="${entry.name} Layout Preview"><div class="card-body pb-2"><h5 class="card-title pb-1 ${entry.green}">${entry.name}</h5><div class="d-flex justify-content-between align-items-end"><label class="pb-2" for="${codeName}DenCode">Den/Branch/Clan Code:</label><button onclick="copyButton('${codeName}DenCode')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${codeName}DenCode" class="copy-field" rows="3">&lt;link rel="stylesheet" type="text/css" href="${url}" /></textarea><div class="d-flex justify-content-between align-items-end"><label class="py-2" for="${codeName}CaveCode">Cave/Mounds URL:</label><button onclick="copyButton('${codeName}CaveCode')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${codeName}CaveCode" class="copy-field" rows="2">${url}</textarea><p class="text-muted text-end m-0 mt-1">Last Updated: ${entry.updated}</p></div></div>`
+        card.innerHTML = `<div class="card h-100"><a href="./img/${entry.category}/${entry.link}.png" target="_blank" title="Open Image in New Tab"><img src="./img/${entry.category}/${entry.link}.png" class="card-img-top" alt="${entry.name} Layout Preview"></a><div class="card-body pb-2"><h5 class="card-title pb-1 ${entry.green}">${entry.name}</h5><div class="d-flex justify-content-between align-items-end"><label class="pb-2" for="${codeName}DenCode">Den/Branch/Clan Code:</label><button onclick="copyButton('${codeName}DenCode')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${codeName}DenCode" class="copy-field" rows="3">&lt;link rel="stylesheet" type="text/css" href="${url}" /></textarea><div class="d-flex justify-content-between align-items-end"><label class="py-2" for="${codeName}CaveCode">Cave/Mounds URL:</label><button onclick="copyButton('${codeName}CaveCode')" class="btn btn-primary mb-2">Copy</button></div><textarea name="copy-field" id="${codeName}CaveCode" class="copy-field" rows="2">${url}</textarea><p class="text-muted text-end m-0 mt-1">Last Updated: ${entry.updated}</p></div></div>`
 
         if (entry.category == "aesthetic") {
             aesthetic.appendChild(card)
         } else if (entry.category == "animal") {
             animal.appendChild(card)
+        } else if (entry.category == "artemis") {
+            artemis.appendChild(card)
         } else if (entry.category == "event") {
             event.appendChild(card)
         } else if (entry.category == "food") {

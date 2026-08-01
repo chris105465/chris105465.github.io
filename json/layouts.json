@@ -49,6 +49,20 @@
         "updated": "July 16, 2026"
     },
     {
+        "name": "Dark Bubbles",
+        "link": "dark-bubbles",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 31, 2026"
+    },
+    {
+        "name": "Eclipsing Waves",
+        "link": "eclipsing-waves",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Eggplant",
         "link": "eggplant",
         "green": "green",
@@ -61,6 +75,13 @@
         "green": "green",
         "category": "aesthetic",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Fairy Lights",
+        "link": "fairy-lights",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Flower in the Dark",
@@ -96,6 +117,13 @@
         "green": "green",
         "category": "aesthetic",
         "updated": "July 16, 2026"
+    },
+    {
+        "name": "Perseus A",
+        "link": "perseus-a",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Pink Clouds",
@@ -147,6 +175,13 @@
         "updated": "July 16, 2026"
     },
     {
+        "name": "Spooky Webs",
+        "link": "spooky-webs",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Stamps",
         "link": "stamps",
         "green": "green",
@@ -161,11 +196,25 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "African Penguin",
+        "link": "african-penguin",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "African Wild Dog",
         "link": "awd",
         "green": "green",
         "category": "animal",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Awoo",
+        "link": "awoo",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Bird Sunset",
@@ -182,11 +231,25 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Boreal Owl",
+        "link": "boreal-owl",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Capybara",
         "link": "capybara",
         "green": "green",
         "category": "animal",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Chinstrap Penguin",
+        "link": "chinstrap-penguin",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Cougar",
@@ -217,6 +280,13 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Fairy Penguin",
+        "link": "fairy-penguin",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Foggy Herons",
         "link": "foggy-herons",
         "green": "green",
@@ -229,6 +299,13 @@
         "green": "green",
         "category": "animal",
         "updated": "January 1, 2026"
+    },
+    {
+        "name": "Honeybee",
+        "link": "honeybee",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Jaguar",
@@ -291,7 +368,7 @@
         "link": "pigeons",
         "green": "green",
         "category": "animal",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Sleepy Croc",
@@ -329,18 +406,53 @@
         "updated": "July 16, 2026"
     },
     {
+        "name": "Wolf Hug",
+        "link": "wolf-hug",
+        "green": "green",
+        "category": "animal",
+        "updated": "July 31, 2026"
+    },
+    {
+        "name": "Crescent Earth",
+        "link": "crescent-earth",
+        "green": "green",
+        "category": "artemis",
+        "updated": "July 31, 2026"
+    },
+    {
+        "name": "Earth at Night",
+        "link": "earth-night",
+        "green": "green",
+        "category": "artemis",
+        "updated": "July 31, 2026"
+    },
+    {
+        "name": "Good Morning World",
+        "link": "good-morning-world",
+        "green": "green",
+        "category": "artemis",
+        "updated": "July 31, 2026"
+    },
+    {
+        "name": "Moon Craters",
+        "link": "moon-craters",
+        "green": "green",
+        "category": "artemis",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "January - Boneyard",
         "link": "january-boneyard",
         "green": "green",
         "category": "event",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "January - Laharu",
         "link": "january-laharu",
         "green": "green",
         "category": "event",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "January - Pirates",
@@ -361,7 +473,7 @@
         "link": "february-hearts",
         "green": "green",
         "category": "event",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "February - Merlot",
@@ -550,7 +662,7 @@
         "link": "november-tarot",
         "green": "green",
         "category": "event",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "December - Ice",
@@ -676,7 +788,7 @@
         "link": "aroace",
         "green": "green",
         "category": "pride",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Aro/Agender",
@@ -711,7 +823,7 @@
         "link": "dark-rainbow",
         "green": "green",
         "category": "pride",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Aurora",
@@ -742,6 +854,20 @@
         "updated": "July 16, 2026"
     },
     {
+        "name": "Daybreak Starfall",
+        "link": "daybreak-starfall",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 31, 2026"
+    },
+    {
+        "name": "Deep Sunset",
+        "link": "deep-sunset",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Foggy Bridge",
         "link": "foggy-bridge",
         "green": "green",
@@ -749,11 +875,25 @@
         "updated": "July 16, 2026"
     },
     {
+        "name": "Glow Worm Cave",
+        "link": "glow-worm-cave",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Green Aurora",
         "link": "green-aurora",
         "green": "green",
         "category": "scenic",
         "updated": "July 16, 2026"
+    },
+    {
+        "name": "Jungle Temple Ruin",
+        "link": "jungle-temple-ruin",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Lavender Field",
@@ -788,7 +928,7 @@
         "link": "mountain-sunrise",
         "green": "green",
         "category": "scenic",
-        "updated": "July 16, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Purple Lightning",
@@ -805,11 +945,25 @@
         "updated": "January 1, 2026"
     },
     {
+        "name": "Sand Dunes",
+        "link": "sand-dunes",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 31, 2026"
+    },
+    {
         "name": "Savannah at Dusk",
         "link": "savannah-dusk",
         "green": "green",
         "category": "scenic",
         "updated": "July 16, 2026"
+    },
+    {
+        "name": "Solitary Candle",
+        "link": "solitary-candle",
+        "green": "green",
+        "category": "scenic",
+        "updated": "July 31, 2026"
     },
     {
         "name": "Spacey Blue",
@@ -879,7 +1033,7 @@
         "link": "winter-pond",
         "green": "green",
         "category": "seasonal",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Winter Ice",
@@ -893,7 +1047,7 @@
         "link": "asphalt",
         "green": "green",
         "category": "simple",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Blue and Peach",
@@ -907,7 +1061,7 @@
         "link": "cyan-and-orange",
         "green": "green",
         "category": "simple",
-        "updated": "January 1, 2026"
+        "updated": "July 31, 2026"
     },
     {
         "name": "Pink Skulls",
