@@ -75,6 +75,25 @@ a:focus {
     border-bottom: none;
 }
 
+.filters {
+    display: flex;
+}
+
+.form-select:first-child {
+    margin-right: 8px;
+}
+
+.form-select {
+    background-color: var(--bg-secondary);
+    border-color: var(--green);
+}
+
+.form-select:focus,
+.form-select:focus-visible {
+    outline: none;
+    border-color: var(--pink);
+}
+
 summary {
     font-size: 1.5rem;
 }

@@ -27,9 +27,19 @@ function displayLayouts(css) {
     const dark = gID('darkCon')
     const none = gID('noneCon')
 
+    let identity = -1
+    let taglist = ""
+
     css.forEach(entry => {
+        identity += 1
+        let tags = entry.tags
+        taglist = ""
+        tags.forEach((item) => {
+            taglist += ` ${item}`
+        })
         const card = document.createElement('div')
-        card.classList = 'col-sm-12 col-md-6 col-lg-4 mb-3'
+        card.classList = `bigCards col-sm-12 col-md-6 col-lg-4 mb-3${taglist}`
+        card.id = identity
         let codeName = entry.name
         codeName = codeName.replace(/\s+/g, '')
         let url = `https://chris105465.github.io/layouts/css/${entry.category}/${entry.link}.css`
@@ -60,6 +70,44 @@ function displayLayouts(css) {
             none.appendChild(card)
         }
     })
+}
+
+function filterContent() {
+    let value = gID('value').value
+    let color = gID('color').value
+    let cards = document.getElementsByClassName('bigCards')
+    let valueFilter = document.getElementsByClassName(value)
+    let colorFilter = document.getElementsByClassName(color)
+
+    for(let card = 0; card < cards.length; card++) {
+        cards[card].style.display ="none"
+    
+        if(value != "0" && color != "0") {
+            for(let filter = 0; filter < valueFilter.length; filter++) {
+                if(cards[card].id == valueFilter[filter].id) {
+                    for(let filter = 0; filter < colorFilter.length; filter++) {
+                        if(cards[card].id == colorFilter[filter].id) {
+                            cards[card].style =""
+                        }
+                    }
+                }
+            }
+        } else if(value != "0") {
+            for(let filter = 0; filter < valueFilter.length; filter++) {
+                if(cards[card].id == valueFilter[filter].id) {
+                    cards[card].style =""
+                }
+            }
+        } else if(color != "0") {
+            for(let filter = 0; filter < colorFilter.length; filter++) {
+                if(cards[card].id == colorFilter[filter].id) {
+                    cards[card].style =""
+                }
+            }
+        } else {
+            cards[card].style =""
+        }
+    }
 }
 
 async function populatePride() {

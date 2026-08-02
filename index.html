@@ -136,6 +136,33 @@
             <span class="green">green</span> have
             cave images included.
         </p>
+        <h4>Filters</h4>
+        <p>Filter by value and/or color! Value is mostly in regards to the color of the text. If the text is white, then
+            it's a dark layout and if it's black, then it's a light layout. The colors are based off of the primary
+            and secondary color(s) of the
+            pallet for each layout. I may or may not include any other color present depending on the vibes.</p>
+        <div class="filters mb-3">
+            <select name="value" id="value" class="form-select" onchange="filterContent()">
+                <option selected value="0">Select a value</option>
+                <option value="dark">Dark</option>
+                <option value="light">Light</option>
+            </select>
+            <select name="color" id="color" class="form-select" onchange="filterContent()">
+                <option selected value="0">Select a color</option>
+                <option value="red">Red</option>
+                <option value="orange">Orange</option>
+                <option value="yellow">Yellow</option>
+                <option value="green">Green</option>
+                <option value="blue">Blue</option>
+                <option value="purple">Purple</option>
+                <option value="pink">Pink</option>
+                <option value="brown">Brown</option>
+                <option value="white">White</option>
+                <option value="gray">Gray</option>
+                <option value="black">Black</option>
+                <option value="rainbow">Rainbow</option>
+            </select>
+        </div>
         <details open>
             <summary>
                 <h3 class="pb-2 d-inline-block" id="aesthetic">Aesthetic Layouts (28)</h3>
@@ -470,6 +497,7 @@
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/style.js"></script>
     <script>populateLayouts()</script>
+    <!-- <script>filterContent()</script> -->
     <script>populatePride()</script>
 </body>
 
