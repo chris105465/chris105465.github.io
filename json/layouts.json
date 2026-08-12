@@ -45,6 +45,18 @@
         ]
     },
     {
+        "name": "Coral Reef",
+        "link": "coral-reef",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "TBD",
+        "tags": [
+            "light",
+            "purple",
+            "yellow"
+        ]
+    },
+    {
         "name": "Cottagecore",
         "link": "cottagecore",
         "green": "green",
@@ -341,6 +353,19 @@
         ]
     },
     {
+        "name": "Arctic Fox",
+        "link": "arctic-fox",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "light",
+            "white",
+            "gray",
+            "blue"
+        ]
+    },
+    {
         "name": "Awoo",
         "link": "awoo",
         "green": "green",
@@ -470,6 +495,17 @@
         ]
     },
     {
+        "name": "Fennec Fox",
+        "link": "fennec-fox",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "light",
+            "brown"
+        ]
+    },
+    {
         "name": "Foggy Herons",
         "link": "foggy-herons",
         "green": "green",
@@ -538,6 +574,17 @@
         ]
     },
     {
+        "name": "Lemon Shark",
+        "link": "lemon-shark",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "dark",
+            "blue"
+        ]
+    },
+    {
         "name": "Leopard",
         "link": "leopard",
         "green": "green",
@@ -584,6 +631,29 @@
         ]
     },
     {
+        "name": "Nurse Shark",
+        "link": "nurse-shark",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "dark",
+            "gray"
+        ]
+    },
+    {
+        "name": "Nuthatch",
+        "link": "nuthatch",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "dark",
+            "blue",
+            "brown"
+        ]
+    },
+    {
         "name": "Peacock",
         "link": "peacock",
         "green": "green",
@@ -603,6 +673,31 @@
         "updated": "July 31, 2026",
         "tags": [
             "light",
+            "gray"
+        ]
+    },
+    {
+        "name": "Red Fox",
+        "link": "red-fox",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "dark",
+            "orange",
+            "brown"
+        ]
+    },
+    {
+        "name": "Reef Shark",
+        "link": "reef-shark",
+        "green": "green",
+        "category": "animal",
+        "updated": "TBD",
+        "tags": [
+            "dark",
+            "green",
+            "blue",
             "gray"
         ]
     },
@@ -1494,6 +1589,17 @@
         ]
     },
     {
+        "name": "Lighthouse",
+        "link": "lighthouse",
+        "green": "green",
+        "category": "scenic",
+        "updated": "TBD",
+        "tags": [
+            "dark",
+            "purple"
+        ]
+    },
+    {
         "name": "Moss Forest Orb",
         "link": "moss-crystal",
         "green": "green",
@@ -1568,7 +1674,8 @@
         "updated": "July 31, 2026",
         "tags": [
             "light",
-            "brown"
+            "brown",
+            "orange"
         ]
     },
     {
