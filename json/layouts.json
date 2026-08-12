@@ -49,7 +49,7 @@
         "link": "coral-reef",
         "green": "green",
         "category": "aesthetic",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "light",
             "purple",
@@ -357,7 +357,7 @@
         "link": "arctic-fox",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "light",
             "white",
@@ -499,7 +499,7 @@
         "link": "fennec-fox",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "light",
             "brown"
@@ -511,6 +511,17 @@
         "green": "green",
         "category": "animal",
         "updated": "July 16, 2026",
+        "tags": [
+            "light",
+            "blue"
+        ]
+    },
+    {
+        "name": "Hammerhead Shark",
+        "link": "hammerhead-shark",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 11, 2026",
         "tags": [
             "light",
             "blue"
@@ -578,7 +589,7 @@
         "link": "lemon-shark",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "dark",
             "blue"
@@ -635,7 +646,7 @@
         "link": "nurse-shark",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "dark",
             "gray"
@@ -646,7 +657,7 @@
         "link": "nuthatch",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "dark",
             "blue",
@@ -681,7 +692,7 @@
         "link": "red-fox",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "dark",
             "orange",
@@ -693,7 +704,7 @@
         "link": "reef-shark",
         "green": "green",
         "category": "animal",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "dark",
             "green",
@@ -1593,7 +1604,7 @@
         "link": "lighthouse",
         "green": "green",
         "category": "scenic",
-        "updated": "TBD",
+        "updated": "August 11, 2026",
         "tags": [
             "dark",
             "purple"
