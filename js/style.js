@@ -177,7 +177,7 @@ function copyButton(id) {
 
     navigator.clipboard.writeText(copyText.value)
 
-    alert('The code is now copied to your clipboard! :D')
+    alert('The info is now copied to your clipboard! :D')
 }
 
 let codeForm = gID('code-form')

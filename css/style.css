@@ -94,6 +94,22 @@ a:focus {
     border-color: var(--pink);
 }
 
+.form-check-input:checked {
+    background-color: var(--pink);
+    border-color: var(--white);
+}
+
+.form-check-input {
+    border-color: var(--highlight);
+    background-color: var(--main-bg);
+}
+
+.form-check-input:active,
+.form-check-input:focus {
+    box-shadow: none;
+    border-color: var(--green);
+}
+
 summary {
     font-size: 1.5rem;
 }
@@ -132,8 +148,37 @@ textarea:focus-visible {
     color: var(--green);
 }
 
+.pink {
+    color: var(--pink);
+}
+
 .highlight {
     background-color: var(--highlight);
+}
+
+.form-control {
+    background-color: var(--main-bg);
+    border-color: var(--highlight);
+}
+
+.required {
+    border-color: var(--pink);
+}
+
+.form-control:active,
+.form-control:focus {
+    box-shadow: none;
+    border-color: var(--white);
+    background-color: var(--bg-secondary);
+}
+
+#basicForm,
+#premiumForm,
+#coderForm,
+#extravagantForm {
+    border-radius: 10px;
+    border: 1px solid var(--green);
+    background: var(--bg-secondary);
 }
 
 .btn-primary {
