@@ -78,12 +78,17 @@
                             section on the main thread</a> is still a required read before ordering. I might not be the
                         right coder for you and I don't want to waste your time.</li>
                     <li>Any field outlined in <span class="pink">pink</span> is <u>required</u>.</li>
-                    <li>If you'd like to leave an option up to me, then just put "cc" for coder's choice (or Chris'
-                        choice lol).</li>
+                    <li><strong>
+                            If you'd like to leave an option up to me, then just put "cc" for coder's choice</strong>
+                        (or Chris'
+                        choice lol).
+                    </li>
                     <li>Once you are done, you will be given the completed form that you can paste either into a reply
                         on the thread or into a PM with me.</li>
-                    <li>All communications will always
-                        take place on LD itself and the forms are not sent anywhere when the button is pressed.</li>
+                    <li>All communications regarding any of my work will always
+                        take place on LD itself.</li>
+                    <li>These forms don't send any information anywhere nor store anything. It's all client-side, so be
+                        careful not to reload the page as you may lose your progress.</li>
                 </ol>
                 <p>
                     While my goal was to make the forms as straightforward to fill out as possible, that does not mean
@@ -175,7 +180,7 @@
             I recommend that you look over the contents of each package if you haven't already so you can select the
             package that best aligns with the changes you have in mind.
         </p>
-        <details>
+        <details open>
             <summary>
                 <h3 class="pb-2 d-inline-block">Basic Package</h3>
             </summary>
@@ -242,7 +247,7 @@
                 <h5 class="mt-3">4. Font:</h5>
                 <p class="mb-1">
                     Any fonts must be from <a href="https://fonts.google.com/" title="Google Fonts Homepage">Google
-                        Fonts</a>.
+                        Fonts</a>. Please just give me the font names rather than links.
                 </p>
                 <label for="mainFontBasic">Main Font:</label>
                 <input id="mainFontBasic" type="text" class="form-control required"
@@ -345,7 +350,8 @@
                 <textarea id="gradientDetailBasic" class="form-control"
                     aria-describedby="gradientDetailDescBasic"></textarea>
                 <div class="form-text" id="gradientDetailDescBasic">
-                    If you want more than one thing, describe the details here. Ex: I want a vertical gradient on
+                    If you want more than one kind of gradient, describe the details here. Ex: I want a vertical
+                    gradient on
                     headers, but stripes on my progress bars.
                 </div>
                 <!-- additional imgs -->
@@ -466,6 +472,17 @@
                     if you want links and/or caves to glow on hover.
                 </div>
                 <button onclick="basicFormPop()" class="btn btn-primary mt-3" id="getFormBasic">Get Basic Form</button>
+                <div id="basicErrors" class="d-none">
+                    <h4>Errors</h4>
+                    <ul id="basicErrorList"></ul>
+                    <p class="mb-0">Please read through and correct the listed errors to receive your order form.
+                        If you do not
+                        understand the error message given, please reach out to me so that I can help clear things up.
+                        That kind of feedback is important so that I can make changes if needed to improve these forms,
+                        and it is also very appreciated. Reminder that if you want something to be up to me, then just
+                        put "cc" in that spot.
+                    </p>
+                </div>
                 <div id="basicOrder"></div>
             </div>
         </details>
@@ -566,7 +583,7 @@
                 <h5 class="mt-3">5. Font:</h5>
                 <p class="mb-1">
                     Any fonts must be from <a href="https://fonts.google.com/" title="Google Fonts Homepage">Google
-                        Fonts</a>.
+                        Fonts</a>. Please just give me the font names rather than links.
                 </p>
                 <label for="mainFontPremium">Main Font:</label>
                 <input id="mainFontPremium" type="text" class="form-control required"
@@ -669,7 +686,8 @@
                 <textarea id="gradientDetailPremium" class="form-control"
                     aria-describedby="gradientDetailDescPremium"></textarea>
                 <div class="form-text" id="gradientDetailDescPremium">
-                    If you want more than one thing, describe the details here. Ex: I want a vertical gradient on
+                    If you want more than one kind of gradient, describe the details here. Ex: I want a vertical
+                    gradient on
                     headers, but stripes on my progress bars.
                 </div>
                 <!-- additional imgs -->
@@ -840,6 +858,17 @@
                 </div>
                 <button onclick="premiumFormPop()" class="btn btn-primary mt-3" id="getFormPremium">Get Premium
                     Form</button>
+                <div id="premiumErrors" class="d-none">
+                    <h4>Errors</h4>
+                    <ul id="premiumErrorList"></ul>
+                    <p class="mb-0">Please read through and correct the listed errors to receive your order form.
+                        If you do not
+                        understand the error message given, please reach out to me so that I can help clear things up.
+                        That kind of feedback is important so that I can make changes if needed to improve these forms,
+                        and it is also very appreciated. Reminder that if you want something to be up to me, then just
+                        put "cc" in that spot.
+                    </p>
+                </div>
                 <div id="premiumOrder"></div>
             </div>
         </details>
@@ -973,6 +1002,17 @@
                 </div>
                 <button onclick="coderFormPop()" class="btn btn-primary mt-3" id="getFormCoder">Get Coder's Choice
                     Form</button>
+                <div id="coderErrors" class="d-none">
+                    <h4>Errors</h4>
+                    <ul id="coderErrorList"></ul>
+                    <p class="mb-0">Please read through and correct the listed errors to receive your order form.
+                        If you do not
+                        understand the error message given, please reach out to me so that I can help clear things up.
+                        That kind of feedback is important so that I can make changes if needed to improve these forms,
+                        and it is also very appreciated. Reminder that if you want something to be up to me, then just
+                        put "cc" in that spot.
+                    </p>
+                </div>
                 <div id="coderOrder"></div>
             </div>
         </details>
@@ -1047,7 +1087,7 @@
                 <h5 class="mt-3">4. Font:</h5>
                 <p class="mb-1">
                     Any fonts must be from <a href="https://fonts.google.com/" title="Google Fonts Homepage">Google
-                        Fonts</a>.
+                        Fonts</a>. Please just give me the font names rather than links.
                 </p>
                 <label for="mainFontExtravagant">Main Font:</label>
                 <input id="mainFontExtravagant" type="text" class="form-control required"
@@ -1089,7 +1129,7 @@
                 <p class="mb-0">Approved Overlay Sources:</p>
                 <ul>
                     <li><a href="https://www.transparenttextures.com/" title="Transparent Textures Homepage">Transparent
-                            Textures</a></li>
+                            Textures</a> (just give me the name of the texture)</li>
                     <li>Your own overlay you have created or an overlay you have commissioned (cannot be a Discord link)
                     </li>
                 </ul>
@@ -1372,6 +1412,17 @@
                 <button onclick="extravagantFormPop()" class="btn btn-primary mt-3" id="getFormExtravagant">Get
                     Extravagant
                     Form</button>
+                <div id="extravagantErrors" class="d-none">
+                    <h4>Errors</h4>
+                    <ul id="extravagantErrorList"></ul>
+                    <p class="mb-0">Please read through and correct the listed errors to receive your order form.
+                        If you do not
+                        understand the error message given, please reach out to me so that I can help clear things up.
+                        That kind of feedback is important so that I can make changes if needed to improve these forms,
+                        and it is also very appreciated. Reminder that if you want something to be up to me, then just
+                        put "cc" in that spot.
+                    </p>
+                </div>
                 <div id="extravagantOrder"></div>
             </div>
         </details>

@@ -181,6 +181,15 @@ textarea:focus-visible {
     background: var(--bg-secondary);
 }
 
+#basicErrors,
+#premiumErrors,
+#coderErrors,
+#extravagantErrors {
+    border: 1px solid var(--pink);
+    border-radius: 10px;
+    background-color: var(--main-bg);
+}
+
 .btn-primary {
     --bs-btn-color: #fff;
     --bs-btn-bg: #e6007a;
