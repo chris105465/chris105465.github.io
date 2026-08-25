@@ -1,5 +1,17 @@
 [
     {
+        "name": "Amanita",
+        "link": "amanita",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
+            "green",
+            "purple"
+        ]
+    },
+    {
         "name": "Charred Wood",
         "link": "charred-wood",
         "green": "green",
@@ -181,6 +193,17 @@
         ]
     },
     {
+        "name": "Hellebores",
+        "link": "hellebores",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
+            "green"
+        ]
+    },
+    {
         "name": "Lunar Eclipse",
         "link": "lunar-eclipse",
         "green": "green",
@@ -200,6 +223,17 @@
         "tags": [
             "light",
             "blue"
+        ]
+    },
+    {
+        "name": "Oyster Mushrooms",
+        "link": "oyster-mushrooms",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "light",
+            "pink"
         ]
     },
     {
@@ -327,6 +361,18 @@
         "tags": [
             "light",
             "yellow"
+        ]
+    },
+    {
+        "name": "Wilting Flowers",
+        "link": "wilting-flowers",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
+            "green",
+            "gray"
         ]
     },
     {
@@ -1566,6 +1612,18 @@
         ]
     },
     {
+        "name": "Gothic Cathedral",
+        "link": "gothic-cathedral",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
+            "black",
+            "gray"
+        ]
+    },
+    {
         "name": "Green Aurora",
         "link": "green-aurora",
         "green": "green",
@@ -1611,6 +1669,18 @@
         ]
     },
     {
+        "name": "Lost in the Fog",
+        "link": "in-the-fog",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "light",
+            "blue",
+            "white"
+        ]
+    },
+    {
         "name": "Moss Forest Orb",
         "link": "moss-crystal",
         "green": "green",
@@ -1652,6 +1722,17 @@
         "tags": [
             "light",
             "pink",
+            "purple"
+        ]
+    },
+    {
+        "name": "Mystical Garden",
+        "link": "mystical-garden",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
             "purple"
         ]
     },
@@ -1702,6 +1783,18 @@
         ]
     },
     {
+        "name": "Snowy Peaks",
+        "link": "snowy-peaks",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "light",
+            "white",
+            "gray"
+        ]
+    },
+    {
         "name": "Solitary Candle",
         "link": "solitary-candle",
         "green": "green",
@@ -1725,6 +1818,18 @@
         ]
     },
     {
+        "name": "Storm on the Sea",
+        "link": "storm-on-sea",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
+            "blue",
+            "green"
+        ]
+    },
+    {
         "name": "Teal Lake",
         "link": "teal-lake",
         "green": "green",
@@ -1733,6 +1838,18 @@
         "tags": [
             "dark",
             "green"
+        ]
+    },
+    {
+        "name": "Train Tracks",
+        "link": "train-tracks",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 24, 2026",
+        "tags": [
+            "dark",
+            "black",
+            "gray"
         ]
     },
     {

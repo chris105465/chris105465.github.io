@@ -338,7 +338,7 @@ function basicFormPop() {
 9. Featured lion BG: ${featuredBG}
 10. King image styling: ${kingRounded}${kingSquare}${kingCircle}
 11. HTML Boxes: ${boxStatic1}${boxStatic2}${boxStatic3}${boxHover}${boxDefault}|${pagedoll},${popUp},${plainBox}
-12. Any other specifications: ${specs}</textarea><div class="form-text" id="basicOrderDesc">Please double check that all of the fields are filled in how you like before you send this order form on the thread or in my PMs. Don't worry if there's some extra spaces between some words in the form, that's just how the code worked out lol. I won't mind that one bit, so no need to remove any extras.</div>`
+12. Any other specifications: ${specs}</textarea><div class="form-text" id="basicOrderDesc">Please double check that all of the fields are filled in how you like before you send this order form on the thread or in my PMs. Don't worry if the formatting seems strange. I made it look the way it does on purpose.</div>`
     }
 }
 
@@ -730,7 +730,7 @@ function premiumFormPop() {
 11. King image styling: ${kingRounded}${kingSquare}${kingCircle}|${kingHoverYes}${kingHoverNo}|${kingHoverRounded}${kingHoverSquare}${kingHoverCircle}
 12. HTML Boxes: ${boxStatic1}${boxStatic2}${boxStatic3}${boxHover}${boxDefault}|${pagedoll},${popUp},${plainBox}
 13. Visible Credit Removal: ${creditYes}${creditNo}
-14. Any other specifications: ${specs}</textarea><div class="form-text" id="premiumOrderDesc">Please double check that all of the fields are filled in how you like before you send this order form on the thread or in my PMs. Don't worry if there's some extra spaces between some words in the form, that's just how the code worked out lol. I won't mind that one bit, so no need to remove any extras.</div>`
+14. Any other specifications: ${specs}</textarea><div class="form-text" id="premiumOrderDesc">Please double check that all of the fields are filled in how you like before you send this order form on the thread or in my PMs. Don't worry if the formatting seems strange. I made it look the way it does on purpose.</div>`
     }
 }
 
@@ -859,7 +859,7 @@ function coderFormPop() {
 2. Background Color/Image: ${bgImage}
 3. Additional Image Source: ${unsplash}${ldbg}${noPref}
 4. HTML Boxes: ${boxStatic1}${boxStatic2}${boxStatic3}${boxHover}${boxDefault}|${pagedoll},${popUp},${plainBox}
-5. The vibe you're going for: ${vibe}</textarea><div class="form-text" id="coderOrderDesc">Please double check that all of the fields are filled in how you like before you send this order form on the thread or in my PMs. Don't worry if there's some extra spaces between some words in the form, that's just how the code worked out lol. I won't mind that one bit, so no need to remove any extras.</div>`
+5. The vibe you're going for: ${vibe}</textarea><div class="form-text" id="coderOrderDesc">Please double check that all of the fields are filled in how you like before you send this order form on the thread or in my PMs. Don't worry if the formatting seems strange. I made it look the way it does on purpose.</div>`
     }
 }
 
