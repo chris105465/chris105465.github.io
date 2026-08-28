@@ -470,6 +470,28 @@
         ]
     },
     {
+        "name": "Caracal",
+        "link": "caracal",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "light",
+            "brown"
+        ]
+    },
+    {
+        "name": "Cheetahs",
+        "link": "cheetahs",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "light",
+            "brown"
+        ]
+    },
+    {
         "name": "Chinstrap Penguin",
         "link": "chinstrap-penguin",
         "green": "green",
@@ -480,6 +502,17 @@
             "blue",
             "black",
             "gray"
+        ]
+    },
+    {
+        "name": "Clouded Leopard",
+        "link": "clouded-leopard",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "dark",
+            "brown"
         ]
     },
     {
@@ -525,6 +558,17 @@
         "tags": [
             "dark",
             "green"
+        ]
+    },
+    {
+        "name": "Eurasian Lynx",
+        "link": "eurasian-lynx",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "light",
+            "brown"
         ]
     },
     {
@@ -711,6 +755,17 @@
         ]
     },
     {
+        "name": "Pallas's Cat",
+        "link": "pallas-cat",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "dark",
+            "green"
+        ]
+    },
+    {
         "name": "Peacock",
         "link": "peacock",
         "green": "green",
@@ -728,6 +783,17 @@
         "green": "green",
         "category": "animal",
         "updated": "July 31, 2026",
+        "tags": [
+            "light",
+            "gray"
+        ]
+    },
+    {
+        "name": "Possum",
+        "link": "possum",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
         "tags": [
             "light",
             "gray"
@@ -759,6 +825,28 @@
         ]
     },
     {
+        "name": "Sea Turtle",
+        "link": "sea-turtle",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "dark",
+            "green"
+        ]
+    },
+    {
+        "name": "Serval",
+        "link": "serval",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "dark",
+            "brown"
+        ]
+    },
+    {
         "name": "Sleepy Croc",
         "link": "sleepy-croc",
         "green": "green",
@@ -767,6 +855,18 @@
         "tags": [
             "dark",
             "green"
+        ]
+    },
+    {
+        "name": "Snow Leopard",
+        "link": "snow-leopard",
+        "green": "green",
+        "category": "animal",
+        "updated": "August 28, 2026",
+        "tags": [
+            "light",
+            "brown",
+            "gray"
         ]
     },
     {
@@ -1529,6 +1629,17 @@
             "dark",
             "blue",
             "purple"
+        ]
+    },
+    {
+        "name": "Bamboo Forest",
+        "link": "bamboo",
+        "green": "green",
+        "category": "scenic",
+        "updated": "August 28, 2026",
+        "tags": [
+            "dark",
+            "green"
         ]
     },
     {
