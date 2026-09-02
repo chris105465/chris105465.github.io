@@ -182,14 +182,14 @@
         ]
     },
     {
-        "name": "Iridescent",
-        "link": "iridescent",
+        "name": "Green Velvet",
+        "link": "green-velvet",
         "green": "green",
         "category": "aesthetic",
-        "updated": "July 16, 2026",
+        "updated": "September 2, 2026",
         "tags": [
-            "light",
-            "purple"
+            "dark",
+            "green"
         ]
     },
     {
@@ -201,6 +201,30 @@
         "tags": [
             "dark",
             "green"
+        ]
+    },
+    {
+        "name": "Iridescent",
+        "link": "iridescent",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "July 16, 2026",
+        "tags": [
+            "light",
+            "purple"
+        ]
+    },
+    {
+        "name": "Lava Flow",
+        "link": "lava-flow",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "September 2, 2026",
+        "tags": [
+            "dark",
+            "black",
+            "gray",
+            "red"
         ]
     },
     {
@@ -307,6 +331,17 @@
         ]
     },
     {
+        "name": "Sheet Music",
+        "link": "sheet-music",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "September 2, 2026",
+        "tags": [
+            "light",
+            "orange"
+        ]
+    },
+    {
         "name": "Solar Eclipse",
         "link": "solar-eclipse",
         "green": "green",
@@ -399,6 +434,17 @@
         ]
     },
     {
+        "name": "Alligator Snapping Turtle",
+        "link": "alligator-snapping-turtle",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 2, 2026",
+        "tags": [
+            "dark",
+            "blue"
+        ]
+    },
+    {
         "name": "Arctic Fox",
         "link": "arctic-fox",
         "green": "green",
@@ -455,6 +501,17 @@
             "dark",
             "orange",
             "brown"
+        ]
+    },
+    {
+        "name": "Box Turtle",
+        "link": "box-turtle",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 2, 2026",
+        "tags": [
+            "light",
+            "yellow"
         ]
     },
     {
@@ -800,6 +857,18 @@
         ]
     },
     {
+        "name": "Red Eared Slider",
+        "link": "slider",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 2, 2026",
+        "tags": [
+            "light",
+            "green",
+            "yellow"
+        ]
+    },
+    {
         "name": "Red Fox",
         "link": "red-fox",
         "green": "green",
@@ -867,6 +936,17 @@
             "light",
             "brown",
             "gray"
+        ]
+    },
+    {
+        "name": "Spiny Softshell",
+        "link": "spiny-softshell",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 2, 2026",
+        "tags": [
+            "dark",
+            "green"
         ]
     },
     {
@@ -1437,6 +1517,17 @@
         ]
     },
     {
+        "name": "Latte",
+        "link": "latte",
+        "green": "green",
+        "category": "food",
+        "updated": "September 2, 2026",
+        "tags": [
+            "light",
+            "brown"
+        ]
+    },
+    {
         "name": "Macarons",
         "link": "macarons",
         "green": "green",
@@ -1792,6 +1883,17 @@
         ]
     },
     {
+        "name": "Moon and Ocean",
+        "link": "moon-and-ocean",
+        "green": "green",
+        "category": "scenic",
+        "updated": "September 2, 2026",
+        "tags": [
+            "dark",
+            "blue"
+        ]
+    },
+    {
         "name": "Moss Forest Orb",
         "link": "moss-crystal",
         "green": "green",
@@ -1845,6 +1947,17 @@
         "tags": [
             "dark",
             "purple"
+        ]
+    },
+    {
+        "name": "Pink Lightning",
+        "link": "pink-lightning",
+        "green": "green",
+        "category": "scenic",
+        "updated": "September 2, 2026",
+        "tags": [
+            "dark",
+            "pink"
         ]
     },
     {
