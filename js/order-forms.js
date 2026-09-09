@@ -565,7 +565,7 @@ function premiumFormPop() {
     }
 
     // featured lion bg
-    let featuredBG = gID('featuredBGExtravagant').value
+    let featuredBG = gID('featuredBGPremium').value
     if (featuredBG == '') {
         errors.push('Required field left blank (Featured Lion BG)')
     } else if(featuredBG.includes('unsplash')) {
