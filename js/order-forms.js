@@ -192,7 +192,7 @@ function basicFormPop() {
     }
     let prideImg = gID('prideImgBasic').value
     if (prideImg == '') {
-        prideImg = caveImg
+        prideImg = 'Default'
     } else if (prideImg.includes('images.unsplash')) {
         errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Unsorted, Nesting, and Pride Overview Image)')
     } else if (prideImg.includes('images.pexels')) {
@@ -200,7 +200,7 @@ function basicFormPop() {
     }
     let moundImg = gID('moundImgBasic').value
     if (moundImg == '') {
-        moundImg = caveImg
+        moundImg = 'Default'
     } else if (moundImg.includes('images.unsplash')) {
         errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Mounds Image)')
     } else if (moundImg.includes('images.pexels')) {
@@ -208,7 +208,7 @@ function basicFormPop() {
     }
     let dynastyImg = gID('dynastyImgBasic').value
     if (dynastyImg == '') {
-        dynastyImg = caveImg
+        dynastyImg = 'Default'
     } else if (dynastyImg.includes('images.unsplash')) {
         errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Dynasties Image)')
     } else if (dynastyImg.includes('images.pexels')) {
@@ -533,7 +533,7 @@ function premiumFormPop() {
     }
     let prideImg = gID('prideImgPremium').value
     if (prideImg == '') {
-        prideImg = caveImg
+        prideImg = 'Default'
     } else if (prideImg.includes('images.unsplash')) {
         errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Unsorted, Nesting, and Pride Overview Image)')
     } else if (prideImg.includes('images.pexels')) {
@@ -541,7 +541,7 @@ function premiumFormPop() {
     }
     let moundImg = gID('moundImgPremium').value
     if (moundImg == '') {
-        moundImg = caveImg
+        moundImg = 'Default'
     } else if (moundImg.includes('images.unsplash')) {
         errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Mounds Image)')
     } else if (moundImg.includes('images.pexels')) {
@@ -549,7 +549,7 @@ function premiumFormPop() {
     }
     let dynastyImg = gID('dynastyImgPremium').value
     if (dynastyImg == '') {
-        dynastyImg = caveImg
+        dynastyImg = 'Default'
     } else if (dynastyImg.includes('images.unsplash')) {
         errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Dynasties Image)')
     } else if (dynastyImg.includes('images.pexels')) {
@@ -942,26 +942,26 @@ function extravagantFormPop() {
     let memberPanel = gID('mPanelExtravagant').value
     if (memberPanel == '') {
         errors.push('Required field left blank (Members Panel)')
-    } else if(memberPanel.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Members Panel)')
-    } else if(memberPanel.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Members Panel)')
+    } else if (memberPanel.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Members Panel)')
+    } else if (memberPanel.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Members Panel)')
     }
     let kingPanel = gID('kPanelExtravagant').value
     if (kingPanel == '') {
-        kingPanel = memberPanel
+        kingPanel = 'Default'
     } else if(kingPanel.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (King Stats Panel)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all three panels. (King Stats Panel)')
     } else if(kingPanel.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (King Stats Panel)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all three panels. (King Stats Panel)')
     }
     let bookmarkPanel = gID('bPanelExtravagant').value
     if (bookmarkPanel == '') {
-        bookmarkPanel = memberPanel
+        bookmarkPanel = 'Default'
     } else if(bookmarkPanel.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Bookmarks Panel)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all three panels. (Bookmarks Panel)')
     } else if(bookmarkPanel.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Bookmarks Panel)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all three panels. (Bookmarks Panel)')
     }
 
     // sidebar arrows
@@ -982,154 +982,154 @@ function extravagantFormPop() {
     let tableBG = gID('tableExtravagant').value
     if (tableBG == '') {
         errors.push('Required field left blank (Player Table BG)')
-    } else if(tableBG.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Player Table BG)')
-    } else if(tableBG.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Player Table BG)')
+    } else if (tableBG.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Player Table BG)')
+    } else if (tableBG.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Player Table BG)')
     }
 
     // pride tabs section
     let unsorted = gID('unsortedExtravagant').value
     if (unsorted == '') {
         errors.push('Required field left blank (Unsorted Cave Image)')
-    } else if(unsorted.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Unsorted Cave Image)')
-    } else if(unsorted.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Unsorted Cave Image)')
+    } else if (unsorted.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Unsorted Cave Image)')
+    } else if (unsorted.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Unsorted Cave Image)')
     }
     let nesting = gID('nestingExtravagant').value
     if (nesting == '') {
-        nesting = unsorted
-    } else if(nesting.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Nesting Cave Image)')
-    } else if(nesting.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Nesting Cave Image)')
+        nesting = 'Default'
+    } else if (nesting.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Nesting Cave Image)')
+    } else if (nesting.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Nesting Cave Image)')
     }
     let overview = gID('overviewExtravagant').value
     if (overview == '') {
-        overview = unsorted
-    } else if(overview.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Pride Overview Cave Image)')
-    } else if(overview.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Pride Overview Cave Image)')
+        overview = 'Default'
+    } else if (overview.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Pride Overview Cave Image)')
+    } else if (overview.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Pride Overview Cave Image)')
     }
 
     // caves section
     let caveDefault = gID('caveDefaultExtravagant').value
     if (caveDefault == '') {
         errors.push('Required field left blank (Default Cave Image)')
-    } else if(caveDefault.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Default Cave Image)')
-    } else if(caveDefault.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Default Cave Image)')
+    } else if (caveDefault.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Default Cave Image)')
+    } else if (caveDefault.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Default Cave Image)')
     }
     let cave1 = gID('cave1Extravagant').value
     if (cave1 == '') {
-        cave1 = caveDefault
+        cave1 = 'Default'
     } else if(cave1.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Cave 1 Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Cave 1 Image)')
     } else if(cave1.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Cave 1 Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Cave 1 Image)')
     }
     let cave2 = gID('cave2Extravagant').value
     if (cave2 == '') {
-        cave2 = caveDefault
+        cave2 = 'Default'
     } else if(cave2.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Cave 2 Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Cave 2 Image)')
     } else if(cave2.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Cave 2 Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Cave 2 Image)')
     }
     let cave3 = gID('cave3Extravagant').value
     if (cave3 == '') {
-        cave3 = caveDefault
+        cave3 = 'Default'
     } else if(cave3.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Cave 3 Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Cave 3 Image)')
     } else if(cave3.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Cave 3 Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Cave 3 Image)')
     }
     let caveExtra = gID('caveExtraExtravagant').value
     if (caveExtra == '') {
         caveExtra = 'None'
     } else if(caveExtra.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name(s) of any LD BG(s). (Additional Cave Image(s))')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Additional Cave Image(s))')
     } else if(caveExtra.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name(s) of any LD BG(s). (Additional Cave Image(s))')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all caves. (Additional Cave Image(s))')
     }
 
     // mounds section
     let moundDefault = gID('moundDefaultExtravagant').value
     if (moundDefault == '') {
         errors.push('Required field left blank (Default Mound Image)')
-    } else if(moundDefault.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Default Mound Image)')
-    } else if(moundDefault.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Default Mound Image)')
+    } else if (moundDefault.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (Default Mound Image)')
+    } else if (moundDefault.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (Default Mound Image)')
     }
     let mound1 = gID('mound1Extravagant').value
     if (mound1 == '') {
-        mound1 = moundDefault
+        mound1 = 'Default'
     } else if(mound1.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Default Mound Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all mounds. (Mound 1 Image)')
     } else if(mound1.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Default Mound Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all mounds. (Mound 1 Image)')
     }
     let mound2 = gID('mound2Extravagant').value
     if (mound2 == '') {
-        mound2 = moundDefault
+        mound2 = 'Default'
     } else if(mound2.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Default Mound Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all mounds. (Mound 2 Image)')
     } else if(mound2.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Default Mound Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all mounds. (Mound 2 Image)')
     }
     let moundExtra = gID('moundExtraExtravagant').value
     if (moundExtra == '') {
         moundExtra = 'None'
     } else if(moundExtra.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name(s) of any LD BG(s). (Additional Mound Image(s))')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all mounds. (Additional Mound Image(s))')
     } else if(moundExtra.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name(s) of any LD BG(s). (Additional Mound Image(s))')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all mounds. (Additional Mound Image(s))')
     }
 
     // dynasties section
     let kingDynasty = gID('kingDynExtravagant').value
     if (kingDynasty == '') {
         errors.push('Required field left blank (King Dynasty Image)')
-    } else if(kingDynasty.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (King Dynasty Image)')
-    } else if(kingDynasty.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (King Dynasty Image)')
+    } else if (kingDynasty.includes('images.unsplash')) {
+        errors.push('Wrong Unsplash link provided. Correct link up in the address bar when looking at the download page for image. (King Dynasty Image)')
+    } else if (kingDynasty.includes('images.pexels')) {
+        errors.push('Wrong Pexels link provided. Correct link up in the address bar when looking at the download page for image. (King Dynasty Image)')
     }
     let prideDynasty = gID('prideDynExtravagant').value
     if (prideDynasty == '') {
-        prideDynasty = kingDynasty
+        prideDynasty = 'Default'
     } else if(prideDynasty.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Pride Dynasty Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Pride Dynasty Image)')
     } else if(prideDynasty.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Pride Dynasty Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Pride Dynasty Image)')
     }
     let achieveDynasty = gID('achieveDynExtravagant').value
     if (achieveDynasty == '') {
-        achieveDynasty = kingDynasty
+        achieveDynasty = 'Default'
     } else if(achieveDynasty.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Achievements Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Achievements Image)')
     } else if(achieveDynasty.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Achievements Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Achievements Image)')
     }
     let showcaseDynasty = gID('showcaseDynExtravagant').value
     if (showcaseDynasty == '') {
-        showcaseDynasty = kingDynasty
+        showcaseDynasty = 'Default'
     } else if(showcaseDynasty.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Showcase Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Showcase Image)')
     } else if(showcaseDynasty.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Showcase Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Showcase Image)')
     }
     let beetleDynasty = gID('beetleDynExtravagant').value
     if (beetleDynasty == '') {
-        beetleDynasty = kingDynasty
+        beetleDynasty = 'Default'
     } else if(beetleDynasty.includes('unsplash')) {
-        errors.push('Unsplash images not accepted in this field. Please provide the name of an LD BG. (Beetle Book Image)')
+        errors.push('Unsplash images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Beetle Book Image)')
     } else if(beetleDynasty.includes('pexels')) {
-        errors.push('Pexels images not accepted in this field. Please provide the name of an LD BG. (Beetle Book Image)')
+        errors.push('Pexels images not accepted in this field. Limited to one Unsplash/Pexels image for all dynasties. (Beetle Book Image)')
     }
 
     // featured lion bg
