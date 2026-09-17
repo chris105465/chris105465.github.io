@@ -318,6 +318,17 @@
         ]
     },
     {
+        "name": "Raindrops",
+        "link": "raindrops",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "September 17, 2026",
+        "tags": [
+            "dark",
+            "green"
+        ]
+    },
+    {
         "name": "Red Sun",
         "link": "red-sun",
         "green": "green",
@@ -339,6 +350,17 @@
         "tags": [
             "light",
             "orange"
+        ]
+    },
+    {
+        "name": "Shimmering Gold",
+        "link": "shimmering-gold",
+        "green": "green",
+        "category": "aesthetic",
+        "updated": "September 17, 2026",
+        "tags": [
+            "light",
+            "yellow"
         ]
     },
     {
@@ -721,6 +743,17 @@
         ]
     },
     {
+        "name": "Koala",
+        "link": "koala",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 17, 2026",
+        "tags": [
+            "dark",
+            "gray"
+        ]
+    },
+    {
         "name": "Komodo Dragon",
         "link": "komodo-dragon",
         "green": "green",
@@ -857,6 +890,17 @@
         ]
     },
     {
+        "name": "Raccoon",
+        "link": "raccoon",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 17, 2026",
+        "tags": [
+            "dark",
+            "gray"
+        ]
+    },
+    {
         "name": "Red Eared Slider",
         "link": "slider",
         "green": "green",
@@ -890,6 +934,18 @@
             "dark",
             "green",
             "blue",
+            "gray"
+        ]
+    },
+    {
+        "name": "Sea Birds",
+        "link": "sea-birds",
+        "green": "green",
+        "category": "animal",
+        "updated": "September 17, 2026",
+        "tags": [
+            "light",
+            "white",
             "gray"
         ]
     },
@@ -1347,6 +1403,17 @@
         ]
     },
     {
+        "name": "September - Harbinger",
+        "link": "september-harbinger",
+        "green": "green",
+        "category": "event",
+        "updated": "September 17, 2026",
+        "tags": [
+            "dark",
+            "brown"
+        ]
+    },
+    {
         "name": "September - Omens",
         "link": "september-omens",
         "green": "green",
@@ -1460,6 +1527,17 @@
         ]
     },
     {
+        "name": "Blueberries",
+        "link": "blueberries",
+        "green": "green",
+        "category": "food",
+        "updated": "September 17, 2026",
+        "tags": [
+            "dark",
+            "blue"
+        ]
+    },
+    {
         "name": "Cherries",
         "link": "cherries",
         "green": "green",
@@ -1514,6 +1592,30 @@
             "dark",
             "purple",
             "blue"
+        ]
+    },
+    {
+        "name": "Hundreds and Thousands",
+        "link": "hundreds-thousands",
+        "green": "green",
+        "category": "food",
+        "updated": "September 17, 2026",
+        "tags": [
+            "dark",
+            "purple",
+            "rainbow"
+        ]
+    },
+    {
+        "name": "Ice Cream",
+        "link": "ice-cream",
+        "green": "green",
+        "category": "food",
+        "updated": "September 17, 2026",
+        "tags": [
+            "light",
+            "pink",
+            "purple"
         ]
     },
     {
@@ -2074,6 +2176,18 @@
             "dark",
             "black",
             "gray"
+        ]
+    },
+    {
+        "name": "Tumbleweeds",
+        "link": "tumbleweeds",
+        "green": "green",
+        "category": "scenic",
+        "updated": "September 17, 2026",
+        "tags": [
+            "light",
+            "red",
+            "pink"
         ]
     },
     {
